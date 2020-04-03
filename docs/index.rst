@@ -13,6 +13,12 @@ Welcome to the ORFEUS documentation pages.
    orfeus
    eida
    
+.. toctree::
+   :maxdepth: 2
+   :caption: EIDA:
+
+   userinfo
+   technical
 
 
 Indices and tables
