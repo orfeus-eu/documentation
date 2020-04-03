@@ -25,6 +25,7 @@ EIDA is the European Integrated Data Archive infrastructure within ORFEUS to pro
    eida
    userinfo
    technical
+   federator
 
 .. toctree::
    :maxdepth: 2
