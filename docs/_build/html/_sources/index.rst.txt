@@ -10,6 +10,11 @@ Welcome to the ORFEUS documentation pages.
    :maxdepth: 2
    :caption: Contents:
 
+   overview
+   orfeus
+   eida
+   emb-etc
+   
 
 
 Indices and tables
