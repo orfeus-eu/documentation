@@ -1,5 +1,4 @@
 .. figure:: _static/orfeuslogo.jpg
-   :align: left
 
 ORFEUS public information
 ================================================
