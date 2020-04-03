@@ -1,4 +1,6 @@
 .. figure:: _static/eida-orfeus3.jpg
+   :scale: 50%
+   :align: left
 
 EIDA public information
 ================================================
