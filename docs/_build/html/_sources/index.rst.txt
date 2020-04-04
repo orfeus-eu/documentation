@@ -3,7 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the ORFEUS documentation pages.
+.. figure:: _static/orfeuslogo.jpg
+
+Welcome to the ORFEUS documentation
 ================================================
 
 ORFEUS (Observatories and Research Facilities for European Seismology) is a collaborative non-profit foundation that promotes seismology in the Euro-Mediterranean area through the collection, archival and distribution of digital seismic waveform data, metadata and derived products. 
