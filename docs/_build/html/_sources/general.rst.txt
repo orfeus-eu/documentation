@@ -9,13 +9,15 @@ Our website is: http://www.orfeus-eu.org.
 
 
 Among the goals of ORFEUS are:
-* the development and coordination of waveform data products
-* the coordination of a European data distribution system, and the support for seismic networks in archiving and exchanging digital seismic waveform data
-* the encouragement of the adoption of best practices for seismic network operation, data quality control and data management
-* the promotion of open access to seismic waveform data, products and services for the broader Earth science community.
+
+*   the development and coordination of waveform data products
+*   the coordination of a European data distribution system, and the support for seismic networks in archiving and exchanging digital seismic waveform data
+*   the encouragement of the adoption of best practices for seismic network operation, data quality control and data management
+*   the promotion of open access to seismic waveform data, products and services for the broader Earth science community.
 
 
 These goals are achieved through the development and maintenance of services targeted to a broad community of seismological data users. Two Service Management Committees (SMCs) are established within ORFEUS to manage, operate and develop):
+
 * the European Integrated waveform Data Archive (EIDA; https://www.orfeus-eu.org/data/eida/)
 * the European Strong-Motion databases (SM; https://www.orfeus-eu.org/data/strong/).
 
