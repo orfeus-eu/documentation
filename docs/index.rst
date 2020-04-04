@@ -17,7 +17,7 @@ Our website is: http://www.orfeus-eu.org.
    general
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: EIDA:
 
    eida
