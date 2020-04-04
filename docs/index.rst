@@ -25,7 +25,19 @@ Our website is: http://www.orfeus-eu.org.
    eida_intro
    eida_user_info
    eida_technical
-   federator
+   eida_routing
+
+.. toctree::
+   :maxdepth: 2
+   :caption: StationBook:
+
+   stationbook
+
+.. toctree::
+   :maxdepth: 2
+   :caption: StationBook:
+
+   strong_motion
 
 .. toctree::
    :maxdepth: 2
