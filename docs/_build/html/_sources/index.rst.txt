@@ -6,9 +6,8 @@
 Welcome to the ORFEUS documentation pages.
 ================================================
 
+ORFEUS (Observatories and Research Facilities for European Seismology; https://www.orfeus-eu.org/) is a collaborative non-profit foundation that promotes seismology in the Euro-Mediterranean area through the collection, archival and distribution of digital seismic waveform data, metadata and derived products. 
 
-ORFEUS (Observatories & Research Facilities for European Seismology) is the non-profit foundation to coordinate and promote digital, broadband seismology in the European-Mediterranean area.
-EIDA is the European Integrated Data Archive infrastructure within ORFEUS to provide access to seismic waveform data in European archives.
 
 
 .. toctree::
@@ -16,7 +15,6 @@ EIDA is the European Integrated Data Archive infrastructure within ORFEUS to pro
    :caption: ORFEUS:
 
    general
-   orfeus
    
 .. toctree::
    :maxdepth: 2
