@@ -16,10 +16,10 @@ Among the goals of ORFEUS are:
 * the promotion of open access to seismic waveform data, products and services for the broader Earth science community.
 
 
-These goals are achieved through the development and maintenance of services targeted to a broad community of seismological data users. Two Service Management Committees (SMCs) are established within ORFEUS to manage, operate and develop):
+These goals are achieved through the development and maintenance of services targeted to a broad community of seismological data users. Two Service Management Committees (SMCs) are established within ORFEUS to manage, operate and develop:
 
-* the European Integrated waveform Data Archive (EIDA; https://www.orfeus-eu.org/data/eida/)
-* the European Strong-Motion databases (SM; https://www.orfeus-eu.org/data/strong/).
+* European Integrated waveform Data Archive (EIDA; https://www.orfeus-eu.org/data/eida/)
+* European Strong-Motion databases (SM; https://www.orfeus-eu.org/data/strong/).
 
 Access to ORFEUS EIDA and SM products is ensured through standardized  web services and web interfaces to provide seamless user access to waveform data and products. 
 ORFEUS supports the use of clear data policies, licences and proper acknowledging of data providers / owners, who are part of the ORFEUS community.
