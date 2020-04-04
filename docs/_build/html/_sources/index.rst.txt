@@ -35,7 +35,7 @@ Our website is: http://www.orfeus-eu.org.
 
 .. toctree::
    :maxdepth: 2
-   :caption: StationBook:
+   :caption: StrongMotion:
 
    strong_motion
 
