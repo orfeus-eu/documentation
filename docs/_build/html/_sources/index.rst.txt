@@ -26,11 +26,6 @@ Our website is: http://www.orfeus-eu.org.
    eida_user_info
    eida_technical
    eida_routing
-
-.. toctree::
-   :maxdepth: 2
-   :caption: StationBook:
-
    stationbook
 
 .. toctree::
