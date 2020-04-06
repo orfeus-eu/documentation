@@ -1,0 +1,611 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>EIDA System configuration &mdash; ORFEUS documentation  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Technical information (ETC)" href="eida_technical.html" />
+    <link rel="prev" title="Strong Motion" href="strong_motion.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> ORFEUS documentation
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">ORFEUS:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="general.html">Inroduction</a></li>
+</ul>
+<p class="caption"><span class="caption-text">EIDA:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="eida_intro.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_user.html">User information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_eas.html">Authentication System</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_routing.html">Routing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="stationbook.html">StationBook</a></li>
+</ul>
+<p class="caption"><span class="caption-text">StrongMotion:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="strong_motion.html">Strong Motion</a></li>
+</ul>
+<p class="caption"><span class="caption-text">EIDA documentation:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">EIDA System configuration</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#general-procedure">General procedure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#seiscomp3-installation">SEISCOMP3 installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#compiling-seiscomp3-example">Compiling SEISCOMP3 (example)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#seiscomp3-configuration">SEISCOMP3 configuration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#scrttv">SCRTTV</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#scmv">SCMV</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#scqc">SCQC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#configure-fdsn-web-services-in-your-sc3">Configure FDSN web services in your SC3</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="eida_technical.html">Technical information (ETC)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_management.html">Management (EMB)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="repository.html">Developments</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">ORFEUS documentation</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>EIDA System configuration</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/installation.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="eida-system-configuration">
+<h1>EIDA System configuration<a class="headerlink" href="#eida-system-configuration" title="Permalink to this headline">¶</a></h1>
+<p>Written by Jan Michalek</p>
+<div class="line-block">
+<div class="line">General procedure</div>
+<div class="line">SEISCOMP3 installation</div>
+<div class="line">Example installation of compiled version on Ubuntu 14.04 32-bit</div>
+<div class="line">Compiling SEISCOMP3 (example)</div>
+<div class="line">SEISCOMP3 configuration</div>
+<div class="line">Enable modules</div>
+<div class="line">Networks and Stations configuration (via GUI; scconfig)</div>
+<div class="line">Bindings configuration</div>
+<div class="line">SEEDLINK profile</div>
+<div class="line">[GLOBAL profile]</div>
+<div class="line">[SCAUTOPICK profile]</div>
+<div class="line">Monitoring windows</div>
+<div class="line">(Location configuration)</div>
+<div class="line">Extracts from SC3</div>
+<div class="line">SCRTTV</div>
+<div class="line">SCMV</div>
+<div class="line">SCQC</div>
+<div class="line">ISSUE: conflict SCMV configuration with SCRTTV</div>
+<div class="line">Configure FDSN web services in your SC3</div>
+<div class="line">Excluding stations from FDSNWS</div>
+</div>
+<div class="section" id="general-procedure">
+<h2>General procedure<a class="headerlink" href="#general-procedure" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Install SeisComP3 (SC3)</div>
+<div class="line">Configure SC3</div>
+<div class="line">Enable modules</div>
+<div class="line">Import station metadata</div>
+<div class="line">Create bindings</div>
+<div class="line">SEEDLINK</div>
+<div class="line">ARCLINK</div>
+<div class="line">SLARCHIVE</div>
+<div class="line">Configure SC3 modules</div>
+<div class="line">FDSNWS module</div>
+<div class="line">ARCLINK module</div>
+<div class="line">SLARCHIVE module</div>
+<div class="line">GLOBAL module</div>
+<div class="line">Install and configure WebDC3 web interface</div>
+<div class="line">Install EIDA tools</div>
+<div class="line">WFCatalog</div>
+<div class="line">Enable WFCatalog GUI web interface</div>
+<div class="line">Routing service</div>
+</div>
+<p>SEISCOMP3</p>
+<p>It might be convenient to create a “sysop” user on the server where SC3 will be installed. Most of the manuals are describing installation into /home/sysop/ folder.</p>
+</div>
+<div class="section" id="seiscomp3-installation">
+<h2>SEISCOMP3 installation<a class="headerlink" href="#seiscomp3-installation" title="Permalink to this headline">¶</a></h2>
+<p>There are 2 options how to get SC3:</p>
+<ul class="simple">
+<li><p>Make clone from GitHub repository (requires compilation from source code; <a class="reference external" href="https://github.com/SeisComP3/seiscomp3">https://github.com/SeisComP3/seiscomp3</a>;). There are instructions for cloning and compilation in README file.</p></li>
+<li><p>Download compiled version according to your OS Follow installation instructions (<a class="reference external" href="https://www.seiscomp3.org/downloader/">https://www.seiscomp3.org/downloader/</a>).</p></li>
+</ul>
+<p><strong>License</strong></p>
+<p>Institution needs to have license files to be able to run programs in SC3. To obtain license follow instructions here: <a class="reference external" href="https://www.seiscomp3.org/license.html">https://www.seiscomp3.org/license.html</a></p>
+<p><strong>Example installation of compiled version</strong></p>
+<p>For Ubuntu 14.04 32-bit:</p>
+<div class="line-block">
+<div class="line">Download: seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz</div>
+<div class="line">Download: seiscomp3-seattle-2014.084.01-doc.tar.gz</div>
+<div class="line">Download: seiscomp3-seattle-maps.tar.gz</div>
+</div>
+<div class="line-block">
+<div class="line">In your home directory (in the example /home/sysop):</div>
+<div class="line">tar -xvfz seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz</div>
+<div class="line">tar -xvfz seiscomp3-seattle-2014.084.01-doc.tar.gz</div>
+<div class="line">tar -xvfz seiscomp3-seattle-maps.tar.gz</div>
+</div>
+<div class="line-block">
+<div class="line">Your license key files must be installed in:</div>
+<div class="line">/home/sysyop/.seiscomp3/key/</div>
+<div class="line">Files: (License,  License.key, License.signed)</div>
+</div>
+<div class="line-block">
+<div class="line">Add to your .bashrc file:</div>
+</div>
+<div class="line-block">
+<div class="line"># SEISCOMP3</div>
+<div class="line">export SEISCOMP_ROOT=/home/sysop/seiscomp3</div>
+<div class="line">export PATH=/home/sysop/seiscomp3/bin:$PATH</div>
+<div class="line">export LD_LIBRARY_PATH=/home/sysop/seiscomp3/lib:$LD_LIBRARY_PATH</div>
+<div class="line">export PYTHONPATH=/home/sysop/seiscomp3/lib/python:$PYTHONPATH</div>
+<div class="line">export MANPATH=/home/sysop/seiscomp3/share/man:$MANPATH</div>
+<div class="line">export LC_ALL=C</div>
+</div>
+<p>Open SEISCOMP3 online documentation, click Installation, and install what is listed under Install dependencies. Names of the packages can be slightly different.</p>
+</div>
+<div class="section" id="compiling-seiscomp3-example">
+<h2>Compiling SEISCOMP3 (example)<a class="headerlink" href="#compiling-seiscomp3-example" title="Permalink to this headline">¶</a></h2>
+<p>Follow instructions on GitHub: <a class="reference external" href="https://github.com/SeisComP3/seiscomp3/tree/c3597388ba0af8635a6818783cafcf493d0f0cce">https://github.com/SeisComP3/seiscomp3/tree/c3597388ba0af8635a6818783cafcf493d0f0cce</a></p>
+<p>Be sure to have all dependencies solved beforehand. For Ubuntu 16.04:</p>
+<p>sudo apt-get install libqt4-dev pkg-config python-m2crypto libncurses5-dev libncursesw5-dev libxml2-dev libboost-all-dev mysql-client libmysqlclient-dev</p>
+<ul class="simple">
+<li><p>Copy source code:</p></li>
+</ul>
+<div class="line-block">
+<div class="line">git clone <a class="reference external" href="https://github.com/SeisComP3/seiscomp3.git">https://github.com/SeisComP3/seiscomp3.git</a> sc3-src</div>
+<div class="line">cd sc3-src</div>
+<div class="line">Change to latest release, e.g.:</div>
+<div class="line">git checkout release/jakarta/2017.334.05</div>
+</div>
+<ul class="simple">
+<li><p>Configure and prepare the build:</p></li>
+</ul>
+<div class="line-block">
+<div class="line">make -f Makefile.cvs</div>
+<div class="line">“c”, “c” and “g”</div>
+<div class="line">cd build</div>
+<div class="line">make (took ca 25 min)</div>
+<div class="line">make install</div>
+</div>
+<p>DONE.</p>
+<p>If you haven’t changed path via “-DCMAKE_INSTALL_PREFIX=/path/to/install/dir” parameter then the compiled version is copied directly to ~/seiscomp3/.</p>
+</div>
+<div class="section" id="seiscomp3-configuration">
+<h2>SEISCOMP3 configuration<a class="headerlink" href="#seiscomp3-configuration" title="Permalink to this headline">¶</a></h2>
+<p>Next step is to configure SC3. Be sure you have your MySQL root password, then run following:</p>
+<p>&gt; seiscomp setup</p>
+<p>Fill in the values appropriately, or keep default values.</p>
+<div class="line-block">
+<div class="line">Agency ID []:</div>
+<div class="line">Datacenter ID []:</div>
+<div class="line">Organization string []:</div>
+<div class="line">Enable database storage [yes]:</div>
+<div class="line">0) mysql</div>
+</div>
+<ul class="simple">
+<li><p>MySQL server.</p></li>
+</ul>
+<div class="line-block">
+<div class="line">1) postgresql</div>
+</div>
+<ul class="simple">
+<li><p>Postgresql server. There is currently no support in setup to create the database for you. You have to setup the database and user accounts on your own. The database schema is installed under share/db/postgresql.sql.  Note that the database encoding should be UTF8 and that you need to set the encoding to ‘escape’ for PostgreSQL &gt;= 9, e.g. “ALTER DATABASE seiscomp3 SET bytea_output TO ‘escape’;”</p></li>
+</ul>
+<div class="line-block">
+<div class="line">Database backend [0]:</div>
+<div class="line">Create database [yes]:</div>
+<div class="line">MYSQL root password (input not echoed) []:</div>
+<div class="line">Drop existing database [no]:</div>
+<div class="line">Database name [seiscomp3]:</div>
+<div class="line">Database hostname [localhost]:</div>
+<div class="line">Database read-write user [sysop]:</div>
+<div class="line">Database read-write password [sysop]:</div>
+<div class="line">Database public hostname [localhost]:</div>
+<div class="line">Database read-only user [sysop]:</div>
+<div class="line">Database read-only password [sysop]:</div>
+</div>
+<p><strong>Finish setup</strong></p>
+<div class="line-block">
+<div class="line">P) Proceed to apply configuration</div>
+<div class="line">B) Back to last parameter</div>
+<div class="line">Q) Quit without changes</div>
+<div class="line">Command? [P]:</div>
+<div class="line">Running setup</div>
+<div class="line">* setup kernel</div>
+<div class="line">* setup scmaster</div>
+<div class="line">+ Create MYSQL database</div>
+<div class="line-block">
+<div class="line">+ Found MYSQL server version 5.5.37-0ubuntu0.14.04.1</div>
+<div class="line">+ Drop database seiscomp3</div>
+<div class="line">+ Create database seiscomp3</div>
+<div class="line">+ Setup user roles</div>
+<div class="line">+ Create tables</div>
+</div>
+<div class="line">* setup trunk</div>
+<div class="line"><a class="reference external" href="mailto:sysop&#37;&#52;&#48;home">sysop<span>&#64;</span>home</a>:~$</div>
+</div>
+<p><strong>Enable modules</strong></p>
+<div class="line-block">
+<div class="line">From command line [optional modules]:</div>
+<div class="line">seiscomp enable seedlink [scautopick scautoloc scamp scmag scevent]</div>
+</div>
+<div class="line-block">
+<div class="line">enabled seedlink</div>
+</div>
+<div class="line-block">
+<div class="line">seiscomp start</div>
+</div>
+<div class="line-block">
+<div class="line">Start the graphical configuration tool:</div>
+</div>
+<div class="line-block">
+<div class="line">seiscomp exec scconfig</div>
+</div>
+<div class="line-block">
+<div class="line">(or: scconfig)</div>
+</div>
+<p><strong>Networks and Stations configuration (via GUI; scconfig)</strong></p>
+<div class="line-block">
+<div class="line">* Go to Inventory and press Import</div>
+<div class="line">* select dslv and browse to find your SEED station response file(s)</div>
+<div class="line">* press Test sync</div>
+<div class="line">* press Sync</div>
+<div class="line">* press Sync keys</div>
+<div class="line">* save config</div>
+</div>
+<p><strong>Bindings configuration</strong></p>
+<div class="line-block">
+<div class="line">enter Bindings</div>
+<div class="line">Your network should be visible under Networks and in the window below</div>
+</div>
+<p><strong>SEEDLINK profile</strong></p>
+<ul class="simple">
+<li><p>right click on seedlink (right-upper corner of the window) and type profile name (SLINK). If you are receiving data directly from station then it is wise to use name of the station for the profile. If you are receiving data from another server (multiple stations) then use name of the server. Each seedlink connection needs to have its own binding profile.</p></li>
+<li><p>double-click on the SLINK profile</p></li>
+</ul>
+<div class="line-block">
+<div class="line">go down to sources</div>
+<div class="line">click on the ‘+’</div>
+<div class="line">give a name to the seedlink source (STA-SEEDLINK)</div>
+<div class="line">now under sources :</div>
+<div class="line">expand STA-SEEDLINK: chain</div>
+<div class="line">[open selectors and type :  HH?.D]</div>
+<div class="line">check that address and port is correct</div>
+<div class="line">do save</div>
+</div>
+<p><strong>[GLOBAL profile]</strong></p>
+<p>GLOBAL profile is needed for some other modules to be working (scrttv, scmv, …)</p>
+<div class="line-block">
+<div class="line">add global profile: GLOBAL</div>
+<div class="line">double-click on GLOBAL</div>
+<div class="line">enter HHZ on detectStream</div>
+<div class="line">do save</div>
+</div>
+<p><strong>[SCAUTOPICK profile]</strong></p>
+<div class="line-block">
+<div class="line">add scautopick profile SCAUTOPICK</div>
+<div class="line">double click on SCAUTOPICK</div>
+<div class="line">change filter to 2.0-8.0</div>
+<div class="line">do save</div>
+</div>
+<div class="line-block">
+<div class="line">Drag profiles SLINK [+ GLOBAL + SCAUTOPIC] to network on the left</div>
+</div>
+<div class="line-block">
+<div class="line">enter System</div>
+<div class="line">Update configuration</div>
+</div>
+<p><strong>Monitoring windows</strong></p>
+<p>Now open new terminal and run e.g. scrttv, scmv or scolv</p>
+<p><strong>(Location configuration)</strong></p>
+<ul class="simple">
+<li><p>check /home/sysop/seiscomp3/etc/defaults/scevent.cfg for parameters to locate an event</p></li>
+<li><p>check doc: <a class="reference external" href="file:///home/sysop/seiscomp3/share/doc/seiscomp3/html/apps/stationconf.html">file:///home/sysop/seiscomp3/share/doc/seiscomp3/html/apps/stationconf.html</a> for adding stations</p></li>
+<li><p>manual configuration can be entered via</p></li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><p>seiscomp exec stationconf</p></li>
+<li><p>seiscomp update-config</p></li>
+</ul>
+<p><strong>Extracts from SC3</strong></p>
+<div class="line-block">
+<div class="line">ALL NETWORKS,ALL CHANNELS,ALL COMPONENTS</div>
+<div class="line">scart -dsvE -t ‘2015-07-18 00:00~2015-07-18 23:00’ ~/seiscomp3/var/lib/archive &gt; sorted.mseed</div>
+<div class="line">———————————————————————————————</div>
+</div>
+<div class="line-block">
+<div class="line">NETWORKS,CHANNELS AND COMPONENTS specified in list.txt</div>
+<div class="line">scart -dsvE -l list.txt ~/seiscomp3/var/lib/archive &gt; sorted.mseed</div>
+<div class="line">list.txt:</div>
+<div class="line">2015-07-20 07:50;2015-07-20 07:58;CX.PB02.*.*</div>
+<div class="line">2015-07-20 07:50;2015-07-20 07:58;CX.PB01.*.*</div>
+<div class="line">2015-07-20 07:50;2015-07-20 07:58;CX.PB04..BHZ</div>
+<div class="line">———————————————————————————————</div>
+</div>
+<div class="line-block">
+<div class="line">Extract n minutes from eventid: gfz2015nzbb and create mseed file redable from SEISAN</div>
+<div class="line">scevtstreams -E gfz2015nzbb -d mysql://sysop:sysop&#64;localhost/seiscomp3 -L 0 -m 300 | scart -dsvE –list - ~/seiscomp3/var/lib/archive &gt; gfz2015nzbb-sorted.mseed</div>
+<div class="line">———————————————————————————————</div>
+</div>
+<div class="line-block">
+<div class="line">Extract inventory from database ( must be interpreted to find lat,lon,height, response etc</div>
+<div class="line">scxmldump -I -d  mysql://sysop:sysop&#64;localhost/seiscomp3 -o inventory.xml</div>
+</div>
+</div>
+<div class="section" id="scrttv">
+<h2>SCRTTV<a class="headerlink" href="#scrttv" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">To enable streams in scrttv:</div>
+</div>
+<div class="line-block">
+<div class="line">In scconfig GUI go to Modules -&gt; GUI -&gt; scrttv</div>
+<div class="line">modify streams -&gt; codes</div>
+<div class="line">change from “default” to * (wild card for all)</div>
+</div>
+</div>
+<div class="section" id="scmv">
+<h2>SCMV<a class="headerlink" href="#scmv" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Problem: Stations displayed but as black, i.e. no amplitude values.</div>
+</div>
+<div class="line-block">
+<div class="line">Solution: Edit global binding profile.</div>
+</div>
+<div class="line-block">
+<div class="line">detecStream: HHZ (I tried “HH” and “HH*” before but it didn’t work)</div>
+</div>
+<div class="line-block">
+<div class="line">detecLocid: 00</div>
+</div>
+<div class="line-block">
+<div class="line">Ctrl+S, Update configuration</div>
+</div>
+</div>
+<div class="section" id="scqc">
+<h2>SCQC<a class="headerlink" href="#scqc" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Module scqc must be enabled and global binding profile applied to networks. It uses the same profile configuration as by SCMV.</div>
+</div>
+<div class="line-block">
+<div class="line">EDIT: Configuration of scqc module can be modified to be independent on global binding profile:</div>
+</div>
+<div class="line-block">
+<div class="line">Uncheck scqc.useConfiguredStreams</div>
+</div>
+<p><strong>ISSUE: conflict SCMV configuration with SCRTTV</strong></p>
+<div class="line-block">
+<div class="line">Global binding profile is required by SCMV module (to see stations in colors in GUI). However setting up this profile restricts streams in SCRTTV to those streams in global binding profile (attributes: detecStream, detecLocid). Using multiple streams in global binding profile does not work (e.g. BHZ, HHZ; or ?HZ).</div>
+</div>
+<div class="line-block">
+<div class="line">Partial solution for SCRTTV: Modules -&gt; GUI -&gt; scrttv -&gt; streams: <em>.</em>.*.?H?</div>
+</div>
+<div class="line-block">
+<div class="line">Then channels become visible.</div>
+</div>
+</div>
+<div class="section" id="configure-fdsn-web-services-in-your-sc3">
+<h2>Configure FDSN web services in your SC3<a class="headerlink" href="#configure-fdsn-web-services-in-your-sc3" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Open scconfig</div>
+<div class="line">Click on the “Modules” icon and go to the “global” module.</div>
+<div class="line">Look for the “database” section and complete the following:</div>
+<div class="line">type=mysql</div>
+</div>
+<div class="line-block">
+<div class="line">parameters=sysop:<a class="reference external" href="mailto:sysop&#37;&#52;&#48;localhost/seiscomp3">sysop<span>&#64;</span>localhost/seiscomp3</a></div>
+</div>
+<div class="line-block">
+<div class="line">Press Ctrl+S to save the configuration.</div>
+<div class="line">Go to the “fdsnws” module in the tree on the left. Then, go to the “global” section and the “recordstream”</div>
+<div class="line">subsection and complete with the following:</div>
+</div>
+<div class="line-block">
+<div class="line">service=sdsarchive</div>
+</div>
+<div class="line-block">
+<div class="line">source=/home/sysop/seiscomp3/var/lib/archive</div>
+</div>
+<div class="line-block">
+<div class="line">Press Ctrl+S to save the configuration.</div>
+<div class="line">Click to the “System” icon, click on “Update configuration” and restart SeisComP3</div>
+<div class="line">Excluding stations from FDSNWS</div>
+<div class="line">done via filter file; e.g.: /home/sysop/seiscomp3/etc/fdsnws_filter.ini</div>
+<div class="line">description: <a class="reference external" href="https://www.seiscomp3.org/doc/jakarta/current/apps/fdsnws.html#filtering-the-inventory">https://www.seiscomp3.org/doc/jakarta/current/apps/fdsnws.html#filtering-the-inventory</a></div>
+<div class="line">Add path to your filter file to Modules -&gt; fdsnws -&gt; “stationFilter” and “dataSelectFilter”</div>
+<div class="line">use full-path; $SEISCOMP_ROOT/etc/fdsnws_filter.ini does not work</div>
+</div>
+<div class="line-block">
+<div class="line">Exclude rules must be defined BEFORE include rules, otherwise exclude rules are not applied</div>
+</div>
+<div class="line-block">
+<div class="line">Content of FDSNWS inventory can be checked as follows:</div>
+<div class="line">in scconfig go to Modules -&gt; fdsnws -&gt; check the “debugFilter” ON (Ctrl+S; Update configuration)</div>
+<div class="line">turn off fdsnws in System</div>
+<div class="line">from command line run: fdsnws –debug</div>
+<div class="line">as it starts it writes down all streams and whether they are included or not</div>
+<div class="line">stop fdsnws in command line (Ctrl+C)</div>
+<div class="line">disable the “debugFilter” (Ctrl+S; Update configuration)</div>
+<div class="line">Restart FDSNWS module in System</div>
+<div class="line">Make test query to FDSN:</div>
+<div class="line">curl -X GET “localhost:8080/fdsnws/station/1/query?sta=*”</div>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="eida_technical.html" class="btn btn-neutral float-right" title="Technical information (ETC)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="strong_motion.html" class="btn btn-neutral float-left" title="Strong Motion" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, ORFEUS
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

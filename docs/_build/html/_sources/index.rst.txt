@@ -38,6 +38,7 @@ Our website is: http://www.orfeus-eu.org.
    :maxdepth: 2
    :caption: EIDA documentation:
 
+   installation
    eida_technical
    eida_management
    repository
