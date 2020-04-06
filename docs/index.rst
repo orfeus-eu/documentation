@@ -23,8 +23,8 @@ Our website is: http://www.orfeus-eu.org.
    :caption: EIDA:
 
    eida_intro
-   eida_user_info
-   eida_technical
+   eida_user
+   eida_eas
    eida_routing
    stationbook
 
@@ -36,8 +36,10 @@ Our website is: http://www.orfeus-eu.org.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Developments:
+   :caption: EIDA documentation:
 
+   eida_technical
+   eida_management
    repository
 
 

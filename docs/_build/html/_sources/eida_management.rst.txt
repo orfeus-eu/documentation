@@ -1,7 +1,7 @@
 .. figure:: _static/eidalogo.jpg
 
 
-Technical information (ETC)
+Management (EMB)
 ================================================
 
 

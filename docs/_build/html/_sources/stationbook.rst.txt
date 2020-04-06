@@ -1,10 +1,10 @@
 .. figure:: _static/eidalogo.jpg
 
-EIDA, an initiative within ORFEUS, is a distributed federation of datacenters established to securely archive seismic waveform data and metadata gathered by European research infrastructures, and provide transparent access to data for the geosciences research communities. EIDA's organization and management is handled by the EIDA Management Board. The EIDA nodes are data centres that collect and archive data from seismic networks deploying broad-band sensors, short period sensors, accelerometers, infrasound sensors, and other geophysical instruments.
 
 StationBook
 ================================================
 
+The aim of the European Station Book portal is to set up a unique and reliable international registry of broadband and strong motion stations. Such a registry serves the accelerometric data community, seismological community and (earthquake) engineers. The information can range from generic informationm, e.g. coordinates, site names and a full (mathematical) description of the acquisition equipment, to site specific information like morphology velocity profiles.
 
 Please visit the StationBook: http://www.orfeus-eu.org/stationbook
 
