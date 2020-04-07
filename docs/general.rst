@@ -28,7 +28,7 @@ The products and services provided by ORFEUS are assessed and improved though th
 
 ORFEUS is one of the most advanced infrastrucures for seismology in Europe. It is the infrastructure for seismological waveform data in EPOS (European Plate Observing System) to establish sustainable and harmonized services for seismological data to the solid Earth research communites..
 
-On an international level ORFEUS participates in the International  Federation of Digital Seismograph Networks (FDSN). ORFEUS operates under the auspices of the  European Seismological Commission and cooperates closely with its sister organization in Europe, the  European-Mediterranean Seismological Centre (EMSC).
+On an international level ORFEUS participates in the International  Federation of Digital Seismograph Networks (FDSN). ORFEUS operates under the auspices of the European Seismological Commission and cooperates closely with its sister organization in Europe, the European-Mediterranean Seismological Centre (EMSC).
 
 The ORFEUS website contains general information on the ORFEUS organization and its initiatives (e.g. EIDA). A subsection of the webpage is dedicated to the ORFEUS Data Center and its specific services.
 
