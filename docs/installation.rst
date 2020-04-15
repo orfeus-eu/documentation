@@ -3,7 +3,8 @@ EIDA System configuration
 
 Written by Jan Michalek
 
-| `General procedure`_
+.. General procedure
+
 | `SEISCOMP3 installation`_
 | `Example installation of compiled version`_
 | `Compiling SEISCOMP3 (example)`_
@@ -20,38 +21,34 @@ Written by Jan Michalek
 | `SCRTTV`_
 | `SCMV`_
 | `SCQC`_
-.. ISSUE: conflict SCMV configuration with SCRTTV
-
 | `Configure FDSN web services in your SC3`_
 | `Excluding stations from FDSNWS`_
 
-General procedure
------------------
+.. General procedure
+.. -----------------
 
-| Install SeisComP3 (SC3)
-| Configure SC3
-| Enable modules
-| Import station metadata
-| Create bindings
-| SEEDLINK
-| ARCLINK
-| SLARCHIVE
-| Configure SC3 modules
-| FDSNWS module
-| ARCLINK module
-| SLARCHIVE module
-| GLOBAL module
-| Install and configure WebDC3 web interface
-| Install EIDA tools
-| WFCatalog
-| Enable WFCatalog GUI web interface
-| Routing service
+.. Install SeisComP3 (SC3)
+.. Configure SC3
+.. Enable modules
+.. Import station metadata
+.. Create bindings
+.. SEEDLINK
+.. ARCLINK
+.. SLARCHIVE
+.. Configure SC3 modules
+.. FDSNWS module
+.. ARCLINK module
+.. SLARCHIVE module
+.. GLOBAL module
+.. Install and configure WebDC3 web interface
+.. Install EIDA tools
+.. WFCatalog
+.. Enable WFCatalog GUI web interface
+.. Routing service
 
+.. SEISCOMP3
 
-
-SEISCOMP3
-
-It might be convenient to create a “sysop” user on the server where SC3 will be installed. Most of the manuals are describing installation into /home/sysop/ folder.
+It might be convenient to create a ``sysop`` user on the server where SC3 will be installed. Most of the manuals are describing installation into ``/home/sysop/`` folder.
 
 SEISCOMP3 installation
 ----------------------
@@ -76,26 +73,25 @@ For Ubuntu 14.04 32-bit:
 | Download: seiscomp3-seattle-2014.084.01-doc.tar.gz
 | Download: seiscomp3-seattle-maps.tar.gz
 
-In your home directory (in the example /home/sysop): ::
+In your home directory (in the example ``/home/sysop`): ::
 
-    tar -xvfz seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz
-    tar -xvfz seiscomp3-seattle-2014.084.01-doc.tar.gz
-    tar -xvfz seiscomp3-seattle-maps.tar.gz
+    $ tar -xvfz seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz
+    $ tar -xvfz seiscomp3-seattle-2014.084.01-doc.tar.gz
+    $ tar -xvfz seiscomp3-seattle-maps.tar.gz
 
-| Your license key files must be installed in:
-| /home/sysyop/.seiscomp3/key/
-| Files: (License,  License.key, License.signed)
+Your license key files must be installed in ``/home/sysyop/.seiscomp3/key/``
 
-| Add to your .bashrc file:
+| Files: (``License``,  ``License.key``, ``License.signed``)
 
+Add to your ``.bashrc`` file: ::
 
-| # SEISCOMP3
-| export SEISCOMP_ROOT=/home/sysop/seiscomp3
-| export PATH=/home/sysop/seiscomp3/bin:$PATH
-| export LD_LIBRARY_PATH=/home/sysop/seiscomp3/lib:$LD_LIBRARY_PATH
-| export PYTHONPATH=/home/sysop/seiscomp3/lib/python:$PYTHONPATH
-| export MANPATH=/home/sysop/seiscomp3/share/man:$MANPATH
-| export LC_ALL=C
+    # SEISCOMP3
+    export SEISCOMP_ROOT=/home/sysop/seiscomp3
+    export PATH=/home/sysop/seiscomp3/bin:$PATH
+    export LD_LIBRARY_PATH=/home/sysop/seiscomp3/lib:$LD_LIBRARY_PATH
+    export PYTHONPATH=/home/sysop/seiscomp3/lib/python:$PYTHONPATH
+    export MANPATH=/home/sysop/seiscomp3/share/man:$MANPATH
+    export LC_ALL=C
 
 Open SEISCOMP3 online documentation, click Installation, and install what is listed under Install dependencies. Names of the packages can be slightly different.
 
@@ -104,112 +100,114 @@ Compiling SEISCOMP3 (example)
 
 Follow instructions on GitHub: https://github.com/SeisComP3/seiscomp3/tree/c3597388ba0af8635a6818783cafcf493d0f0cce
 
-Be sure to have all dependencies solved beforehand. For Ubuntu 16.04:
+Be sure to have all dependencies solved beforehand. For Ubuntu 16.04: ::
 
-sudo apt-get install libqt4-dev pkg-config python-m2crypto libncurses5-dev libncursesw5-dev libxml2-dev libboost-all-dev mysql-client libmysqlclient-dev
+    $ sudo apt-get install libqt4-dev pkg-config python-m2crypto libncurses5-dev libncursesw5-dev libxml2-dev libboost-all-dev mysql-client libmysqlclient-dev
 
 
-* Copy source code:
+* Copy source code: ::
 
-| git clone https://github.com/SeisComP3/seiscomp3.git sc3-src
-| cd sc3-src
-| Change to latest release, e.g.:
-| git checkout release/jakarta/2017.334.05
+    $ git clone https://github.com/SeisComP3/seiscomp3.git sc3-src
+    $ cd sc3-src
 
-* Configure and prepare the build:
+Change to latest release, e.g.: ::
 
-| make -f Makefile.cvs
-| “c”, “c” and “g”
-| cd build
-| make (took ca 25 min)
-| make install
+    $ git checkout release/jakarta/2017.334.05
 
-DONE.
+* Configure and prepare the build: ::
 
-If you haven’t changed path via “-DCMAKE_INSTALL_PREFIX=/path/to/install/dir” parameter then the compiled version is copied directly to ~/seiscomp3/.
+    $ make -f Makefile.cvs
+    $ # Press “c”, “c” and “g”
+    $ cd build
+    # This step can take ~25 minutes
+    $ make
+    $ make install
+
+
+If you haven’t changed path via ``-DCMAKE_INSTALL_PREFIX=/path/to/install/dir`` parameter then the compiled version is copied directly to ``~/seiscomp3/``.
 
 
 SEISCOMP3 configuration
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Next step is to configure SC3. Be sure you have your MySQL root password, then run following:
+Next step is to configure SC3. Be sure you have your MySQL root password, then run following: ::
 
-> seiscomp setup
-
-
-Fill in the values appropriately, or keep default values.
+    $ seiscomp setup
 
 
-| Agency ID []:
-| Datacenter ID []:
-| Organization string []:
-| Enable database storage [yes]:
-| 0) mysql
+Fill in the values appropriately, or keep default values. ::
 
-* MySQL server.
+    Agency ID []:
+    Datacenter ID []:
+    Organization string []:
+    Enable database storage [yes]:
+    0) mysql
 
-| 1) postgresql
+    * MySQL server.
 
-*  Postgresql server. There is currently no support in setup to create the database for you. You have to setup the database and user accounts on your own. The database schema is installed under share/db/postgresql.sql.  Note that the database encoding should be UTF8 and that you need to set the encoding to 'escape' for PostgreSQL >= 9, e.g. "ALTER DATABASE seiscomp3 SET bytea_output TO 'escape';"
+    1) postgresql
 
-| Database backend [0]:
-| Create database [yes]:
-| MYSQL root password (input not echoed) []:
-| Drop existing database [no]:
-| Database name [seiscomp3]:
-| Database hostname [localhost]:
-| Database read-write user [sysop]:
-| Database read-write password [sysop]:
-| Database public hostname [localhost]:
-| Database read-only user [sysop]:
-| Database read-only password [sysop]:
+    *  Postgresql server. There is currently no support in setup to create the database for you. You have to setup the database and user accounts on your own. The database schema is installed under share/db/postgresql.sql.  Note that the database encoding should be UTF8 and that you need to set the encoding to 'escape' for PostgreSQL >= 9, e.g. "ALTER DATABASE seiscomp3 SET bytea_output TO 'escape';"
+
+    Database backend [0]:
+    Create database [yes]:
+    MYSQL root password (input not echoed) []:
+    Drop existing database [no]:
+    Database name [seiscomp3]:
+    Database hostname [localhost]:
+    Database read-write user [sysop]:
+    Database read-write password [sysop]:
+    Database public hostname [localhost]:
+    Database read-only user [sysop]:
+    Database read-only password [sysop]:
 
 Finish setup
 ~~~~~~~~~~~~
+ ::
 
-| P) Proceed to apply configuration
-| B) Back to last parameter
-| Q) Quit without changes
-| Command? [P]:
-| Running setup
-| * setup kernel
-| * setup scmaster
-| + Create MYSQL database
-|  + Found MYSQL server version 5.5.37-0ubuntu0.14.04.1
-|  + Drop database seiscomp3
-|  + Create database seiscomp3
-|  + Setup user roles
-|  + Create tables
-| * setup trunk
-| sysop@home:~$
+    P) Proceed to apply configuration
+    B) Back to last parameter
+    Q) Quit without changes
+    Command? [P]:
+    Running setup
+    * setup kernel
+    * setup scmaster
+    + Create MYSQL database
+     + Found MYSQL server version 5.5.37-0ubuntu0.14.04.1
+     + Drop database seiscomp3
+     + Create database seiscomp3
+     + Setup user roles
+     + Create tables
+    * setup trunk
+    sysop@home:~$
 
 Enable modules
 ~~~~~~~~~~~~~~
 
-| From command line [optional modules]:
-| seiscomp enable seedlink [scautopick scautoloc scamp scmag scevent]
+From command line enabled seedlink: ::
 
-| enabled seedlink
+    $ seiscomp enable seedlink [scautopick scautoloc scamp scmag scevent]
+    $ seiscomp start
 
-| seiscomp start
+Start the graphical configuration tool: ::
 
-| Start the graphical configuration tool:
+    $ seiscomp exec scconfig
 
-| seiscomp exec scconfig
+or ::
 
-| (or: scconfig)
+    $ scconfig
 
 
 Networks and Stations configuration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| * Start scconfig
-| * Go to Inventory and press Import
-| * select dslv and browse to find your SEED station response file(s)
-| * press Test sync
-| * press Sync
-| * press Sync keys
-| * save config
+* Start ``scconfig``
+* Go to "Inventory" and press "Import"
+* Select "dslv" and browse to find your SEED station response file(s)
+* Press "Test sync"
+* Press "Sync"
+* Press "Sync keys"
+* Save config
 
 
 Bindings configuration
@@ -252,7 +250,6 @@ SCAUTOPICK profile
 | change filter to 2.0-8.0
 | do save
 
-
 | Drag profiles SLINK [+ GLOBAL + SCAUTOPIC] to network on the left
 
 | enter System
@@ -269,14 +266,10 @@ Location configuration
 
 * check /home/sysop/seiscomp3/etc/defaults/scevent.cfg for parameters to locate an event
 * check doc: file:///home/sysop/seiscomp3/share/doc/seiscomp3/html/apps/stationconf.html for adding stations
-* manual configuration can be entered via
+* manual configuration can be entered via ::
 
-
-* seiscomp exec stationconf
-* seiscomp update-config
-
-
-
+    $ seiscomp exec stationconf
+    $ seiscomp update-config
 
 Extracts from SC3
 ~~~~~~~~~~~~~~~~~
@@ -334,8 +327,6 @@ SCQC
 
 | Module scqc must be enabled and global binding profile applied to networks. It uses the same profile configuration as by SCMV.
 
-
-
 | EDIT: Configuration of scqc module can be modified to be independent on global binding profile:
 
 | Uncheck scqc.useConfiguredStreams
@@ -344,8 +335,6 @@ SCQC
 
 | Global binding profile is required by SCMV module (to see stations in colors in GUI). However setting up this profile restricts streams in SCRTTV to those streams in global binding profile (attributes: detecStream, detecLocid). Using multiple streams in global binding profile does not work (e.g. BHZ, HHZ; or ?HZ).
 
-
-
 | Partial solution for SCRTTV: Modules -> GUI -> scrttv -> streams: *.*.*.?H?    
 
 | Then channels become visible.
@@ -353,20 +342,19 @@ SCQC
 Configure FDSN web services in your SC3
 ---------------------------------------
 
-| Open scconfig
+| Open ``scconfig``
 | Click on the “Modules” icon and go to the “global” module.
-| Look for the “database” section and complete the following:
-| type=mysql
+| Look for the “database” section and complete the following: ::
 
-| parameters=sysop:sysop@localhost/seiscomp3
+    type=mysql
+    parameters=sysop:sysop@localhost/seiscomp3
 
 | Press Ctrl+S to save the configuration.
 | Go to the “fdsnws” module in the tree on the left. Then, go to the “global” section and the “recordstream”
-| subsection and complete with the following:
+| subsection and complete with the following: ::
 
-| service=sdsarchive
-
-| source=/home/sysop/seiscomp3/var/lib/archive
+    service=sdsarchive
+    source=/home/sysop/seiscomp3/var/lib/archive
 
 | Press Ctrl+S to save the configuration.
 | Click to the “System” icon, click on “Update configuration” and restart SeisComP3
@@ -374,14 +362,12 @@ Configure FDSN web services in your SC3
 Excluding stations from FDSNWS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| done via filter file; e.g.: /home/sysop/seiscomp3/etc/fdsnws_filter.ini
+| done via filter file; e.g.: ``/home/sysop/seiscomp3/etc/fdsnws_filter.ini``
 | description: https://www.seiscomp3.org/doc/jakarta/current/apps/fdsnws.html#filtering-the-inventory
 | Add path to your filter file to Modules -> fdsnws -> “stationFilter” and “dataSelectFilter”
-| use full-path; \$SEISCOMP_ROOT/etc/fdsnws_filter.ini does not work
-
+| use full-path; ``$SEISCOMP_ROOT/etc/fdsnws_filter.ini`` does not work
 
 | Exclude rules must be defined BEFORE include rules, otherwise exclude rules are not applied
-
 
 | Content of FDSNWS inventory can be checked as follows:
 | in scconfig go to Modules -> fdsnws -> check the “debugFilter” ON (Ctrl+S; Update configuration)
@@ -391,5 +377,8 @@ Excluding stations from FDSNWS
 | stop fdsnws in command line (Ctrl+C)
 | disable the “debugFilter” (Ctrl+S; Update configuration)
 | Restart FDSNWS module in System
-| Make test query to FDSN:
-| curl -X GET "localhost:8080/fdsnws/station/1/query?sta=*"   
+
+Make test query to FDSN: ::
+
+    curl -X GET "localhost:8080/fdsnws/station/1/query?sta=*"
+
