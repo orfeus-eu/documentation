@@ -3,26 +3,26 @@ EIDA System configuration
 
 Written by Jan Michalek
 
-`General procedure`_
-| SEISCOMP3 installation\
-| Example installation of compiled version on Ubuntu 14.04 32-bit\
-| Compiling SEISCOMP3 (example)\
-| SEISCOMP3 configuration\
-| Enable modules\
-| Networks and Stations configuration (via GUI; scconfig)\
-| Bindings configuration\
-| SEEDLINK profile\
-| [GLOBAL profile]\
-| [SCAUTOPICK profile]\
-| Monitoring windows\
-| (Location configuration)\
-| Extracts from SC3\
-| SCRTTV\
-| SCMV\
-| SCQC\
-| ISSUE: conflict SCMV configuration with SCRTTV\
-| Configure FDSN web services in your SC3\
-| Excluding stations from FDSNWS\
+| `General procedure`_
+| `SEISCOMP3 installation`_
+| `Example installation of compiled version on Ubuntu 14.04 32-bit`_
+| `Compiling SEISCOMP3 (example)`_
+| `SEISCOMP3 configuration`_
+| `Enable modules`_
+| `Networks and Stations configuration (via GUI; scconfig)`_
+| `Bindings configuration`_
+| `SEEDLINK profile`_
+| `[GLOBAL profile]`_
+| `[SCAUTOPICK profile]`_
+| `Monitoring windows`_
+| `(Location configuration)`_
+| `Extracts from SC3`_
+| `SCRTTV`_
+| `SCMV`_
+| `SCQC`_
+| `ISSUE: conflict SCMV configuration with SCRTTV`_
+| `Configure FDSN web services in your SC3`_
+| `Excluding stations from FDSNWS`_
 
 General procedure
 -----------------
@@ -75,10 +75,11 @@ For Ubuntu 14.04 32-bit:
 | Download: seiscomp3-seattle-2014.084.01-doc.tar.gz
 | Download: seiscomp3-seattle-maps.tar.gz
 
-| In your home directory (in the example /home/sysop):
-| tar -xvfz seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz
-| tar -xvfz seiscomp3-seattle-2014.084.01-doc.tar.gz
-| tar -xvfz seiscomp3-seattle-maps.tar.gz
+In your home directory (in the example /home/sysop): ::
+
+    tar -xvfz seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz
+    tar -xvfz seiscomp3-seattle-2014.084.01-doc.tar.gz
+    tar -xvfz seiscomp3-seattle-maps.tar.gz
 
 | Your license key files must be installed in:
 | /home/sysyop/.seiscomp3/key/

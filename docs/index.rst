@@ -44,16 +44,6 @@ Our website is: http://www.orfeus-eu.org.
    eida_management
    repository
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
 Acknowledgement
 ===============
 
