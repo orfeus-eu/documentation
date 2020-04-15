@@ -8,18 +8,41 @@ EIDA, an initiative within ORFEUS, is a distributed federation of data centres e
 
 Currently EIDA comprises 12 data archives, hosted by the following institutions/organizations:
 
-* ODC/KNMI: Orfeus Data Centre / Koninklijk Nederlands Meterologisch Instituut
-* GFZ: Deutsches GFZ Potsdam
-* RESIF: Reseau Sismologique &amp; Geodesique Francais
-* ETH: Zurich Schweizerischer Erdbebendienst (SED)
-* INGV: Istituto Nazionale di Geofisica e Vulcanologia
-* INFP/NIEP: National Institute for Earth Physics
-* KOERI: Kandilli Observatory and Earthquake Research Institute
-* NOA: National Observatory of Athens
-* BGR: Bundesanstalt für Geowissenschaften und Rohstoffe
-* UiB / NORSAR: University of Bergen
-* LMU: Ludwig Maximilians Universitat München
-* ICGC: Instituto Cartográfico y Geológico de Catalunia
+ODC/KNMI
+    Orfeus Data Centre / Koninklijk Nederlands Meterologisch Instituut
+
+GFZ
+    Deutsches GFZ Potsdam
+
+RESIF
+    Reseau Sismologique &amp; Geodesique Francais
+
+ETH
+    Zurich Schweizerischer Erdbebendienst (SED)
+
+INGV
+    Istituto Nazionale di Geofisica e Vulcanologia
+
+INFP/NIEP
+    National Institute for Earth Physics
+
+KOERI
+    Kandilli Observatory and Earthquake Research Institute
+
+NOA
+    National Observatory of Athens
+
+BGR
+    Bundesanstalt für Geowissenschaften und Rohstoffe
+
+UiB / NORSAR
+    University of Bergen
+
+LMU
+    Ludwig Maximilians Universitat München
+
+ICGC
+    Instituto Cartográfico y Geológico de Catalunia
 
 Please visit the website for all public available information on EIDA: http://www.orfeus-eu.org/eida
 
