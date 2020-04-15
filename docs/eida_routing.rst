@@ -3,9 +3,6 @@
 Routing
 ================================================
 
+The Routing Service is...
 
-All information on EIDA routing:  
-https://routing.readthedocs.io/en/stable/
-
-
-
+Documentation for users and developers can be read from https://routing.readthedocs.io/

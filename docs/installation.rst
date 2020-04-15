@@ -3,7 +3,7 @@ EIDA System configuration
 
 Written by Jan Michalek
 
-| General procedure\
+`General procedure`_
 | SEISCOMP3 installation\
 | Example installation of compiled version on Ubuntu 14.04 32-bit\
 | Compiling SEISCOMP3 (example)\
