@@ -5,22 +5,23 @@ Written by Jan Michalek
 
 | `General procedure`_
 | `SEISCOMP3 installation`_
-| `Example installation of compiled version on Ubuntu 14.04 32-bit`_
+| `Example installation of compiled version`_
 | `Compiling SEISCOMP3 (example)`_
 | `SEISCOMP3 configuration`_
 | `Enable modules`_
-| `Networks and Stations configuration (via GUI; scconfig)`_
+| `Networks and Stations configuration`_
 | `Bindings configuration`_
 | `SEEDLINK profile`_
-| `[GLOBAL profile]`_
-| `[SCAUTOPICK profile]`_
+| `GLOBAL profile`_
+| `SCAUTOPICK profile`_
 | `Monitoring windows`_
-| `(Location configuration)`_
+| `Location configuration`_
 | `Extracts from SC3`_
 | `SCRTTV`_
 | `SCMV`_
 | `SCQC`_
-| `ISSUE: conflict SCMV configuration with SCRTTV`_
+.. ISSUE: conflict SCMV configuration with SCRTTV
+
 | `Configure FDSN web services in your SC3`_
 | `Excluding stations from FDSNWS`_
 
@@ -66,8 +67,8 @@ There are 2 options how to get SC3:
 Institution needs to have license files to be able to run programs in SC3. To obtain license follow instructions here: https://www.seiscomp3.org/license.html
 
 
-
-**Example installation of compiled version**
+Example installation of compiled version
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For Ubuntu 14.04 32-bit:
 
@@ -99,7 +100,7 @@ In your home directory (in the example /home/sysop): ::
 Open SEISCOMP3 online documentation, click Installation, and install what is listed under Install dependencies. Names of the packages can be slightly different.
 
 Compiling SEISCOMP3 (example)
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Follow instructions on GitHub: https://github.com/SeisComP3/seiscomp3/tree/c3597388ba0af8635a6818783cafcf493d0f0cce
 
@@ -129,7 +130,7 @@ If you haven’t changed path via “-DCMAKE_INSTALL_PREFIX=/path/to/install/dir
 
 
 SEISCOMP3 configuration
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Next step is to configure SC3. Be sure you have your MySQL root password, then run following:
 
@@ -163,7 +164,8 @@ Fill in the values appropriately, or keep default values.
 | Database read-only user [sysop]:
 | Database read-only password [sysop]:
 
-**Finish setup**
+Finish setup
+~~~~~~~~~~~~
 
 | P) Proceed to apply configuration
 | B) Back to last parameter
@@ -181,7 +183,8 @@ Fill in the values appropriately, or keep default values.
 | * setup trunk
 | sysop@home:~$
 
-**Enable modules**
+Enable modules
+~~~~~~~~~~~~~~
 
 | From command line [optional modules]:
 | seiscomp enable seedlink [scautopick scautoloc scamp scmag scevent]
@@ -197,8 +200,10 @@ Fill in the values appropriately, or keep default values.
 | (or: scconfig)
 
 
-**Networks and Stations configuration (via GUI; scconfig)**
+Networks and Stations configuration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+| * Start scconfig
 | * Go to Inventory and press Import
 | * select dslv and browse to find your SEED station response file(s)
 | * press Test sync
@@ -207,12 +212,14 @@ Fill in the values appropriately, or keep default values.
 | * save config
 
 
-**Bindings configuration**
+Bindings configuration
+~~~~~~~~~~~~~~~~~~~~~~
 
 | enter Bindings
 | Your network should be visible under Networks and in the window below
 
-**SEEDLINK profile**
+SEEDLINK profile
+~~~~~~~~~~~~~~~~
 
 * right click on seedlink (right-upper corner of the window) and type profile name (SLINK). If you are receiving data directly from station then it is wise to use name of the station for the profile. If you are receiving data from another server (multiple stations) then use name of the server. Each seedlink connection needs to have its own binding profile.
 
@@ -227,7 +234,8 @@ Fill in the values appropriately, or keep default values.
 | check that address and port is correct
 | do save
 
-**[GLOBAL profile]**
+GLOBAL profile
+~~~~~~~~~~~~~~
 
 GLOBAL profile is needed for some other modules to be working (scrttv, scmv, ...)
 
@@ -236,7 +244,8 @@ GLOBAL profile is needed for some other modules to be working (scrttv, scmv, ...
 | enter HHZ on detectStream
 | do save
 
-**[SCAUTOPICK profile]**
+SCAUTOPICK profile
+~~~~~~~~~~~~~~~~~~
 
 | add scautopick profile SCAUTOPICK
 | double click on SCAUTOPICK
@@ -249,18 +258,19 @@ GLOBAL profile is needed for some other modules to be working (scrttv, scmv, ...
 | enter System
 | Update configuration
 
-**Monitoring windows**
+Monitoring windows
+~~~~~~~~~~~~~~~~~~
 
 Now open new terminal and run e.g. scrttv, scmv or scolv
 
 
-**(Location configuration)**
+Location configuration
+~~~~~~~~~~~~~~~~~~~~~~
 
 * check /home/sysop/seiscomp3/etc/defaults/scevent.cfg for parameters to locate an event
 * check doc: file:///home/sysop/seiscomp3/share/doc/seiscomp3/html/apps/stationconf.html for adding stations
 * manual configuration can be entered via
 
-|
 
 * seiscomp exec stationconf
 * seiscomp update-config
@@ -268,39 +278,43 @@ Now open new terminal and run e.g. scrttv, scmv or scolv
 
 
 
-**Extracts from SC3**
+Extracts from SC3
+~~~~~~~~~~~~~~~~~
 
-| ALL NETWORKS,ALL CHANNELS,ALL COMPONENTS
-| scart -dsvE -t '2015-07-18 00:00~2015-07-18 23:00' ~/seiscomp3/var/lib/archive > sorted.mseed
-| ---------------------------------------------------------------------------------------------
+ALL NETWORKS,ALL CHANNELS,ALL COMPONENTS ::
 
-
-
-| NETWORKS,CHANNELS AND COMPONENTS specified in list.txt
-| scart -dsvE -l list.txt ~/seiscomp3/var/lib/archive > sorted.mseed
-| list.txt:
-| 2015-07-20 07:50;2015-07-20 07:58;CX.PB02.*.*
-| 2015-07-20 07:50;2015-07-20 07:58;CX.PB01.*.*
-| 2015-07-20 07:50;2015-07-20 07:58;CX.PB04..BHZ
-| ---------------------------------------------------------------------------------------------
+    $ scart -dsvE -t '2015-07-18 00:00~2015-07-18 23:00' ~/seiscomp3/var/lib/archive > sorted.mseed
 
 
-| Extract n minutes from eventid: gfz2015nzbb and create mseed file redable from SEISAN
-| scevtstreams -E gfz2015nzbb -d mysql://sysop:sysop@localhost/seiscomp3 -L 0 -m 300 | scart -dsvE --list - ~/seiscomp3/var/lib/archive > gfz2015nzbb-sorted.mseed
-| ---------------------------------------------------------------------------------------------
+NETWORKS,CHANNELS AND COMPONENTS specified in list.txt ::
+
+    $ scart -dsvE -l list.txt ~/seiscomp3/var/lib/archive > sorted.mseed
+
+    $ cat list.txt
+    2015-07-20 07:50;2015-07-20 07:58;CX.PB02.*.*
+    2015-07-20 07:50;2015-07-20 07:58;CX.PB01.*.*
+    2015-07-20 07:50;2015-07-20 07:58;CX.PB04..BHZ
 
 
-| Extract inventory from database ( must be interpreted to find lat,lon,height, response etc
-| scxmldump -I -d  mysql://sysop:sysop@localhost/seiscomp3 -o inventory.xml
+
+Extract n minutes from eventid: gfz2015nzbb and create mseed file redable from SEISAN ::
+
+    scevtstreams -E gfz2015nzbb -d mysql://sysop:sysop@localhost/seiscomp3 -L 0 -m 300 | scart -dsvE --list - ~/seiscomp3/var/lib/archive > gfz2015nzbb-sorted.mseed
+
+
+
+Extract inventory from database ( must be interpreted to find lat, lon, height, response etc ::
+
+    scxmldump -I -d  mysql://sysop:sysop@localhost/seiscomp3 -o inventory.xml
 
 SCRTTV
 ------
 
-| To enable streams in scrttv:
+To enable streams in scrttv:
 
-| In scconfig GUI go to Modules -> GUI -> scrttv
-| modify streams -> codes
-| change from “default” to * (wild card for all)
+* In scconfig GUI go to Modules -> GUI -> scrttv
+* modify streams -> codes
+* change from “default” to * (wild card for all)
 
 SCMV
 ----
@@ -356,7 +370,10 @@ Configure FDSN web services in your SC3
 
 | Press Ctrl+S to save the configuration.
 | Click to the “System” icon, click on “Update configuration” and restart SeisComP3
-| Excluding stations from FDSNWS
+
+Excluding stations from FDSNWS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 | done via filter file; e.g.: /home/sysop/seiscomp3/etc/fdsnws_filter.ini
 | description: https://www.seiscomp3.org/doc/jakarta/current/apps/fdsnws.html#filtering-the-inventory
 | Add path to your filter file to Modules -> fdsnws -> “stationFilter” and “dataSelectFilter”
