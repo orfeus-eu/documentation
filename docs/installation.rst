@@ -73,7 +73,7 @@ For Ubuntu 14.04 32-bit:
 | Download: seiscomp3-seattle-2014.084.01-doc.tar.gz
 | Download: seiscomp3-seattle-maps.tar.gz
 
-In your home directory (in the example ``/home/sysop`): ::
+In your home directory (in the example ``/home/sysop``): ::
 
     $ tar -xvfz seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz
     $ tar -xvfz seiscomp3-seattle-2014.084.01-doc.tar.gz
@@ -105,7 +105,7 @@ Be sure to have all dependencies solved beforehand. For Ubuntu 16.04: ::
     $ sudo apt-get install libqt4-dev pkg-config python-m2crypto libncurses5-dev libncursesw5-dev libxml2-dev libboost-all-dev mysql-client libmysqlclient-dev
 
 
-* Copy source code: ::
+Copy source code: ::
 
     $ git clone https://github.com/SeisComP3/seiscomp3.git sc3-src
     $ cd sc3-src
@@ -114,12 +114,12 @@ Change to latest release, e.g.: ::
 
     $ git checkout release/jakarta/2017.334.05
 
-* Configure and prepare the build: ::
+Configure and prepare the build: ::
 
     $ make -f Makefile.cvs
     $ # Press “c”, “c” and “g”
     $ cd build
-    # This step can take ~25 minutes
+    $ # This step can take ~25 minutes
     $ make
     $ make install
 
@@ -163,7 +163,8 @@ Fill in the values appropriately, or keep default values. ::
 
 Finish setup
 ~~~~~~~~~~~~
- ::
+
+Finally, ::
 
     P) Proceed to apply configuration
     B) Back to last parameter
