@@ -31,7 +31,7 @@ Our website is: http://www.orfeus-eu.org.
 
 .. toctree::
    :maxdepth: 2
-   :caption: StrongMotion:
+   :caption: Strong Motion:
 
    strong_motion
 
@@ -47,4 +47,4 @@ Our website is: http://www.orfeus-eu.org.
 Acknowledgement
 ===============
 
-The setup of this documentation system for ORFEUS has been made possible by the EU project SERA (www.sera-eu.org). This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No.730900
+The setup of this documentation system for ORFEUS has been made possible by the EU project SERA (http://www.sera-eu.org). This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No.730900.

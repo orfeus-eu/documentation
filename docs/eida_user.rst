@@ -2,7 +2,7 @@
 
 
 User information
-================================================
+================
 
 EIDA provides access to data through a number of services:
 
