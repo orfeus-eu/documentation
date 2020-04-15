@@ -342,22 +342,24 @@ SCQC
 Configure FDSN web services in your SC3
 ---------------------------------------
 
-| Open ``scconfig``
-| Click on the “Modules” icon and go to the “global” module.
-| Look for the “database” section and complete the following: ::
+Open ``scconfig`` ::
+
+    $ scconfig
+
+Click on the “Modules” icon and go to the “global” module.\
+Look for the “database” section and complete the following: ::
 
     type=mysql
     parameters=sysop:sysop@localhost/seiscomp3
 
-| Press Ctrl+S to save the configuration.
-| Go to the “fdsnws” module in the tree on the left. Then, go to the “global” section and the “recordstream”
-| subsection and complete with the following: ::
+Press Ctrl+S to save the configuration.\
+Go to the “fdsnws” module in the tree on the left. Then, go to the “global” section and the “recordstream” subsection and complete with the following: ::
 
     service=sdsarchive
     source=/home/sysop/seiscomp3/var/lib/archive
 
-| Press Ctrl+S to save the configuration.
-| Click to the “System” icon, click on “Update configuration” and restart SeisComP3
+Press Ctrl+S to save the configuration.\
+Click to the “System” icon, click on “Update configuration” and restart SeisComP3
 
 Excluding stations from FDSNWS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -372,10 +374,14 @@ Excluding stations from FDSNWS
 | Content of FDSNWS inventory can be checked as follows:
 | in scconfig go to Modules -> fdsnws -> check the “debugFilter” ON (Ctrl+S; Update configuration)
 | turn off fdsnws in System
-| from command line run: fdsnws --debug
-| as it starts it writes down all streams and whether they are included or not
-| stop fdsnws in command line (Ctrl+C)
-| disable the “debugFilter” (Ctrl+S; Update configuration)
+
+From command line run: ::
+
+    fdsnws --debug
+
+As this starts it writes down all streams and whether they are included or not
+| Stop fdsnws in command line (Ctrl+C)
+| Disable the “debugFilter” (Ctrl+S; Update configuration)
 | Restart FDSNWS module in System
 
 Make test query to FDSN: ::
