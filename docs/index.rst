@@ -44,6 +44,13 @@ Our website is: http://www.orfeus-eu.org.
    eida_management
    repository
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Community Services:
+   
+   SRL_Focus_Section
+   software_grants
+   
 Acknowledgement
 ===============
 
