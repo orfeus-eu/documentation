@@ -1,5 +1,5 @@
 Strong Motion
-================================================
+=============
 
 The Strong Motion Services within ORFEUS are grouped in two complimentary Strong Motion Data Portals:
 

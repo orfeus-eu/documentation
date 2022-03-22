@@ -4,7 +4,7 @@
 User information
 ================
 
-EIDA provides access to data through a number of services:
+EIDA provides access to (meta)data through a number of services:
 
 * Webinterface - Graphical Interface for waveform and metadata access:  http://www.orfeus-eu.org/webdc3/
 * Webservices - APIs for data and metadata access: http://www.orfeus-eu.org/data/eida/webservices/

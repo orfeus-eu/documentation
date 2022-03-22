@@ -2,10 +2,6 @@
 
 
 Developments
-================================================
+============
 
-
-Please visit the repository for EIDA: http://github.com/EIDA
-
-
-
+Please visit the official EIDA repository at Github: http://github.com/EIDA
