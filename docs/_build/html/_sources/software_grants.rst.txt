@@ -10,5 +10,5 @@ The recipients of the 2021 ORFEUS Software Development Grants are as follows:
 * **Peter Makus (GFZ)** - project “*Pythonic Global Lithospheric Imaging using Earthquake Recordings (PyGLImER)*”
 * **Mathijs Koymans (KNMI)** - “*Integration of Continuous Terrestrial Gravimetric Data from the NEWTON-g Gravity Imager with ORFEUS/EIDA*".
 
-Within one year of the grant start (01.06.2021), the projects will be finalised and presented to the ORFEUS community.
+Within one year of the grant start (01.06.2021) the projects will be finalised, and presented to the ORFEUS community on the earliest occasion.
 
