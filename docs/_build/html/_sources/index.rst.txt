@@ -50,6 +50,10 @@ Our website is: http://www.orfeus-eu.org.
    
    software_grants
    srl_focus_section
+
+.. toctree::
+   :maxdepth: 2
+   :caption: AdriaArray Project:
    
 Acknowledgement
 ===============
