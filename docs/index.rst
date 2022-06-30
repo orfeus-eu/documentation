@@ -49,6 +49,11 @@ Our website is: http://www.orfeus-eu.org.
    :caption: Community Services:
    
    software_grants
+   srl_focus_section
+
+.. toctree::
+   :maxdepth: 2
+   :caption: AdriaArray Project:
    
 Acknowledgement
 ===============
