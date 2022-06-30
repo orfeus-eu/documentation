@@ -1,5 +1,5 @@
 ORFEUS Software Development Grants
-================================================
+==================================
 
 ORFEUS established a Software Development Fund in 2021. 
 A Call for Applications opens every spring. Software grants are awarded for the development, consolidation, implementation of relevant software to ease the management of, access to, and processing of data and metadata integrated in the ORFEUS EIDA (European Integrated Data Archive) and Strong-Motion programs. This also includes: processing tools tailored to new quality metrics;  software libraries that can be used centrally as well as by external clients; software useful to prepare the ORFEUS infrastructure to deal with new data types and communities.
