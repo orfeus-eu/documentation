@@ -54,6 +54,8 @@ Our website is: http://www.orfeus-eu.org.
 .. toctree::
    :maxdepth: 2
    :caption: AdriaArray Project:
+
+   adria_array
    
 Acknowledgement
 ===============
