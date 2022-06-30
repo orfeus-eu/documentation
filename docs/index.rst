@@ -49,7 +49,7 @@ Our website is: http://www.orfeus-eu.org.
    :caption: Community Services:
    
    software_grants
-   SRL_Focus_Section
+   srl_focus_section
 
 .. toctree::
    :maxdepth: 2
