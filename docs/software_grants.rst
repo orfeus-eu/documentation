@@ -15,6 +15,6 @@ Within one year of the grant start (01.06.2021) the projects will be finalised, 
 The recipients of the *2022* ORFEUS Software Development Grants are as follows:
 
 * **Johannes Stampa (CAU-KIEL)** - project “*Data Availability Monitoring Tools*”
-* ** Claudia Mascandola (INGV-MI)** - project “*ESMpro*”
+* **Claudia Mascandola (INGV-MI)** - project “*ESMpro*”
 
 Within one year of the grant start (01.06.2022) the projects will be finalised, and presented to the ORFEUS community on the earliest occasion.
