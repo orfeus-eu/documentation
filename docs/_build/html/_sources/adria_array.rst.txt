@@ -10,7 +10,7 @@ scientists.
 
 AdA officially started on 19 May 2022 with the establishment of the Steering Committee for
 AdriaArray Seismology, coordinated by Prof. Thomas Meier. The Committee approved the
-`Memorandum of Collaboration`_ to be signed by the AdA members.
+'Memorandum of Collaboration'_ to be signed by the AdA members.
 
 The initial invited members of AdA and its Steering Committee are:
 
@@ -73,4 +73,4 @@ The initial invited members of AdA and its Steering Committee are:
    * - Observatories and Research Facilities for European Seismology (ORFEUS)	
      - Various    
 
-.. _Memorandum of Collaboraiton: https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp
+.. _Memorandum of Collaboration: https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp
