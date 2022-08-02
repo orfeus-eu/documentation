@@ -7,7 +7,12 @@ ORFEUS and EPOS (via the EPOS SP project) have supported the organisation of Adr
 
 * Two virtual workshops were organised in May 2021 and November 2021, focused on the establishment of the AdA seismic network and seismological component of the initiative.
 
-* A second international workshop in presently being organised in Potsdam, Germany, in October 2022: the webpage of the workshop is available here.
+* A second international workshop in presently being organised in Potsdam, Germany, on 6-7 October 2022. The participation is limited to 100 people due to capacity and safety reasons. Precedence is given to key AdA and ORFEUS community members.
+
+  * Preliminary program
+  * List of registered participants
+  
+  
 
 
 
