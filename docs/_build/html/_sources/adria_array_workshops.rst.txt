@@ -9,7 +9,7 @@ ORFEUS and EPOS (via the EPOS SP project) have supported the organisation of Adr
 
 * A second international workshop in presently being organised in Potsdam, Germany, on 6-7 October 2022. The participation is limited to 100 people due to capacity and safety reasons. Precedence is given to key AdA and ORFEUS community members.
 
-  * Preliminary program
+  * Preliminary `program <https://docs.google.com/document/d/1fIfIqpO9H6ziuqqyCkIvt5GcHPNc9ZPLStRa120I1ys/edit?usp=sharing>`_ 
   * List of registered `participants <https://docs.google.com/spreadsheets/d/10Hev8-VqDTifyRpLFH1_gHsWE3LDfKalOOMqU8n-uy0/edit?usp=sharing>`_
   
   
