@@ -56,6 +56,7 @@ Our website is: http://www.orfeus-eu.org.
    :caption: AdriaArray Project:
 
    adria_array
+   adria_array_workshops
    
 Acknowledgement
 ===============
