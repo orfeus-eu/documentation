@@ -12,7 +12,9 @@ AdA officially started on 19 May 2022 with the establishment of the Steering Com
 AdriaArray Seismology, coordinated by Prof. Thomas Meier. The Committee approved the
 `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ to be signed by the AdA members.
 
-The initial invited members of AdA and its Steering Committee are:
+The current members of the Steering Committee are:
+
+
 
 .. list-table:: 
    :widths: 50 25
@@ -28,6 +30,8 @@ The initial invited members of AdA and its Steering Committee are:
      - Austria
    * - National Institute of Geophysics, Geodesy and Geography, Bulgarian Academy of Sciences
      - Bulgaria
+   * - University of Zagreb
+     - Croatia  
    * - Charles University, Faculty of Mathematics and Physics
      - Czechia
    * - Inst. Physics of the Earth, Masaryk University	
@@ -47,6 +51,8 @@ The initial invited members of AdA and its Steering Committee are:
    * - Geophysical Laboratory, Aristotle University Thessaloniki (AUTH)	
      - Greece
    * - National Observatory of Athens	
+     - Greece
+   * - National and Kapodistrian University of Athens,
      - Greece
    * - Institute of Earth Physics and Space Science, Sopron and Budapest
      - Hungary
