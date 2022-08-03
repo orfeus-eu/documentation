@@ -30,7 +30,7 @@ The current members of the Steering Committee are:
      - Austria
    * - National Institute of Geophysics, Geodesy and Geography, Bulgarian Academy of Sciences
      - Bulgaria
-   * - University of Zagreb
+   * - University of Zagreb, Geophysical Department
      - Croatia  
    * - Charles University, Faculty of Mathematics and Physics
      - Czechia
@@ -52,7 +52,7 @@ The current members of the Steering Committee are:
      - Greece
    * - National Observatory of Athens	
      - Greece
-   * - National and Kapodistrian University of Athens,
+   * - National and Kapodistrian University of Athens, Geology and Geoenvironment
      - Greece
    * - Institute of Earth Physics and Space Science, Sopron and Budapest
      - Hungary
