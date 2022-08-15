@@ -1,0 +1,38 @@
+Dear Colleagues and Friends,
+
+thank you very much again for your enthusiastic registrations for the incoming workshop in Potsdam on 6- 7 October!
+
+With this message I would like to invite you to check the list of registered participants (ordered by surname) here:
+https://docs.google.com/spreadsheets/d/10Hev8-VqDTifyRpLFH1_gHsWE3LDfKalOOMqU8n-uy0/edit?usp=sharing
+
+Please check the spelling of your name, surname, affiliation and make corrections as needed.
+Please provide the information in columns E, F, G, H about your participation, dietary restrictions, ECS status (EGU definition at https://www.egu.eu/ecs/)
+Please highlight any changes using red text color (as in row 11).
+I am well aware that most of us were, are, or will be on vacation soon: I simply and kindly ask you to review the
+table as soon as possible to help us with the practical organisation fo the workshop. I will send regular reminders.
+
+Also, I would like to inform you that we have been actively working on the program, that is presently structured as follows.
+On day 1, we plan to have only plenary sessions (with invited talks and discussion) on the following broad topics:
+
+- ORFEUS activities and relevant EC Projects
+- AdriaArray (AdA) overview and interdisciplinary science topics
+- Seismological challenges with focus on the AdriaArray region
+- Synergies among ORFEUS / AdA / EPOS
+
+On day 2, only parallel sessions will take place, focused on AdriaArray, ORFEUS, or of common interest.
+Among the topics proposed are:
+
+- Ada: Comparing and interpreting observables with the Geophysical Model Generator
+- ORFEUS Mobile Pools
+- ORFEUS Service Demo, EIDA
+- Ada seismicity detection, location, characterisation
+- AdA Communication and Outreach
+- ORFEUS Service Demo, SM
+- Coordination of AdA working groups and collaborative research groups
+- AdA/ORFEUS Seismic Data and Metadata QC
+- Service demo: EPOS Data Portal
+
+Details (and adjustments) will follow in the coming weeks as we receive confirmations from the invited speakers and moderators.
+Keep enjoying the summertime, see you soon!
+Carlo, on behalf of the Organisers.
+
