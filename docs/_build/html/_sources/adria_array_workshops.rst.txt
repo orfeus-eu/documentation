@@ -16,7 +16,7 @@ ORFEUS and EPOS (via the EPOS SP project, Task 4.3) have supported the organisat
 
 ..
 
-  * Preliminary `program <https://docs.google.com/document/d/1fIfIqpO9H6ziuqqyCkIvt5GcHPNc9ZPLStRa120I1ys/edit?usp=sharing>`_ 
+  * Preliminary `program <https://polybox.ethz.ch/index.php/s/lAMnc1N7tZa4tGa>`_ 
   * List of registered `participants <https://docs.google.com/spreadsheets/d/10Hev8-VqDTifyRpLFH1_gHsWE3LDfKalOOMqU8n-uy0/edit?usp=sharing>`_
   
   
