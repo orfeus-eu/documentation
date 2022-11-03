@@ -1,7 +1,7 @@
-QUALITY ASSURANCE
+Quality Assurance 
 =================
 
-Preamble and the importance of Users’ feedback
+**Preamble and the importance of Users’ feedback**
 
 Quality assurance (QA) of seismological datasets is a complex topic that concerns all stages of the data cycle of observational seismology, from waveform data collection to delivery of data products and scientific results. Summarising QA procedures for the seismological data services and products coordinated by ORFEUS is further complicated by the distributed and federated structure of the European Integrated Data Archive (EIDA), where the individual EIDA nodes and the seismological observatories associated to them are primarily in charge of selecting and implementing their own data/metadata quality control procedures, yet following international best practices and standards. Therefore, this document is meant to provide a general overview of typical QA strategies across the data services and products coordinated by ORFEUS without providing details on local workflows. Note that the data services promoted by ORFEUS are described in detail in peer-reviewed publications (e.g., https://doi.org/10.1785/0220200413 & https://doi.org/10.1785/0220200398). We focus herein on permanent seismic networks and the associated data services and products (e.g., https://pubs.geoscienceworld.org/srl/issue/92/3); an overview of best practices for temporary deployments can be found at https://polybox.ethz.ch/index.php/s/EreWWnfm2gQoLdD. 
 
