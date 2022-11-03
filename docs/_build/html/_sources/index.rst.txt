@@ -18,6 +18,12 @@ Our website is: http://www.orfeus-eu.org.
    :caption: ORFEUS:
 
    general
+
+.. toctree::
+   :maxdepth: 2
+   :caption: QUALITY ASSURANCE:
+
+   overview
    
 .. toctree::
    :maxdepth: 2
