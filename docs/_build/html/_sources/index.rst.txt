@@ -18,6 +18,7 @@ Our website is: http://www.orfeus-eu.org.
    :caption: ORFEUS:
 
    general
+   governance
 
 .. toctree::
    :maxdepth: 2
