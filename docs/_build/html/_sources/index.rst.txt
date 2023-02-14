@@ -62,8 +62,12 @@ Our website is: http://www.orfeus-eu.org.
    :maxdepth: 2
    :caption: AdriaArray Initiative:
 
-   adria_array
-   adria_array_workshops
+   adria_array_main
+   adria_array_organization
+   adria_array_wg
+   adria_array_seismicnetworks
+   adria_array_comm
+   
    
 Acknowledgement
 ===============
