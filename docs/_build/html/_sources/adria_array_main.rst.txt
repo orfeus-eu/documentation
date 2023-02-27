@@ -4,9 +4,8 @@ AdriaArray
 AdriaArray - Logo
 ---------------------
 
-.. image:: https://raw.githubusercontent.com/cplegendre/AdAWeb/main/logo.png
-   :width: 200   
-   :align: center
+The logo will be discussed at the third AdriaArray international `workshop <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/AdriaArray_Dubrovnik_2.pdf>`_ in Dubrovnik, Croatia, on 3-5 April 2023.
+
    
 AdriaArray - Mission
 ---------------------
