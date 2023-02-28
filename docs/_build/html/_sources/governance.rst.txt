@@ -3,10 +3,12 @@
 Governance
 ==========
 
+.. figure:: _static/governance.png
+
 **Members of the ORFEUS Board of Directors (BoD):**
 
 * Prof. A. Kiratzi (Chair; Greece, EPPO)
-* Dr. N. Horn (Austria, ZAMG)
+* Dr. N. Horn (Austria, ZAMG / GeoSphere)
 * Dr. T. Lecocq (Belgium, ORB)
 * Dr. P. Voss (Denmark, GEUS)
 * Prof. G. Hillers (Finland, Uni. Helsinki)
