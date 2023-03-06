@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-C
+.. figure:: _static/orfeuslogo.jpg
 
 ORFEUS documentation repository
 ===============================
@@ -46,9 +46,9 @@ Our website is: http://www.orfeus-eu.org.
    :maxdepth: 2
    :caption: EIDA documentation:
 
-   installation
-   eida_technical
-   eida_management
+   .. installation
+   .. eida_technical
+   .. eida_management
    repository
 
 .. toctree::
