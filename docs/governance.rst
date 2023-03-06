@@ -5,6 +5,8 @@ Governance
 
 .. figure:: _static/governance.png
 
+The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.ch/index.php/s/ffYeMaqAaiEW6sa 
+
 **Members of the ORFEUS Board of Directors (BoD):**
 
 * Prof. A. Kiratzi (Chair; Greece, EPPO)
@@ -26,7 +28,7 @@ Governance
 * Dr. B. Baptie (United Kingdom, BGS/NERC)
 
 * Dr. R. Bossu for the EMSC (by right)
-* Prof. A. Oth for the ESC (by right)
+* Dr. A. Oth for the ESC (by right)
 * Dr. D. Storchak for the ISC (by right)
 * Dr. L. Danciu for EFEHR (by right)
 
@@ -49,7 +51,8 @@ Governance
 **Members of the EIDA SMC Management Board**
 
 * Dr. C. Evangelidis (Chair; Greece, NOA)
-* Dr. H. Pedersen (Co-Chair; France, RESIF)
+* Dr. D. Cambaz (Co-Chair, KOERI)
+* Dr. H. Pedersen (France, RESIF)
 * Dr. A. Strollo (Germany, GFZ)
 * Dr. K. Stammler (Germany, BGR)
 * Dr. P. Danecek (Italy, INGV)
@@ -57,11 +60,12 @@ Governance
 * Prof. L. Ottemöller (Norway, UiB-NORSAR)
 * Dr. A. Marmureanu (Romania, NIEP)
 * Dr. J. Clinton (Switzerland, SED@ETHZ)
-* Dr. D. Cambaz (Turkey, KOERI)
+
 
 **Members of the SM SMC Management Board**
 
-* Dr. G. Lanzano (Chair) & L. Luzi (Italy, INGV-IV & ESM)
+* Dr. J. Clinton (Co-Chair, Switzerland, SED@ETHZ-CH)
+* L. Luzi (Co-Chair, Italy, INGV-IV & ESM) & Dr. G. Lanzano - ESM
 * R. Sleeman (Netherlands, ODC-KNMI & RRSM)
 * Dr. A. Michelini & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
 * Dr. E Maufroy (France, RESIF-RA)
@@ -72,7 +76,7 @@ Governance
 * Prof. R. Rupakhety (Iceland. EERC)
 * Dr. M. Shahvar (Iran, BHRC)
 * Dr. A. Marmureanu (Romania, NIEP-RO)
-* Dr. J. Clinton (Switzerland, SED@ETHZ-CH)
+
 * Prof. E. Çaktı / Dr. D. Kalafat (Turkey, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Turkey, AFAD)
 
