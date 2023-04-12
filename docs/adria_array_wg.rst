@@ -29,7 +29,7 @@ Working Group 5
 Working Group 6
 -----------------------------
 	- Early Career Scientists
-	- Initial contact: `C. Legendre <mailto:legendre@ig.cas.cz>`_.
+	- Initial contact: `C. Estève <mailto:clement.esteve@univie.ac.at>`_.
 
 Technical documents
 -----------------------------

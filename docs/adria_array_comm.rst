@@ -3,7 +3,7 @@ AdriaArray Communication & Outreach
 
 News
 -------------------------------------
-	- Stay tuned for the second announcement of the third international workshop in Dubrovnik.
+	- `Here is the call for CRL School 2023 <https://nfo.crlab.eu/crl-school-2023>`_
 
 Relevant earthquakes in the region
 -------------------------------------
@@ -25,9 +25,10 @@ AdriaArray Workshops
 ORFEUS and EPOS (via the EPOS SP project, Task 4.3) have supported the organisation of AdriaArray (AdA) workshops since 2020.
 
 
-* A third international workshop is being organised in Dubrovnik, Croatia, on 3-5 April 2023. The participation will be limited to 110 people due to capacity and safety reasons. Precedence will be given to key AdA and ORFEUS community members.
+* A third international workshop is being organised in Dubrovnik, Croatia, on 3-5 April 2023.  The workshop was attended in person by about 110 people, including 25 EPOS SP sponsored participants.
 
-  - Second `announcement <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/AdriaArray_Dubrovnik_2.pdf>`_
+  - Second `announcement <https://raw.githubusercontent.com/cplegendre/AdAWeb/main/AdriaArray_Dubrovnik_2.pdf>`_
+  - `Programme and presentations <https://polybox.ethz.ch/index.php/s/CzhTnEGI3ZMNKVE>`_
 
 * A second international workshop was organised in Potsdam, Germany, on 6-7 October 2022. The program is available here (https://polybox.ethz.ch/index.php/s/oylgapO5vuKW9zu) and most oral and poster presentations are available here (https://polybox.ethz.ch/index.php/s/IrAUN9bplQeCPLC).  The workshop was attended in person by about 80 people (https://polybox.ethz.ch/index.php/s/sZLAY66z7nvjoRp) including 20-25 EPOS SP sponsored participants, while nearly 100 colleagues registered for online participation (https://polybox.ethz.ch/index.php/s/uhfkiaZbtdWAVa6). The workshop included an extended demo of the EPOS data portal and a round table discussion on the ongoing and future synergies among AdriaArray, EPOS & ORFEUS. The recently prepared white paper on “AdriaArray: Revealing Earth Structure, Geodynamics and Causes of Geohazards in the Central Mediterranean” was presented in the plenary session and in the parallel session on AdriaArray communication and outreach. The workshop was organised by ORFEUS with financial support from EPOS SP and local support by GFZ. The workshop was an excellent opportunity to: 
 
@@ -39,7 +40,7 @@ ORFEUS and EPOS (via the EPOS SP project, Task 4.3) have supported the organisat
 
 * The AdriaArray kick-off meeting, where the whole concept was initialized, was held on 27th and 28th May 2019 in Thessaloniki, Greece. Open questions and scientific aims of the AdriaArray initiative were presented and discussed among around 20 participants. The planning of the AdriaArray Seismic Network started right after the meeting based on contacts and cooperation established in Thessaloniki. 
 
-  - The program of the meeting can be found `here <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/Final_Program_Thessaloniki.pdf>`_.
+  - The program of the meeting can be found `here <https://raw.githubusercontent.com/cplegendre/AdAWeb/main/Final_Program_Thessaloniki.pdf>`_.
   
 .. figure:: _static/logos_workshop_2022.png
 

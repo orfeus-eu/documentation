@@ -68,7 +68,7 @@ AdriaArray - Members
    * - Istituto Nazionale di Geofisica e Vulcanologia	
      - Italy
      - Claudia Piromallo
-   * - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale
+   * - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      - Italy
      - Stefano Parolai
    * - Department of Geosciences, University of Malta	
@@ -273,7 +273,7 @@ AdriaArray - Participants
    * -  Institute of Geosciences of Albania
      -  Albania
      -  Damiano Koxhaj
-   * -  OGS
+   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      -  Italy
      -  Damiano Pesaresi 
    * -  Kövesligethy Radó Seismological Observatory, Institute of Earth Physics and Space Science, Budapest, Hungary
@@ -348,7 +348,7 @@ AdriaArray - Participants
    * -  Sofia University "St. Kliment Ohridski", Faculty of Physics
      -  Bulgaria
      -  Gergana Dimitrova Georgieva
-   * -  National Institute of Oceanography and Applied Geophysics OGS
+   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      -  Italy
      -  Giuliana Rossi
    * -  Slovenian Environment Agency (ARSO) - starting with October
@@ -609,7 +609,7 @@ AdriaArray - Participants
    * -  National and Kapodistrian University of Athens
      -  Greece
      -  Spyridon Dilalos
-   * -  OGS
+   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      -  Italy
      -  Stefano Parolai
    * -  INGV
