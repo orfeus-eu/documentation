@@ -107,13 +107,8 @@ How to access the data?
 
 EIDA Token
 ~~~~~~~~~~
-	- The seismic embargoed data will be available to the participants `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
+	- The seismic embargoed data will be available to the participants `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_ at later stage.
 	- The metadata are openly available, but accessing the embargoed waveforms requires an authentification.
-	- In order to access the AdriaArray data, you need to get an EIDA token. First, you need to `create an account <https://geofon.gfz-potsdam.de/eas/>`_.
-	- This page will bring you to the token request page, click "Request token" and you will be redirected `there <https://b2access.eudat.eu/saml-idp/saml2idp-web-entry>`_.
-	- For the first time, you need to click on top of the page "No account, sign up" in order to create a B2ACCESS user account (either with username or with a certificate, up to you, no difference here). The most important is that **you need to click "Select group:" and request to be part of EPOS**. Otherwise, I won't be able to grant you access.
-	- Then, please `let me know <mailto:legendre@ig.cas.cz>`_ which email you registered and I will add you to the EPOS/AdriaArray group. Upon my confirmation, you will be able to request a token `there <https://geofon.gfz-potsdam.de/eas/>`_.
-	- Some nodes require a manual update of the email list, and it may take a few more days to access the full database. However, with this token, you should have access to most of the AdriaArray data that are online.
 
 Retrieving the waveforms
 ~~~~~~~~~~~~~~~~~~~~~~~~
