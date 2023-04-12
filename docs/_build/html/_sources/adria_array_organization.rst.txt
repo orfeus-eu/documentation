@@ -149,7 +149,21 @@ AdriaArray - Members
    * - Seismological Network of Kosovo, Geological Survey of Kosovo
      - Kosovo
      - Shemsi Mustafa
-
+   * - University of Oulu
+     - Finland
+     - Hanna Silvennoinen
+   * - University of Helsinki
+     - Finland
+     - Timo Tiira
+   * - University of Bari Aldo Moro
+     - Italy
+     - Andrea Tallarico
+   * - Seismic Laboratory of Geosciencies Barcelona
+     - Spain
+     - Jordi Diaz
+   * - University of Twente
+     - The Netherlands
+     - Mark van der Meijde
      
 Location of the AdriaArray member institutions:
 
