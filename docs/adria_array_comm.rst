@@ -17,7 +17,7 @@ Job opportunity
 
 Publication
 -------------------------------------
-	- No current publication listed here. :-(
+	- No current publication listed here.
 
 AdriaArray Workshops
 -------------------------------------
