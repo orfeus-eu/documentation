@@ -12,12 +12,12 @@ Relevant earthquakes in the region
 
 Job opportunity
 -------------------------------------
-	- No current openings listed here.
+	- No current openings listed here. :-(
 
 
 Publication
 -------------------------------------
-	- No current publication listed here.
+	- No current publication listed here. :-(
 
 AdriaArray Workshops
 -------------------------------------
