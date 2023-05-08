@@ -37,7 +37,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 **Members of the ORFEUS Executive Committee (ExeCom):**
 
 * Prof. S. Custódio (President; Portugal, FCUL/IDL)
-* Dr. P. Kolínský (Czech Republic, UAG, IG CAS)
+* Dr. P. Kolínský (Czech Republic, UAG, IG-CAS)
 * Prof. K. Sigloch 	(France, CNRS Géoazur)
 * Dr. A. Strollo (Germany, GFZ)
 * Dr. Z. Roumelioti (Greece, University of Patras)
@@ -82,14 +82,14 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 
 **Member of the User Advisory Group (UAG)**
 
-* Dr. P. Kolínský (Chair, Czech Republic, IG CAS)
+* Dr. P. Kolínský (Chair, Czech Republic, IG-CAS)
 * Prof. S. Rondenay (Norway, UiB)
 * Dr. D. Bindi (Germany, GFZ)
-* Dr. L. Vecsey (Czach Republic, IG-CAS)
+* Dr. L. Vecsey (Czech Republic, IG-CAS)
 * Dr. A. Schlömer (Germany, LMU)
-* Dr. Valerio Poggi (Italy, OGS)
-* Dr. Davor Stanko (Croatia, Uni. Zagreb)
-* Mr. Felix Eckel (Germany, Uni. Kiel)
+* Dr. V. Poggi (Italy, OGS)
+* Dr. D. Stanko (Croatia, Uni. Zagreb)
+* Mr. F. Eckel (Germany, Uni. Kiel)
 
 **Members of the Infrastructure Development Group (IDG) – EIDA component**
 
