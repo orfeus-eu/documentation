@@ -73,7 +73,7 @@ AdriaArray - Members
      - Claudia Piromallo
    * - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      - Italy
-     - Stefano Parolai
+     - Giuliana Rossi
    * - Department of Geosciences, University of Malta	
      - Malta
      - Matthew Agius
