@@ -20,7 +20,7 @@ AdriaArray - Members
    * - Department of  Seismology, Institute of Geosciences, Polytechnic University of Tirana
      - Albania
      - Anila Xhahysa
-   * - Zentralanstalt für Meteorologie und Geodynamik
+   * - GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
      - Austria
      - Yan Jia
    * - Department of Meteorology and Geophysics, University of Vienna
@@ -530,7 +530,7 @@ AdriaArray - Participants
    * -  Ruhr-University Bochum
      -  Germany
      -  Marcel Paffrath
-   * -  ZAMG
+   * -  GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
      -  Austria
      -  Maria-Theresia Apoloner
    * -  Croatian Seismological Survey, Department of Geophysics, Faculty of Science, University of Zagreb
@@ -734,7 +734,7 @@ AdriaArray - Participants
    * -  GFZ Potsdam
      -  Germany
      -  Xiaohui Yuan
-   * -  ZAMG
+   * -  GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
      -  Austria
      -  Yan Jia
    * -  University of Vienna
