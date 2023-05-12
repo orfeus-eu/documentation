@@ -323,7 +323,7 @@ AdriaArray - Participants
    * -  Institute of Geosciences, Seismology Departament
      -  Albania
      -  Dionald Mucaj
-   * -  Union of Chambers of Turkish Engineers and Architects (TMMOB), Chamber of Geophysical Engineers. American Geophysical Union (AGU), European Geophysical Union (EGU), Member of the Japan Geoscience Union (JGU).
+   * -  B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
      -  Türkiye
      -  Doğan Kalafat
    * -  Seismological Observatory, Faculty of Natural Sciences and Mathematics, St. Cyril and Methodius University in Skopje
