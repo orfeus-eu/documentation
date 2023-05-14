@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AdriaArray - Data analysis and research &mdash; ORFEUS documentation  documentation</title><link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="AdriaArray - Seismic networks" href="adria_array_seismicnetworks.html" />
+    <link rel="prev" title="AdriaArray - Working Groups" href="adria_array_wg.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> ORFEUS documentation
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption"><span class="caption-text">ORFEUS:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="general.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="governance.html">Governance</a></li>
+</ul>
+<p class="caption"><span class="caption-text">QUALITY ASSURANCE:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="overview.html">Quality Assurance</a></li>
+</ul>
+<p class="caption"><span class="caption-text">EIDA:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="eida_intro.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_user.html">User information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_eas.html">Authentication System</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eida_routing.html">Routing Service</a></li>
+<li class="toctree-l1"><a class="reference internal" href="stationbook.html">StationBook</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Strong Motion:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="strong_motion.html">Strong Motion</a></li>
+</ul>
+<p class="caption"><span class="caption-text">EIDA documentation:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="repository.html">Developments</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Community Services:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="software_grants.html">ORFEUS Software Development Grants</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SRL_Focus_Section.html">Focus Section on European Seismic Networks and Associated Services and Products</a></li>
+</ul>
+<p class="caption"><span class="caption-text">AdriaArray Initiative:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="adria_array_main.html">AdriaArray</a></li>
+<li class="toctree-l1"><a class="reference internal" href="adria_array_organization.html">AdriaArray - Organization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="adria_array_wg.html">AdriaArray - Working Groups</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">AdriaArray - Data analysis and research</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#collaborative-research-groups-crgs">Collaborative Research Groups (CRGs)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#seismicity">Seismicity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#body-wave-tomography">Body wave tomography</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#body-wave-traveltimes">Body wave traveltimes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#modeling-body-wave-propagation">Modeling body wave propagation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#synthetic-resolution-tests-of-body-wave-tomography">Synthetic resolution tests of body wave tomography</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#receiver-functions">Receiver functions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ambient-noise-and-surface-wave-tomography">Ambient noise and surface wave tomography</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#compilation-of-joined-database-for-the-computation-of-ambient-noise-cross-correlation-functions">Compilation of joined database for the computation of ambient noise cross-correlation functions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#surface-wave-phase-and-amplitude-measurements-ambient-noise-and-earthquake-data-testing-of-methods-training-set-up-data-bases">Surface wave phase and amplitude measurements (ambient noise and earthquake data): testing of methods, training, set up data bases</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#inversion-of-surface-wave-phase-velocities-benchmarking-of-methods-training-methodical-developments">Inversion of surface wave phase velocities: benchmarking of methods, training, methodical developments</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#body-waves-from-ambient-noise">Body waves from ambient noise</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#ambient-noise-sources-natural-and-anthropogenic-sources-imaging-environmental-seismology">Ambient Noise Sources (natural and anthropogenic sources, imaging, environmental seismology)</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#waveform-tomography">Waveform tomography</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#measuring-shear-wave-splitting">Measuring shear wave splitting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#engineering-seismology">Engineering Seismology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#linking-geophysical-observations-and-geodynamics">Linking geophysical observations and geodynamics</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#slab-hypotheses-for-the-adriatic-and-subregions-creating-input-models-for-seismic-resolution-tests-and-geodynamic-modelling">Slab hypotheses for the Adriatic and subregions - creating input models for seismic resolution tests and geodynamic modelling</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#thermomechanical-modelling-of-seismic-anomalies">Thermomechanical modelling of seismic anomalies</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="adria_array_seismicnetworks.html">AdriaArray - Seismic networks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="adria_array_comm.html">AdriaArray Communication &amp; Outreach</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">ORFEUS documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>AdriaArray - Data analysis and research</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/adria_array_crg.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="adriaarray-data-analysis-and-research">
+<h1>AdriaArray - Data analysis and research<a class="headerlink" href="#adriaarray-data-analysis-and-research" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="collaborative-research-groups-crgs">
+<h2>Collaborative Research Groups (CRGs)<a class="headerlink" href="#collaborative-research-groups-crgs" title="Permalink to this headline">¶</a></h2>
+<p>According to the <a class="reference external" href="https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp">Memorandum of Collaboration (MoC)</a>, the scientific work is accomplished by so-called Collaborative Research Groups (CRGs).</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>CRGs are suggested by participants,</p></li>
+<li><p>CRGs work independently,</p></li>
+<li><p>Themes of CRGs are discussed and agreed upon by the AdASG Steering Committee,</p></li>
+<li><p>CRGs report on activities at AdASG Workshops,</p></li>
+<li><p>CRGs must consist of researchers from at least two AdASG members and from different countries,</p></li>
+<li><p>Participants may join one or several CRGs,</p></li>
+<li><p>If possible, the individual CRGs are coordinated by an experienced researcher and an early career scientist,</p></li>
+<li><p>Participants in CRGs may change any time upon notice to the coordinators of the CRGs.</p></li>
+</ul>
+</div></blockquote>
+<p><a class="reference internal" href="adria_array_wg.html#working-group-5"><span class="std std-ref">Working Group 5</span></a> of the AdASG entitled ‘Scientific co-operation’ will coordinate and support the establishment of CRGs.
+First suggestions of the CRGs have been proposed during the <a class="reference external" href="https://polybox.ethz.ch/index.php/s/oylgapO5vuKW9zu">second international workshop in Potsdam</a>, <a class="reference external" href="https://raw.githubusercontent.com/cplegendre/AdAWeb/main/AdriaArray_Dubrovnik_2.pdf">third international workshop in Dubrovnik</a> &amp; <a class="reference external" href="https://meetingorganizer.copernicus.org/EGU23/session/47742">EGU 2023 AdriaArray Splinter meeting</a>.</p>
+<p>Now, AdriaArray participants are invited to contact the initial contacts of CRGs (given below) to join one or several Collaborative Research Groups.
+Initial contacts will organize the reviews of the topic, the elections of chairs and co-chairs, and maintain a list of interested participants.</p>
+<p>Initial contacts will also report the outcome of these discussions to <a class="reference internal" href="adria_array_wg.html#working-group-5"><span class="std std-ref">Working Group 5</span></a> of the AdASG.
+Suggestions of CRGs will be reviewed by <a class="reference internal" href="adria_array_wg.html#working-group-5"><span class="std std-ref">Working Group 5</span></a> before presentation to and approval by the Steering Committee.</p>
+<p>In the following we summarize the discussion on potential topics of CRGs.</p>
+</div>
+<div class="section" id="seismicity">
+<h2>Seismicity<a class="headerlink" href="#seismicity" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:tilmann&#37;&#52;&#48;gfz-potsdam&#46;de">F<span>&#46;</span> Tilmann</a></p></li>
+<li><p>Main topics are Event detection &amp; location, determination of source mechanisms as well as statistic analysis and seismotectonics.</p></li>
+</ul>
+<dl class="simple">
+<dt>First subgroups and contacts:</dt><dd><ol class="arabic simple">
+<li><p>Survey of monitoring practices at national agencies: <a class="reference external" href="mailto:tilmann&#37;&#52;&#48;gfz-potsdam&#46;de">F<span>&#46;</span> Tilmann</a>, <a class="reference external" href="mailto:grossi&#37;&#52;&#48;ogs&#46;it">G<span>&#46;</span> Rossi</a> &amp; <a class="reference external" href="mailto:zroumelioti&#37;&#52;&#48;upatras&#46;gr">Z<span>&#46;</span> Roumeloti</a>.</p></li>
+<li><p>Parametric data exchange with EMSC, station naming and reporting:  <a class="reference external" href="mailto:kpapaza&#37;&#52;&#48;geo&#46;auth&#46;gr">C<span>&#46;</span> Papazachos</a> &amp; <a class="reference external" href="mailto:cevan&#37;&#52;&#48;noa&#46;gr">C<span>&#46;</span> Evangelidis</a>.</p></li>
+<li><p>Machine learning for seismicity detection and location &amp; crowd processing:  <a class="reference external" href="mailto:dinko&#46;sindija&#37;&#52;&#48;gfz&#46;hr">D Sindija</a> &amp; <a class="reference external" href="mailto:tilmann&#37;&#52;&#48;gfz-potsdam&#46;de">F<span>&#46;</span> Tilmann</a>.</p></li>
+<li><p>Moment tensors: <a class="reference external" href="mailto:gesap&#37;&#52;&#48;gfz-potsdam&#46;de">G<span>&#46;</span> Petersen</a> &amp; <a class="reference external" href="mailto:esokos&#37;&#52;&#48;upatras&#46;gr">E<span>&#46;</span> Sokos</a>. The AdriaArray Seismic Network produced a huge increase in available real time data for source studies. The moment tensor subgroup aims in the use of this data, in real time moment tensor retrieval applications, as well as in detailed source studies of moderate and large events in the area.</p></li>
+</ol>
+</dd>
+</dl>
+</div></blockquote>
+</div>
+<div class="section" id="body-wave-tomography">
+<h2>Body wave tomography<a class="headerlink" href="#body-wave-tomography" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="body-wave-traveltimes">
+<h3>Body wave traveltimes<a class="headerlink" href="#body-wave-traveltimes" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contacts: <a class="reference external" href="mailto:pasquale&#46;degori&#37;&#52;&#48;ingv&#46;it">P<span>&#46;</span> De Gori</a>, <a class="reference external" href="mailto:claudia&#46;piromallo&#37;&#52;&#48;ingv&#46;it">C<span>&#46;</span> Piromallo</a>.</p></li>
+<li><p>The large station array and huge high-quality data stream, produced earlier by the AlpArray and now by AdriaArray Seismic Networks, provide a rich and unique dataset for body wave tomography studies. To optimize the exploitation of the size and quality of these dataset we need to employ semi- or fully automated picking procedures able to reproduce in the best way the careful, handy re-picked tasks of the experienced seismologists.</p></li>
+<li><dl class="simple">
+<dt>This activity could include:</dt><dd><ol class="arabic simple">
+<li><p>surveying and benchmarking of the existing automated picking tools for regional and teleseismic phases;</p></li>
+<li><p>surveying, checking the consistency and sharing the available carefully picked datasets that can be used for comparison and/or learning phases with automated picking procedures;</p></li>
+<li><p>comparing picks for a number (to be decided) of selected earthquakes at all AdriaArray stations;</p></li>
+<li><p>optimizing automatic picking algorithms and possibly providing training and application on the use of software tools;</p></li>
+<li><p>creating a common dataset for a AdA sub region to compare different picking and different inversion codes (as requested by point 3 below).</p></li>
+</ol>
+</dd>
+</dl>
+</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="modeling-body-wave-propagation">
+<h3>Modeling body wave propagation<a class="headerlink" href="#modeling-body-wave-propagation" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:Henk&#46;Keers&#37;&#52;&#48;uib&#46;no">H<span>&#46;</span> Keers</a></p></li>
+<li><p>The main goal of the CRG on Modeling body wave propagation is to systematically compare the various seismic modeling methods that are used, or have the potential to be used, in regional seismology. Related subgoals are to build suitable velocity models for these modeling methods (using existing tomographic models and/or input from the geodynamic CRG), the observations and modeling of various seismic phases (travel times, waveforms, splitting parameters) and the use of these modeling methods in the computation of sensitivity functions and inversions.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="synthetic-resolution-tests-of-body-wave-tomography">
+<h3>Synthetic resolution tests of body wave tomography<a class="headerlink" href="#synthetic-resolution-tests-of-body-wave-tomography" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:clement&#46;esteve&#37;&#52;&#48;univie&#46;ac&#46;at">C<span>&#46;</span> Estève</a>.</p></li>
+<li><p>We propose to investigate the crust and upper mantle velocity structure underlying the AdriaArray seismic network. In order to achieve this, we need to test different parametrizations and approaches for a subset of the AdriaArray dataset through the extensive use of synthetic resolution tests (spike test, checkerboard test, structural test,…).</p></li>
+</ul>
+</div></blockquote>
+</div>
+</div>
+<div class="section" id="receiver-functions">
+<h2>Receiver functions<a class="headerlink" href="#receiver-functions" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contacts: <a class="reference external" href="mailto:ggeorgieva&#37;&#52;&#48;phys&#46;uni-sofia&#46;bg">G<span>&#46;</span> Georgieva</a>,  <a class="reference external" href="mailto:rondenay&#37;&#52;&#48;uib&#46;no">S<span>&#46;</span> Rondenay</a> &amp; <a class="reference external" href="mailto:jstipcevic&#46;geof&#37;&#52;&#48;pmf&#46;hr">J<span>&#46;</span> Stipčević</a>.</p></li>
+<li><p>This CRG will provide support to AdriaArray members who work on receiver function studies as well as those who want to use receiver function results in their research. In terms of methodologies, the CRG will provide access to harmonized receiver function analysis tools and training on how to use these. It will also serve as a platform to share software and tips on data analysis, and to carry out community-based benchmarking tests. In terms of imaging targets, the CRG will help coordinate efforts to avoid potential overlaps and foster collaborations. At the end of the project, the CRG will produce a harmonized set of receiver function products for the entire AdriaArray network.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="ambient-noise-and-surface-wave-tomography">
+<h2>Ambient noise and surface wave tomography<a class="headerlink" href="#ambient-noise-and-surface-wave-tomography" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="compilation-of-joined-database-for-the-computation-of-ambient-noise-cross-correlation-functions">
+<h3>Compilation of joined database for the computation of ambient noise cross-correlation functions<a class="headerlink" href="#compilation-of-joined-database-for-the-computation-of-ambient-noise-cross-correlation-functions" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:anne&#46;obermann&#37;&#52;&#48;sed&#46;ethz&#46;ch">A<span>&#46;</span> Obermann</a>.</p></li>
+<li><p>In a joined effort, we will deconvolve and downsample the continuous seismic data from the various subnetworks participating in AdriaArray. This data (around 3-4 TB) will be made available to anybody interested in computing cross-correlation functions for various purposes from mapping ambient noise sources to tomography or time lapse monitoring.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="surface-wave-phase-and-amplitude-measurements-ambient-noise-and-earthquake-data-testing-of-methods-training-set-up-data-bases">
+<h3>Surface wave phase and amplitude measurements (ambient noise and earthquake data): testing of methods, training, set up data bases<a class="headerlink" href="#surface-wave-phase-and-amplitude-measurements-ambient-noise-and-earthquake-data-testing-of-methods-training-set-up-data-bases" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:amandine&#46;sergeant&#37;&#52;&#48;get&#46;omp&#46;eu">A<span>&#46;</span> Sergeant</a>.</p></li>
+<li><p>This CRG aims at gathering multiple methodologies to construct phase and amplitude maps from different surface wave measurements (earthquakes, ambiant noise, cross-correlation studies). The goal is to create a dataset of surface wave traveltimes and amplitudes to be used for computing isotropic and anisotropic maps of Rayleigh/Love phase velocity with classical surface wave tomography or Eikonal/Helmoltz tomography approaches.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="inversion-of-surface-wave-phase-velocities-benchmarking-of-methods-training-methodical-developments">
+<h3>Inversion of surface wave phase velocities: benchmarking of methods, training, methodical developments<a class="headerlink" href="#inversion-of-surface-wave-phase-velocities-benchmarking-of-methods-training-methodical-developments" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:emanuel&#46;kaestle&#37;&#52;&#48;fu-berlin&#46;de">E<span>&#46;</span> Kästle</a>.</p></li>
+<li><p>This group provides a platform to exchange, compare and discuss different methods that are used to go from measured surface wave phase (or group) velocities to tomographic models. This includes linearized inversion methods, Bayesian approaches, Eikonal/Helmholtz tomography, 2D phase velocity map inversions or direct 3D approaches, radial and azimuthal anisotropy and many others. We want to collaborate closely with the other surface wave groups to exchange on data availability and quality and groups using other types of measurements (bodywaves, receiver functions, etc.) for joint inversion approaches. Everyone is welcome to actively or passively follow the group’s activities.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="body-waves-from-ambient-noise">
+<h3>Body waves from ambient noise<a class="headerlink" href="#body-waves-from-ambient-noise" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:yang&#46;lu&#37;&#52;&#48;univie&#46;ac&#46;at">Y<span>&#46;</span> Lu</a>.</p></li>
+<li><p>Recent advancements in passive noise interferometry have shown promising results in the retrieval of body waves from noise correlations. This primarily includes various body-wave reflection phases generated by dominant subsurface discontinuities, such as the Basin sediment/bedrock interface, the Moho interface, and the 410-km and 660-km mantle transition zone interfaces. The information that provided is particularly valuable for determining the depth undulations of subsurface discontinuities and can be seamlessly integrated into seismic tomography for a more comprehensive understanding of the deep earth structure. Given its remarkable data quality and data coverage, the AdriaArray seismic network presents an ideal setting for the implementation and development of such cutting-edge seismic techniques.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="ambient-noise-sources-natural-and-anthropogenic-sources-imaging-environmental-seismology">
+<h3>Ambient Noise Sources (natural and anthropogenic sources, imaging, environmental seismology)<a class="headerlink" href="#ambient-noise-sources-natural-and-anthropogenic-sources-imaging-environmental-seismology" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contacts: <a class="reference external" href="mailto:richard&#46;Kramer&#37;&#52;&#48;univie&#46;ac&#46;at">R<span>&#46;</span> Kramer</a>, <a class="reference external" href="mailto:lars&#46;wiesenberg&#37;&#52;&#48;ifg&#46;uni-kiel&#46;de">L<span>&#46;</span> Wiesenberg</a>.</p></li>
+<li><p>The primary goal of this CRG is to provide information and support to AdriaArray community members who are interested in ambient noise sources and applications for studying the subsurface and its ongoing processes. Identifying and classifying the predominant anthropogenic and natural noise sources and their temporal/seasonal variations will be an essential task. We also want to monitor and image subsurface processes using the ambient noise field. This will provide novel perspectives on processes involving geohazards and the environment itself.</p></li>
+</ul>
+</div></blockquote>
+</div>
+</div>
+<div class="section" id="waveform-tomography">
+<h2>Waveform tomography<a class="headerlink" href="#waveform-tomography" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:sebastien&#46;chevrot&#37;&#52;&#48;get&#46;omp&#46;eu">S<span>&#46;</span> Chevrot</a>.</p></li>
+<li><p>This CRG aims to foster collaborations on methodological developments to improve regional-scale FWI imaging by exploiting both body and surface waves. Another objective of this CRG is to provide tools and methods to compute synthetic seismograms in 3D analogues of continental and oceanic subduction zones. These synthetic seismograms will be useful for testing the different tomographic approaches that will be implemented on the AdriaArray datasets. Finally, this CRG will also work on the application of FWI approaches on several focused targets such as the Vrancea region, the Dinarides and the Hellenic subduction. All AdriaArray participants interested in any aspect of these different initiatives (regarding data, methods, geological and geodynamic interpretation, etc…) are invited to join this CRG.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="measuring-shear-wave-splitting">
+<h2>Measuring shear wave splitting<a class="headerlink" href="#measuring-shear-wave-splitting" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:silvia&#46;pondrelli&#37;&#52;&#48;ingv&#46;it">S<span>&#46;</span> Pondrelli</a>.</p></li>
+<li><p>This CRG aims to collect previous measurements in the study region to identify gaps to be filled with new data. New measurements can give the opportunity to have benchmarking methods &amp; training. We expect to produce new splitting directions and anisotropy intensity values, obtained using various seismic phases with the perspective to reach joint inversions and interpretations of seismic anisotropy. An important goal indeed is the interaction with the other CRGs focusing on body and surface waves as well as receiver functions to share our new data.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="engineering-seismology">
+<h2>Engineering Seismology<a class="headerlink" href="#engineering-seismology" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contacts: <a class="reference external" href="mailto:iva&#46;dasovic&#37;&#52;&#48;gfz&#46;hr">I<span>&#46;</span> Dasovic</a>, <a class="reference external" href="mailto:olga&#46;ktenidou&#37;&#52;&#48;noa&#46;gr">O<span>&#46;</span> Ktenidou</a>, <a class="reference external" href="mailto:kpapaza&#37;&#52;&#48;geo&#46;auth&#46;gr">C<span>&#46;</span> Papazachos</a>.</p></li>
+<li><dl class="simple">
+<dt>First subgroups and contacts:</dt><dd><ol class="arabic simple">
+<li><p>Station metadata inventory (Geology, geophysical structure, morphology, etc.): <a class="reference external" href="mailto:olga&#46;ktenidou&#37;&#52;&#48;noa&#46;gr">O<span>&#46;</span> Ktenidou</a>, <a class="reference external" href="mailto:kpapaza&#37;&#52;&#48;geo&#46;auth&#46;gr">C<span>&#46;</span> Papazachos</a>.</p></li>
+<li><p>Site effects from waveform data (HVSR, <span class="math notranslate nohighlight">\(Vs_{30}/Vs_{z}\)</span> assessment, <span class="math notranslate nohighlight">\({\kappa}\)</span>-<span class="math notranslate nohighlight">\({\kappa}_{0}\)</span>, etc.): <a class="reference external" href="mailto:olga&#46;ktenidou&#37;&#52;&#48;noa&#46;gr">O<span>&#46;</span> Ktenidou</a>, <a class="reference external" href="mailto:kpapaza&#37;&#52;&#48;geo&#46;auth&#46;gr">C<span>&#46;</span> Papazachos</a>.</p></li>
+<li><p>GMPEs and relation with strong-motion measures: <a class="reference external" href="mailto:kpapaza&#37;&#52;&#48;geo&#46;auth&#46;gr">C<span>&#46;</span> Papazachos</a>, <a class="reference external" href="mailto:olga&#46;ktenidou&#37;&#52;&#48;noa&#46;gr">O<span>&#46;</span> Ktenidou</a>, <a class="reference external" href="mailto:iva&#46;dasovic&#37;&#52;&#48;gfz&#46;hr">I<span>&#46;</span> Dasovic</a>.</p></li>
+</ol>
+</dd>
+</dl>
+</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="linking-geophysical-observations-and-geodynamics">
+<h2>Linking geophysical observations and geodynamics<a class="headerlink" href="#linking-geophysical-observations-and-geodynamics" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="slab-hypotheses-for-the-adriatic-and-subregions-creating-input-models-for-seismic-resolution-tests-and-geodynamic-modelling">
+<h3>Slab hypotheses for the Adriatic and subregions - creating input models for seismic resolution tests and geodynamic modelling<a class="headerlink" href="#slab-hypotheses-for-the-adriatic-and-subregions-creating-input-models-for-seismic-resolution-tests-and-geodynamic-modelling" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:thomas&#46;meier&#37;&#52;&#48;ifg&#46;uni-kiel&#46;de">T<span>&#46;</span> Meier</a>.</p></li>
+<li><p>Using AdriaArray data, the interior of the Adriatic plate and its margins, slabs and slab windows as well as upper mantle flow will be imaged to clarify open questions regarding the driving forces of plate deformation and kinematics. To test the resolution capabilities of imaging methods and to design input models for numerical geodynamic experiments, existing hypotheses of lithospheric and upper mantle structure are to be described in a digital form. At first, hypotheses of slabs and slab windows in the region are to be reviewed and discussed. Participants interested in the interpretation of passive seismic imaging for the entire Adriatic or subregions (e.g. Alps, Apennines, Calabrian Arc, Dinarides, Hellenides, Vrancea) are invited to join this CRG.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="thermomechanical-modelling-of-seismic-anomalies">
+<h3>Thermomechanical modelling of seismic anomalies<a class="headerlink" href="#thermomechanical-modelling-of-seismic-anomalies" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p>Intitial contact: <a class="reference external" href="mailto:cschule&#37;&#52;&#48;uni-mainz&#46;de">C<span>&#46;</span> Schuler</a>.</p></li>
+<li><p>This group aims to integrate thermomechanical modelling and results from various geological fields, such as seismology or petrology in order to verify these findings. Having experts from both the modelling field and the data field is essential to incorporate diverse datasets into the modelling process. The CRG aims to understand and quantify the geodynamic response of different upper mantle and lithosphere configurations. It can be tested how different mantle interpretations influence for example the uplift or horizontal motion of the crust which will then be compared to real data. Participants interested in the integration of geological data into thermomechanical modelling or modelling itself are invited to join this CRG.</p></li>
+</ul>
+</div></blockquote>
+<span class="target" id="adria-array-crg"></span></div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="adria_array_wg.html" class="btn btn-neutral float-left" title="AdriaArray - Working Groups" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="adria_array_seismicnetworks.html" class="btn btn-neutral float-right" title="AdriaArray - Seismic networks" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2020, ORFEUS.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

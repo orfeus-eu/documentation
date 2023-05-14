@@ -4,7 +4,14 @@ AdriaArray
 AdriaArray - Logo
 ---------------------
 
-The logo will be discussed at the third AdriaArray international `workshop <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/AdriaArray_Dubrovnik_2.pdf>`_ in Dubrovnik, Croatia, on 3-5 April 2023.
+.. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/logo/AdA_logo_wb.png
+   :width: 200   
+   :align: center
+   
+
+The logo was discussed at the third AdriaArray international `workshop <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/AdriaArray_Dubrovnik_2.pdf>`_ in Dubrovnik, Croatia, on 3-5 April 2023.
+The logo was approved during the `AdriaArray Splinter meeting (EGU General Assembly on April 27th, 2023) <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_.
+Several versions (by Claudia Piromallo and Hana Kampfová Exnerová) are available and can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray/tree/master/logo/>`_.
 
    
 AdriaArray - Mission

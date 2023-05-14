@@ -21,6 +21,8 @@ Working Group 4
 	- Communication and Outreach
 	- Initial contact: `C. Cauzzi <mailto:carlo.cauzzi@sed.ethz.ch>`_ & `C. Legendre <mailto:legendre@ig.cas.cz>`_.
 
+
+.. _Working Group 5:
 Working Group 5
 -----------------------------
 	- Scientific Co-operation

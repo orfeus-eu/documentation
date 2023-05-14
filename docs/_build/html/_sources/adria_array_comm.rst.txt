@@ -2,8 +2,9 @@ AdriaArray Communication & Outreach
 ====================================
 
 News
--------------------------------------
+-----
 	- `Here is the call for CRL School 2023 <https://nfo.crlab.eu/crl-school-2023>`_
+	- On May 10th, within the frame of the 13th Sofia Science Festival, G. Georgieva gave a nice introduction and promotion of AdriaArray on Bulgarian National Television (BNT). `Link to the interview - in Bulgarian. <https://bnt.bg/news/mashtabna-mezhdunarodna-iniciativa-izuchava-seizmichnata-aktivnost-v-evropa-v344307-317801news.html?fbclid=IwAR2Tm32dpKnhod_jygLrDrrLI6wf4c1JdmmhjaPXvBBxLWC07LcNAyKh7hQ>`_
 
 Relevant earthquakes in the region
 -------------------------------------
@@ -20,10 +21,12 @@ Publication
 	- No current publication listed here. :-(
 
 AdriaArray Workshops
--------------------------------------
+--------------------
 
 ORFEUS and EPOS (via the EPOS SP project, Task 4.3) have supported the organisation of AdriaArray (AdA) workshops since 2020.
 
+* An AdriaArray Splinter meeting took place during the EGU GA 2023 on April 27th.
+  - `Announcement <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_
 
 * A third international AdriaArray workshop sponsored by EPOS SP was organised in Dubrovnik, Croatia, on 3-5 April 2022. The program is available here (https://polybox.ethz.ch/index.php/s/SvzUkK8x5NQtZWY) and most of the oral and poster contributions are archived here (https://polybox.ethz.ch/index.php/s/X3oz1uxbUbC3Lbo). The workshop was attended by 90 people, including 25-30 key participants financially supported using EPOS SP funds. Remote virtual participation was not organised in this case. The workshop counted with financial support from EPOS SP and local support by Uni. Zagreb. Once again, the workshop was an excellent opportunity to strengthen the AdriaArray community and to kick-off the crucial discussion on the establishment of the working groups and Collaborative Research Groups contemplated by the AdriaArray MoC (https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp). The workshop was followed by a community meeting at EGU 2023 (https://meetingorganizer.copernicus.org/EGU23/session/47742) attended by about 30 people onsite and 15 people online, targeting community members who could not travel to Dubrovnik: a summary of the status of the initiative was provided, along with the outcome of the workshop in Croatia, and the final version of the AdriaArray project logo was presented and approved (https://polybox.ethz.ch/index.php/s/xTc0YoHryJEJQrf).
 
@@ -44,11 +47,95 @@ ORFEUS and EPOS (via the EPOS SP project, Task 4.3) have supported the organisat
 ..
 
 ..
+History of AdriaArray
+---------------------
 
-  
-  
+
+May 2022
+~~~~~~~~~~~~~~~~~~
+
+The following institutions are initiators of the AdASG:
+	- ETH, represented by Anne Obermann,
+	- KIT, represented by Andreas Rietbrock,
+	- Poland, represented by Wojciech Czuba,
+	- Uni Wien, represented by Götz Bokelmann,
+	- Albania, represented by Anila Xhahysa,
+	- Uni Kiel, represented by Thomas Meier,
+	- GFZ, represented by Frederik Tilmann,
+	- IG CAS CZ, represented by Petr Kolínský,
+	- LMU Munich, represented by Joachim Wassermann,
+	- ORFEUS, represented by Carlo Cauzzi,
+	- ZAMG (currently GeoSphere Austria), represented by Yan Jia,
+	- Uni Thessaloniki, represented by Costas Papazachos,
+	- BAS Bulgaria, represented by Liliya Dimitrova,
+	- NOA, represented by Christos Evangelidis,
+	- EPSS Hungary, represented by Viktor Wesztergom,
+	- Charles Uni, represented by Vladimír Plicka,
+	- INGV, represented by Claudia Piromallo,
+	- IPE MUNI Brno, represented by Petr Špaček,
+	- Uni Skopje, represented by Dragana Chernih Anastasovska,
+	- Uni Malta, represented by Matthew Agius,
+	- Montenegro, represented by Dušica Brnović,
+	- OGS, represented by Stefano Parolai,
+	- Romania, represented by Felix Borleanu,
+	- Slovakia, represented by Kristian Csicsay,
+	- Slovenia, represented by Mladen Živčić,
+	- Uni Patras, represented by Efthimios Sokos.
+
+July 2022
+~~~~~~~~~~~~~~~~~~
+
+The following institutions became new members of the AdASG:
+	- National and Kapodistrian University of Athens - Geology and Geoenvironment, represented by George Kaviris,
+	- University of Zagreb - Geophysical Department, represented by Josip Stipčevič.
+
+October 2022
+~~~~~~~~~~~~~~~~~~
+
+A second international workshop was organised in Potsdam, Germany, on 6-7 October 2022.
+The program is available here (https://polybox.ethz.ch/index.php/s/oylgapO5vuKW9zu) and most oral and poster presentations are available here (https://polybox.ethz.ch/index.php/s/IrAUN9bplQeCPLC).
+
+November 2022
+~~~~~~~~~~~~~~~~~~
+
+The following institutions are therefore accepted as new members of the AdASG:
+	- Geological Survey of Kosovo, represented by Shemsi Mustafa,
+	- Kandilli Observatory And Earthquake Research Institute, represented by Musavver Didem Cambaz,
+	- Croatian Seismological Survey, represented by Ines Ivančić,
+	- Institute of Rock Structure and Mechanics of the Czech Academy of Sciences, represented by Renata Lukešová,
+	- Uni Sofia, represented by Gergana Georgieva,
+	- Uni Bochum, represented by Wolfgang Friederich,
+	- BiH - Republika Srpska, represented by Snježana Cvijić Amulić,
+	- BiH - Federation, represented by Almir Bijedič,
+	- Norwegian Broadband Pool, represented by Stéphane Rondenay,
+	- Technische Universität Bergakademie Freiberg, represented by Thorsten Nagel,
+	- Aarhus University, represented by Søren Bom Nielsen,
+	- Uppsala University, represented by Christian Schiffer.
+
+January 2023
+~~~~~~~~~~~~~~~~~~
+
+The members of the Steering Committee agreed on the structure of the website.
 
 
+March 2023
+~~~~~~~~~~~~~~~~~~
+
+The following applications have been accepted and are now members of the AdriaArray:
+	- University of Oulu, represented by Hanna Silvennoinen,
+	- University of Helsinki, represented by Timo Tiira,
+	- University of Bari Aldo Moro, represented by Andrea Tallarico,
+	- Seismic Laboratory of Geosciencies Barcelona, represented by Jordi Diaz,
+	- University of Twente, represented by Mark van der Meijde.
+
+April 2023
+~~~~~~~~~~~~~~~~~~
+
+A third international workshop is being organised in Dubrovnik, Croatia, on 3-5 April 2023. The program and most oral and poster presentations are available here (https://polybox.ethz.ch/index.php/s/CzhTnEGI3ZMNKVE).
+
+AdriaArray Splinter meeting during the EGU 2023 (https://meetingorganizer.copernicus.org/EGU23/session/47742).
+
+Logo was approved and is available at the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray/tree/master/logo/>`_.
 
 .. _adria_array_comm: 
 
