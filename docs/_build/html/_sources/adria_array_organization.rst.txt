@@ -119,9 +119,6 @@ AdriaArray - Members
    * - Institute of Rock Structure and Mechanics of the Czech Academy of Sciences
      - Czech Republic
      - Renata Lukešová
-   * - Sofia University “St. Kliment Ohridski”
-     - Bulgaria
-     - Gergana Georgieva
    * - Institut für Geologie, Mineralogie und Geophysik, Ruhr University Bochum
      - Germany
      - Wolfgang Friederich
