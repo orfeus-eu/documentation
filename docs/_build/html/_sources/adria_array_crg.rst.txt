@@ -123,7 +123,7 @@ Engineering Seismology
 	- First subgroups and contacts:
 		#. Station metadata inventory (Geology, geophysical structure, morphology, etc.): `O. Ktenidou <mailto:olga.ktenidou@noa.gr>`_, `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_.
 		#. Site effects from waveform data (HVSR, :math:`Vs_{30}/Vs_{z}` assessment, :math:`{\kappa}`-:math:`{\kappa}_{0}`, etc.): `O. Ktenidou <mailto:olga.ktenidou@noa.gr>`_, `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_.
-		#. GMPEs and relation with strong-motion measures: `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_, `O. Ktenidou <mailto:olga.ktenidou@noa.gr>`_, `I. Dasovic <mailto:iva.dasovic@gfz.hr>`_.
+		#. GMPEs and relation with strong-motion measures: `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_, `O. Ktenidou <mailto:olga.ktenidou@noa.gr>`_, `I. Dasovic <mailto:iva.dasovic@gfz.hr>`_ (to be established later).
 
 
 
