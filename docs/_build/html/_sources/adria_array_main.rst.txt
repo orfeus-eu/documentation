@@ -3,6 +3,7 @@ AdriaArray
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/logo/AdA_logo_wb.png
    :width: 200   
+   :align: center
    
   
 AdriaArray - Mission
