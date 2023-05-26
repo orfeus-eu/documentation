@@ -1,22 +1,21 @@
 AdriaArray
 ===========================
 
-AdriaArray - Logo
----------------------
-
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/logo/AdA_logo_wb.png
    :width: 200   
-   :align: center
    
+  
+AdriaArray - Mission
+---------------------
+ AdriaArray is a multi-national effort to cover the Adriatic Plate and its active margins in the central Mediterranean by a dense regional array of seismic stations to understand the causes of active tectonics and volcanic fields in the region. Plate-scale observations are complemented by local and LargeN experiments in key areas. The AdriaArray region reaches from the Massive Central in the west to the Carpathians in the east, from the Alps in the north to the Calabrian Arc and mainland Greece in the south. The deployment of seismic stations and scientific research is coordinated by the AdriaArray Seismology Group based on `FAIR <https://www.go-fair.org/fair-principles/>`_ and open data exchange. Analyses of seismicity and multi-scale passive seismic imaging will lay the ground for a physical understanding and modelling of plate deformation and associated geohazards.
+
+
+AdriaArray - Logo
+---------------------
 
 The logo was discussed at the third AdriaArray international `workshop <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/AdriaArray_Dubrovnik_2.pdf>`_ in Dubrovnik, Croatia, on 3-5 April 2023.
 The logo was approved during the `AdriaArray Splinter meeting (EGU General Assembly on April 27th, 2023) <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_.
 Several versions (by Claudia Piromallo and Hana Kampfová Exnerová) are available and can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray/tree/master/logo/>`_.
-
-   
-AdriaArray - Mission
----------------------
- AdriaArray is a multi-national effort to cover the Adriatic Plate and its active margins in the central Mediterranean by a dense regional array of seismic stations to understand the causes of active tectonics and volcanic fields in the region. Plate-scale observations are complemented by local and LargeN experiments in key areas. The AdriaArray region reaches from the Massive Central in the west to the Carpathians in the east, from the Alps in the north to the Calabrian Arc and mainland Greece in the south. The deployment of seismic stations and scientific research is coordinated by the AdriaArray Seismology Group based on `FAIR <https://www.go-fair.org/fair-principles/>`_ and open data exchange. Analyses of seismicity and multi-scale passive seismic imaging will lay the ground for a physical understanding and modelling of plate deformation and associated geohazards.
 
 
 AdriaArray - Current deployment

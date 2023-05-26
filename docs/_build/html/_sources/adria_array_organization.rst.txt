@@ -194,21 +194,33 @@ AdriaArray - Participants
    * -  Aristotle University of Thessaloniki
      -  GREECE
      -  Anastasia Kiratzi
+   * -  Istituto Nazionale di Geofisica e Vulcanologia
+     -  Italy
+     -  Andrea Morelli
    * -  Karlsruhe Institut of Technology (KIT)
      -  Germany
      -  Andreas Rietbrock
    * -  National and Kapodistrian University of Athens
      -  Greece
      -  Andreas Tzanis
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Andreea Craiu
    * -  National Institute for Earth Physics 
      -  Romania
      -  Andreea Tolea
    * -  National Institute for Earth Physics
      -  Romania
      -  Andrei Bala
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Andrei Mihai
    * -  Eart Science Institute, Slovak Academy of Sciences
      -  Slovakia
      -  Andrej Cipciar
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Anica Otilia Placinta
    * -  Institute of Geosciences, Seismology Department
      -  Albania
      -  Anila Xhahysa
@@ -244,6 +256,9 @@ AdriaArray - Participants
      -  Besian Rama
    * -  National Institute for Earth Physics
      -  Romania
+     -  Bogdan Enescu
+   * -  National Institute for Earth Physics
+     -  Romania
      -  Bogdan Grecu
    * -  National Institute for Earth Physics
      -  Romania
@@ -251,9 +266,18 @@ AdriaArray - Participants
    * -  Institute of Earth Physics and Space Science
      -  Hungary
      -  Bálint Süle
+   * -  Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Pisa
+     -  Italy
+     -  Carlo Giunchi
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Catalin Gheablau
    * -  Istituto Nazionale di Geofisica e Vulcanologia (INGV)
      -  Italy
      -  Caterina Montuori
+   * -  Institute of Hydrometeorology and Seismology
+     -  Montenegro
+     -  Čaveliš Marin
    * -  Arisotle University of Thessaloniki
      -  Greece
      -  Chrisanthi Ventouzi
@@ -286,6 +310,9 @@ AdriaArray - Participants
      -  Craiu George Marius
    * -  National Institute for Earth Physics
      -  Romania
+     -  Cristian  Ghita
+   * -  National Institute for Earth Physics
+     -  Romania
      -  Cristian Neagoe
    * -  Institute of Geophysics of the Czech Academy of Science
      -  Czech Republic
@@ -302,13 +329,13 @@ AdriaArray - Participants
    * -  Christian-Albrechts-University Kiel
      -  Germany
      -  Daniel Köhn
-   * -  www.infp.ro
+   * -  National Institute for Research and Development for Earth Physics
      -  Romanian
      -  Daniel Nistor Paulescu
    * -  Slovenian Environment Agency - ARSO
      -  Slovenia
      -  Danijela Birko
-   * -  SED @ ETHZ
+   * -  SED/ETHZ
      -  Switzerland
      -  Dario Jozinović
    * -  Laboratory of Seismology, Department of Geology, University of Patras
@@ -329,6 +356,12 @@ AdriaArray - Participants
    * -  Department of Seismology, Institute of GeoSciences, Polytechnic University of Tirana
      -  Albania
      -  Edmond Dushi
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Elena Florinela Manea
+   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+     -  Italy
+     -  Elisa Zuccolo
    * -  Institute of Earth Physics and Space Science
      -  Hungary
      -  Erzsébet Győri
@@ -351,7 +384,7 @@ AdriaArray - Participants
      -  Italy
      -  Francesca Di Luccio
    * -  INGV
-     -  ITALY
+     -  Italy
      -  Francesco Pio Lucente
    * -  Charles University, Faculty of Mathematics and Physics, Department of Geophysics
      -  Czech Republic
@@ -371,7 +404,7 @@ AdriaArray - Participants
    * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      -  Italy
      -  Giuliana Rossi
-   * -  Slovenian Environment Agency (ARSO) - starting with October
+   * -  Slovenian Environment Agency (ARSO)
      -  Slovenia
      -  Gregor Rajh
    * -  Institute of Earth Physics and Space Science
@@ -419,6 +452,12 @@ AdriaArray - Participants
    * -  Institute for Geological and Geochemical Research, Research Centre for Astronomy and Earth Sciences, ELKH
      -  Hungary
      -  Istvan Bondar
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Iulia Armeanu
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Iulia Ciobanu
    * -  Department of Geophysics, Faculty of Science, University of Zagreb
      -  Croatia
      -  Iva Dasović
@@ -434,6 +473,9 @@ AdriaArray - Participants
    * -  Institute of Geophysics CAS, Prague
      -  Česko
      -  Jan Zedník
+   * -  Ruhr-Universität Bochum
+     -  Germany
+     -  Janis Heuel
    * -  Institute of Geophysics, Czech Academy of Sciences
      -  Czech Republic
      -  Jaroslava Plomerova
@@ -442,10 +484,7 @@ AdriaArray - Participants
      -  Jaroslaw Majka
    * -  Seismological Observatory, Faculty of Natural Sciences and Mathematics, Ss. Cyril and Methodius University in Skopje
      -  Republic of North Macedonia
-     -  Jasmina
-   * -  Macedonian
-     -  North Macedonia
-     -  Jasmina
+     -  Jasmina Najdovska
    * -  Institute of Geophysics of the Czech Academy of Science
      -  Czech Republic
      -  Jiri Kvapil
@@ -518,6 +557,9 @@ AdriaArray - Participants
    * -  Institute of Geophysics of the Czech Academy of Siences
      -  Czech Republic
      -  Luděk Vecsey
+   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+     -  Italy
+     -  Luigi Sante Zampa
    * -  University of Silesia in Katowice
      -  Poland
      -  Maciej Mendecki
@@ -527,6 +569,9 @@ AdriaArray - Participants
    * -  Ruhr-University Bochum
      -  Germany
      -  Marcel Paffrath
+   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+     -  Italy
+     -  Marco Santulin
    * -  GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
      -  Austria
      -  Maria-Theresia Apoloner
@@ -557,7 +602,7 @@ AdriaArray - Participants
    * -  INGV
      -  Italy
      -  Massimo Di Bona
-   * -  Institute of Earth Physics and Space Science, Budapest, Hungary
+   * -  Institute of Earth Physics and Space Science
      -  Hungary
      -  Mate Timko
    * -  Istituto Nazionale di Geofisica e Vulcanologia (INGV, Rome, Italy))
@@ -587,6 +632,9 @@ AdriaArray - Participants
    * -  KOERI
      -  Türkiye
      -  Musavver Didem Cambaz
+   * -  National Institute for Earth Physics
+     -  Romania
+     -  Natalia Poiata
    * -  Institute of Hidrometeorology and Seismology of Montenegro
      -  Montenegro
      -  Natasa Kaludjerovic
@@ -623,13 +671,16 @@ AdriaArray - Participants
    * -  IPE Masaryk University
      -  Czech Republic
      -  Petr Spacek
+   * -  Department of Geophysics - Aristotle University of Thessaloniki
+     -  Greece
+     -  Petros Triantafyllidis
    * -  Institute of Geophysics, Polish Academy of Sciences
      -  Poland
      -  Piotr Środa
    * -  National Institute for Earth Physics
      -  Romania
      -  Raluca Dinescu
-   * -  The Institute of Rock Structure and Mechanics of the Czech Academy of Sciences 
+   * -  The Institute of Rock Structure and Mechanics of the Czech Academy of Sciences
      -  Czech Republic
      -  Renata Lukešová
    * -  Sofia university "St. Kliment Ohridski", Faculty of physics
@@ -644,9 +695,12 @@ AdriaArray - Participants
    * -  università di Bari "Aldo Moro"
      -  Ialy
      -  Salvatore de Lorenzo
-   * -  EMSC
-     -  Türkiye
+   * -  Bogazici University- KOERI-RETMC
+     -  Turkiye
      -  Selda Altuncu Poyraz
+   * -  Institute of Geophysics, Polish Academy of Sciences
+     -  Poland
+     -  Shubhasmita Biswal
    * -  INGV Bologna
      -  Italy
      -  Silvia Pondrelli
@@ -659,7 +713,7 @@ AdriaArray - Participants
    * -  Institute of Geophysics Polish Academy of Sciences
      -  Poland
      -  Somayeh Abdollahi
-   * -  Scientific Technical Staff
+   * -  National Observatory of Athens
      -  Hellas
      -  Spyridon Christos Liakopoulos
    * -  National and Kapodistrian University of Athens
@@ -686,12 +740,18 @@ AdriaArray - Participants
    * -  University Kiel
      -  Germany
      -  Thomas Meier
+   * -  Institute of Seismology, University of Helsinki
+     -  Finland
+     -  Timo Tiira
    * -  Institute of Geophysics Polish Academy of Sciences
      -  Poland
      -  Tomasz Janik
    * -  Croatian Seismological Survey
      -  Croatia
      -  Tomislav FIket
+   * -  NORSAR
+     -  Norway
+     -  Tormod Kvaerna
    * -  Boğaziçii University KOERI
      -  Türkiye
      -  Tuğçe Ergün
@@ -736,6 +796,9 @@ AdriaArray - Participants
      -  Yan Jia
    * -  University of Vienna
      -  Austria
+     -  Yang Lu
+   * -  University of Vienna
+     -  Austria
      -  Yongki Andita Aiman
    * -  Department of Geology, University of Patras
      -  Greece
@@ -743,9 +806,6 @@ AdriaArray - Participants
    * -  Institute of Earth Physics and Space Science (EPSS)
      -  Hungary
      -  Zoltán Wéber
-   * -  electronic enginer
-     -  Montenegro
-     -  Čaveliš Marin
 
 AdriaArray - Field team
 -----------------------------
