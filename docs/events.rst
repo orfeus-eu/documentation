@@ -74,7 +74,7 @@ The following table shows upcoming and past workshops, meetings, and webinars.
 ** ORFEUS Webinars **
 
 .. list-table:: Webinars
-   :widths: 25 25 25
+   :widths: 50 25 25
    :header-rows: 1
 
    * - Name
@@ -106,7 +106,7 @@ The following table shows upcoming and past workshops, meetings, and webinars.
      - 11 May 2021
 
    * - `EIDA Combined use of FDSNWS-Dataselect and EIDAWS-WFCatalog <https://polybox.ethz.ch/index.php/s/EIb0R92LMPloTC2>`_
-     - J. Bienkowski and N.. Triantafyllis
+     - J. Bienkowski and N. Triantafyllis
      - 26 March 2021
 
    * - `EIDA Authentication and Authorisation <https://polybox.ethz.ch/index.php/s/JrxrIvJAoiglqGb>`_
