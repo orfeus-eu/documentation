@@ -1,7 +1,7 @@
 .. figure:: _static/orfeuslogo.jpg
 
 Euro-Mediterranean Observatories
-==========
+================================
 
 The following table shows an aggregation of observatories and institutes that operate seismic instruments in the Euro-Mediterranean region. Please contact us if this information is incorrect or outdated.
 
