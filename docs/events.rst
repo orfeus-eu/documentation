@@ -54,7 +54,7 @@ The following table shows upcoming and past workshops, meetings, and webinars.
    * - `ORFEUS-EPOS-S Workshop <https://orfeus-eu.org/other/workshops/orfeus-epos-seismology/>`_
      - Lisbon, Portugal
      - 25 to 27 October 2017
-     - `presentations <https://orfeus-eu.org/other/workshops/orfeus-epos-seismology/presentations> & abstracts <https://orfeus-eu.org/other/workshops/orfeus-epos-seismology/abstracts>`_
+     - `presentations <https://orfeus-eu.org/other/workshops/orfeus-epos-seismology/presentations>`_ & `abstracts <https://orfeus-eu.org/other/workshops/orfeus-epos-seismology/abstracts>`_
 
    * - `FDSN WGII Workshop <https://orfeus-eu.org/other/workshops/fdsnmseed/>`_
      - Utrecht, Netherlands
@@ -70,3 +70,57 @@ The following table shows upcoming and past workshops, meetings, and webinars.
      - Bucharest, Romania 
      - 21 to 24 September 2015
      - `presentations <https://orfeus-eu.org/other/workshops/bucharest/>`_
+
+** ORFEUS Webinars **
+
+.. list-table:: Webinars
+   :widths: 25 25 25
+   :header-rows: 1
+
+   * - Name
+     - Presenter
+     - Date
+
+   * - `Introduction to obsinfo <https://polybox.ethz.ch/index.php/s/fhcUNLCW0i0vHKv>`_
+     - W. Crawford
+     - 12 April 2023
+
+   * - `PyGLImER <https://polybox.ethz.ch/index.php/s/mdsSGRlNBkt7Opc>`_
+     - P. Makus and L. Sawade
+     - 28 October 2022
+
+   * - `AutoStatsQ <https://polybox.ethz.ch/index.php/s/DDd23LxpreJb2FH>`_
+     - G. Petersen
+     - 24 October 2022
+
+   * - `REXELweb <https://polybox.ethz.ch/index.php/s/POTLU58aj2zYNnp>`_
+     - S. Sgobba
+     - 9 March 2022
+
+   * - `ESM Database Web Services <https://polybox.ethz.ch/index.php/s/zIpXHimBEsc0PHT>`_
+     - C. Felicetta
+     - 10 September 2021
+
+   * - `The European Rapid Raw Strong Motion Database <https://polybox.ethz.ch/index.php/s/R6PMShcyJoZeNCz>`_
+     - C. Cauzzi
+     - 11 May 2021
+
+   * - `EIDA Combined use of FDSNWS-Dataselect and EIDAWS-WFCatalog <https://polybox.ethz.ch/index.php/s/EIb0R92LMPloTC2>`_
+     - J. Bienkowski and N.. Triantafyllis
+     - 26 March 2021
+
+   * - `EIDA Authentication and Authorisation <https://polybox.ethz.ch/index.php/s/JrxrIvJAoiglqGb>`_
+     - J. Quinteros
+     - 14 December 2020
+
+   * - `EIDA Data Access <https://polybox.ethz.ch/index.php/s/pwAn6FE8vRJWh9r>`_
+     - J. Quinteros
+     - 24 November 2020
+
+   * - `The engineering strong-motion database <https://polybox.ethz.ch/index.php/s/u1rxXlp84diVUT8>`_
+     - G. Lanzano
+     - 21 October 2020
+
+   * - `Overview of current services <https://polybox.ethz.ch/index.php/s/0fT2AYeFZNYONSz>`_
+     - C. Cauzzi
+     - 3 July 2020
