@@ -19,6 +19,7 @@ Our website is: http://www.orfeus-eu.org.
 
    general
    governance
+   observatories
 
 .. toctree::
    :maxdepth: 2
