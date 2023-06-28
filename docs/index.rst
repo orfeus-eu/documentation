@@ -32,11 +32,12 @@ Our website is: http://www.orfeus-eu.org.
    :caption: EIDA:
 
    eida_intro
+   nodes
    eida_user
    eida_eas
    eida_routing
+   eida_example
    stationbook
-   nodes
 
 .. toctree::
    :maxdepth: 2
