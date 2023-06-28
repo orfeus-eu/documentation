@@ -20,7 +20,6 @@ Our website is: http://www.orfeus-eu.org.
    general
    governance
    observatories
-   nodes
 
 .. toctree::
    :maxdepth: 2
@@ -37,6 +36,7 @@ Our website is: http://www.orfeus-eu.org.
    eida_eas
    eida_routing
    stationbook
+   nodes
 
 .. toctree::
    :maxdepth: 2

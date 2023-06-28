@@ -5,7 +5,7 @@ EIDA Nodes
 
 EIDA nodes are data centers that archive data from seismic networks deploying broad-band sensors, short period sensors, accelerometers, infrasound sensors, and other geophysical instruments. Currently ten nodes are contributing data to EIDA. Nine primary nodes have committed resources to support operation and further development. Data access is standardized across EIDA and nodes may provide additional data services.
 
-.. list-table:: Nodes
+.. list-table:: EIDA Nodes
    :widths: 25 50 25
    :header-rows: 1
 
@@ -17,47 +17,47 @@ EIDA nodes are data centers that archive data from seismic networks deploying br
      - European-Mediterranean, Netherlands
      - 2013
 
-   * - GFZ
+   * - `GFZ`_
      - European, Global, temporary deployments
      - 2013
 
-   * - RESIF
+   * - `RESIF`_
      - France, Global temporary deployments
      - 2013
 
-   * - INGV
+   * - `INGV`_
      - Italy, European-Mediterranean (MedNet)
      - 2013
 
-   * - ETHZ
+   * - `ETHZ`_
      - Switzerland
      - 2013
 
-   * - BGR
+   * - `BGR`_
      - Germany
      - 2013
 
-   * - LMU
+   * - `LMU`_
      - Germany (BayernNetz)
      - 2013
 
-   * - NIEP
+   * - `NIEP`_
      - Romania
      - 2014
 
-   * - KOERI
+   * - `KOERI`_
      - Turkey
      - 2014
 
-   * - NOA
+   * - `NOA`_
      - Greece
      - 2014
 
-   * - UIB / NORSAR
+   * - `UIB / NORSAR`_
      - Norway
      - 2019
 
-   * - ICGC
+   * - `ICGC`_
      - Spain
      - 2020
 
