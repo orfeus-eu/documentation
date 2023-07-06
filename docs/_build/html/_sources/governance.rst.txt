@@ -93,7 +93,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 
 **Members of the Board of Participants**
 
-* National Academy of Sciences; Republican Seismic Survey Center
+* National Academy of Sciences; Republican Seismic Survey Center of Azerbaijan
 * Bulgarian Academy of Sciences; National Institute of Geophysics
 * University of Zagreb; Department of Geophysics
 * Charles University in Prague; Faculty of Mathematics and Physics
@@ -136,6 +136,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * University of Edinburgh; School of GeoSciences
 * AWE Blacknest
 * (Note: French seismological institutions are represented by CNRS in the BoD)
+
 **Members of the Infrastructure Development Group (IDG) – EIDA component**
 
 * J. Bienkowski, (Chair), L. Trani - ODC-KNMI
