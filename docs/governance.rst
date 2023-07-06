@@ -80,7 +80,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Prof. E. Çaktı / Dr. D. Kalafat (Turkey, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Turkey, AFAD)
 
-**Member of the User Advisory Group (UAG)**
+**Members of the User Advisory Group (UAG)**
 
 * Dr. P. Kolínský (Chair, Czech Republic, IG-CAS)
 * Prof. S. Rondenay (Norway, UiB)
@@ -91,6 +91,51 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Dr. D. Stanko (Croatia, Uni. Zagreb)
 * Mr. F. Eckel (Germany, Uni. Kiel)
 
+**Members of the Board of Participants**
+
+* National Academy of Sciences; Republican Seismic Survey Center
+* Bulgarian Academy of Sciences; National Institute of Geophysics
+* University of Zagreb; Department of Geophysics
+* Charles University in Prague; Faculty of Mathematics and Physics
+* Czech Academy of Sciences; Institute of Geophysics
+* University of Hamburg; Institute of Geophysics
+* Black Forest Observatory
+* Munich University; Geophysical Observatory; Department of Earth and Environmental Sciences
+* Federal Institute for Geosciences and Natural Resources; Central Seismological Observatory; Geocenter Hannover
+* Karlsruhe Institute of Technology; Geophysical Institute
+* Ruhr University Bochum; Institute of Geology
+* University of Leipzig
+* Westfälische-Wilhelms University Münster; Institute for Geophysics
+* Goethe University Frankfurt
+* University of Potsdam; Institute of Geosciences
+* Christian-Albrecht University of Kiel; Institute for Geosciences
+* National Observatory of Athens; Institute of Geodynamics
+* University of Athens; Seismology
+* Research Centre for Astronomy and Earth Sciences; Geodetic and Geophysical Institute; Kovesligethy Rado Seismological Observatory
+* Dublin Institute of Advanced Studies
+* Geophysical institute of Israel
+* Israeli NDC
+* National Institute of Oceanography and Applied Geophysics - OGS
+* University of Trieste; Department of Earth Sciences
+* University of Malta; Geosciences
+* University of Utrecht; Seismology
+* North Macedonia	Seismological Observatory
+* Polish Academy of Sciences; Institute of Geophysics
+* University of Lisbon; Faculty of Sciencies
+* Instituto Superior Tecnico in Lisbon
+* Serbian Seismological Survey
+* Earth Science Institute; Slovak Academy of Sciences
+* Slovenian Environmental Agency ARSO
+* Spanish National Geographical Institute
+* Cartographic and Geological Institute of Catalunya
+* Geo3Bcn-CSIC
+* University of Barcelona; Faculty of Geology; Department of Geodynamics and Geophysics
+* Complutense University Madrid
+* Spanish Royal Observatory of the Army
+* University of Leicester; School of Geography
+* University of Edinburgh; School of GeoSciences
+* AWE Blacknest
+* (Note: French seismological institutions are represented by CNRS in the BoD)
 **Members of the Infrastructure Development Group (IDG) – EIDA component**
 
 * J. Bienkowski, (Chair), L. Trani - ODC-KNMI

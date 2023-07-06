@@ -16,7 +16,7 @@ These goals are achieved through the development and maintenance of data service
 * the European Integrated waveform Data Archive (EIDA; https://www.orfeus-eu.org/data/eida/); 
 * the European Strong-Motion databases (SM; https://www.orfeus-eu.org/data/strong/). 
 
-A new SMC is being established to represent the community of European mobile pools including amphibian instrumentation (MP, https://www.orfeus-eu.org/data/mobile/). Products and services for computational seismologists are also considered for integration in the ORFEUS domain, possibly leveraging on new EC-funded efforts. ORFEUS services currently provide access to the waveforms acquired by ~ 18,000 stations in Pan-Europe, including dense temporary experiments, with strong emphasis on open, high-quality data. 
+A new SMC is being established to represent the community of European mobile pools including amphibian instrumentation (MP, https://www.orfeus-eu.org/data/mobile/). Products and services for computational seismologists are also considered for integration in the ORFEUS domain, possibly leveraging on new EC-funded efforts. ORFEUS services currently provide access to the waveforms acquired by 23,000+ stations in Pan-Europe, including dense temporary experiments, with strong emphasis on open, high-quality data. 
 
 ORFEUS and its Service Management Committees collectively engage in longterm data access, including data preservation and access continuity. For example, this would include ensuring transparent and continued data access in the unlikely case of permanent failure of a participating infrastructure.
 
@@ -28,7 +28,7 @@ ORFEUS data and services are assessed and improved through the technical and sci
 
 
 ORFEUS is one of the most advanced infrastructures for seismology in Europe. It is the infrastructure for seismological waveform data in EPOS (European Plate Observing System) to establish sustainable and harmonized services for seismological data to the solid Earth research communities.
-All ORFEUS services are developed in coordination with EPOS and are largely integrated in the EPOS Data Access Portal (https://www.ics-c.epos-eu.org/). ORFEUS is one of the founding Parties and a fundamental pillar of EPOS Seismology (https://www.epos-eu.org/tcs/seismology). ORFEUS actively participates to EC-funded projects, which in 2021-2022 include RISE, EPOS-SP and geo-INQUIRE.
+All ORFEUS services are developed in coordination with EPOS and are largely integrated in the EPOS Data Access Portal (https://www.ics-c.epos-eu.org/). ORFEUS is one of the founding Parties and a fundamental pillar of EPOS Seismology (https://www.epos-eu.org/tcs/seismology). ORFEUS actively participates to EC-funded projects (e.g., NERIES, NERA, ENVRI, VERCE, EPOS-PP/IP/SP, EUDAT, SERA, RISE, Geo-INQUIRE).
 
 On an international level ORFEUS participates in the International Federation of Digital Seismograph Networks (FDSN). ORFEUS operates under the auspices of the European Seismological Commission and cooperates closely with the European-Mediterranean Seismological Centre (EMSC)
 and the  European Facilities for Earthquake Hazard and Risk (EFEHR).
