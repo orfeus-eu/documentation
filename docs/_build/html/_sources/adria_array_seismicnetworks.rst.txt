@@ -1,15 +1,15 @@
 AdriaArray - Seismic networks
 ====================
 
-In various stages of planning and for different purposes, we prepared maps showing the distribution of permanent stations and suggested locations of temporary stations. The maps cover a range of complexity from very simple ones using just two colors to more comples figures explaining the station distribution in detail. Below, we show some of maps. All the maps and supporting files can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray>`_.
+In various stages of planning and for different purposes, we prepared maps showing the distribution of permanent stations and suggested locations of temporary stations. The maps cover a range of complexity from very simple ones using just two colors to more complex figures explaining the station distribution in detail. Below, we show some of maps. All the maps and supporting files can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray>`_.
 
 
-AdriaArray Github repository
+AdriaArray GitHub repository
 -------------------------------
 
 The repository contains the `AdA folder <https://github.com/PetrColinSky/AdriaArray/tree/master/AdA>`_, which includes `permanent <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/InventoryPermanent.xls?raw=true>`_ and `temporary <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/InventoryTemporary.xls?raw=true>`_ station inventories.
 
-The following two texts files describe what else you can find in the AdriaArray Github repository.
+The following two texts files describe what else you can find in the AdriaArray GitHub repository.
 
 The file `maps-legend.pdf <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/maps-legend.pdf?raw=true>`_ explains how the AdriaArray network was planned and what can be seen on the maps. It is enough to read this text to understand the maps provided.
 
@@ -27,7 +27,7 @@ Stations maps
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/06AdriaBBovr.png
    :width: 600
    
-Highly simplified map showing only the permanent and mobile stations regardless of their type.
+Highly simplified map showing only the permanent and mobile stations regardless of their type. Permanent stations are marked with red triangles while temporary stations are marked with light green triangles.
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/01AdriaTotal.png
    :width: 600
@@ -62,8 +62,8 @@ The data and metadata of all permanent and temporary stations belonging to the A
 Broadband stations covering homogeneously the AdriaArray region outlined by the yellow line in the maps form the AdriaArray backbone. The shortest corner period of the backbone is 30s. To download the data, a virtual network _ADARRAY can be used. All broadband stations in the region with HH* and BH* channels are included in _ADARRAY. According to the SEED convention, H** and B** channels are assigned for sensors with corner period of equal or longer than 10 s. _ADARRAY virtual network hence includes more stations than the AdriaArray backbone. The backbone is a subset of _ADARRAY.
 
 
-Network & station availability
---------------------------------
+Network & status of station operation
+--------------------------------------
 
 Current status of the deployment of mobile stations:
 
@@ -81,44 +81,354 @@ Relation between EIDA nodes and network codes:
 AdriaArray - Local experiments
 --------------------------------
 
-Representatives of each Arria Array members will be contacted shortly to provide us more information regarding the current status of local seismic deployments.
+Representatives of each Arria Array members will be contacted shortly to provide us more information regarding the current status of local seismic deployments (see top map of the page).
 This section will be updated accordingly.
 
-	- Experiment 1
-Description
+	- profile from Poland to Slovakia,
+	
+		Additional 18 stations.
+		
+		Contact: `Stanisław Mazur <mailto:ndmazur@cyf-kr.edu.pl>`_, `Christian Schiffer <christian.schiffer@geo.uu.se>`_, and `Ulrich Wegler <ulrich.wegler@uni-jena.de>`_. 
    
-	- Experiment 2
-Description
+	- denser network at the coast of Croatia,
+	
+		Local densification.
+		
+		Contacts: `Stéphane Rondenay <mailto:rondenay@uib.no>`_ and `Josip Stipčevič <mailto:jstipcevic.geof@pmf.hr>`_.
    
-	- Experiment 3
-Description
-   
-	- Experiment 4
-Description
-   
-	- Experiment 5
-Description
+	- large-N array in Albania,
+	
+		Additional 400 sensors (not in the maps).
+		
+		Contact: `Andreas rietbrock <andreas.rietbrock@kit.edu>`_
+
+	- denser network in Romania,
+	
+		4 additional stations in Vrancea, Romania.
+		
+		Contact: `Renata Lukešová <lukesova@irsm.cas.cz>`_
 
 AdriaArray - Data availability
 -------------------------------
 
+EIDA Nodes
+~~~~~~~~~~
+
+Data access through EIDA (European Integrated Data Archive) is managed by `EIDA <https://www.orfeus-eu.org/data/eida/>`_. AdriaArray participants get immediate access via `FDSN <https://www.fdsn.org/webservices/>`_ (Federation of Digital Seismograph Networks) web services within `ORFEUS <https://www.orfeus-eu.org/>`_ (Observatories & Research Facilities for European Seismology) to permanent and temporary stations belonging to AdriaArray for research agreed upon by the Steering Committee for AdriaArray Seismology Group (`Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ ). Data of temporary AdriaArray on-shore stations delayed due to lack of telemetry and/or due to quality control procedures become accessible to AdriaArrayparticipants via FDSN web services as soon as possible, but not later than one year after acquisition. 
+Rotated and timing-corrected OBS data become available via FDSN web services to AdriaArray participants as soon as possible, but not later than one year after recovery.
+
+.. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/15AdAmembers.png
+   :width: 600   
+
+Data access options [permanent stations]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ states that for permanent stations within the AdriaArray initiative, the data and metadata are fully open access via EIDA from day 1 (deployment of the station).
+
+
+Data access options [temporary stations]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ states that for temporary stations within the AdriaArray initiative, there are two options for data access to AdriaArray stations via the EIDA infrastructure by non-members:
+
+	#) fully open access via EIDA from day 1 (deployment of the station); 
+	#) rolling embargo of two years after acquisition (i.e, data become fully open two years after acquisition). 
+
+The AdriaArray Seismology Group members deploying or hosting temporary AdriaArray stations specify whether they opt for 1.) or 2.) for temporary AdriaArray stations upon signature of this `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_.
+
+AdriaArray members have full access to the data from day 1 (deployment of the station).
+
+
+
+
+
+
+
 How to access the data?
 -----------------------
 
+Permanent stations, temporary stations with open access as well as metadata (stationXML) are available to AdriaArray members and non members `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
+
+In order to access the embargoed AdriaArray data, `EIDA Token <https://geofon.gfz-potsdam.de/eas/EIDAAuthenticationService.pdf>`_ is needed. The token act as login and passwords while requesting waveforms.
+
 EIDA Token
 ~~~~~~~~~~
-	- The seismic embargoed data will be available to the participants `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_ at later stage.
+	- The seismic data will be available to the participants `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
 	- The metadata are openly available, but accessing the embargoed waveforms requires an authentification.
 
-Retrieving the waveforms
-~~~~~~~~~~~~~~~~~~~~~~~~
+
+In order to get a token that would give you access to the embargoed AdriaArray data, the procedure is the following:
+
+	#) Register to B2Access
+		If you already have a B2Access account, go to 2)
+		If you do not have a B2Access account, please visit `this link <https://b2access.eudat.eu/home/>`_
+
+		Please go to the link "No account, sign up".
+		You need to create a B2Access user account (either with a username or with a certificate, up to you, no difference here).
+		The most important is that you need to click "Select group:" and **request to be part of EPOS**. Otherwise, you won't be able to access the data.
+
+
+
+	#) Granting permission.
+		Then, please let `the representative of Working Group 'Communication and Outreach' <mailto:legendre@ig.cas.cz>`_ know which email was registered, to be added to the AdriaArray group.
+
+		Some nodes (as NIEP) require a manual update of the email list, and it may take a few more days to access the full database (i.e. Y8 network code).
+
+
+
+		With this token, you should have access to all the AdriaArray data that are online.
+		Any token generated before being added to the EPOS group will not give you access to the embargoed data.
+		The representative of Working Group 'Communication and Outreach will contact you to confirm that your account has been added to the AdriaArray group as well ad to the list of users that are allowed to request data from NIEP.
+		
+		**You will then be able to request a token** `there <https://geofon.gfz-potsdam.de/eas/>`_
+
+	#) Token properties:
+		In the readable part of the token, there are several fields that can be checked easily:
+		
+			.. code-block:: python
+			   :emphasize-lines: 3,5-6
+
+			   "valid-until": "2022-02-20T02:20:02.200220Z" # Validity of the token
+			   "cn": "Cédric Legendre"                      # Your name
+			   "memberof": "/epos;/epos/Y0HBP;/"            # Your permissions
+
+
+		/epos/Y0HBP is the technical name of /EPOS/AdriaArray!
+		
+		**Please check carefully:**
+		In your token, if the field "memberof" does not include "/EPOS", you may need to create a new account. In point 1) Register to B2Access, you did not **request to be part of EPOS**.
+		
+		If you are a member of "/EPOS" but you are not a member of "/EPOS/Y0HBP", you need to wait to be added to the AdriaArray group by the representative of Working Group 'Communication and Outreach'.
+
+	#) Data download
+		Once you have a valid token, you should have access to the embargoed data hosted in EIDA.
+		Please check carefully your token ("memberof" and "valid-until") before requesting any data.
+
+
+Retrieving metadata using webbrowser
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	- Example with open station
+	Obtain the metadata for `the station OE-CONA for all 3 components <https://www.orfeus-eu.org/fdsnws/station/1/query?net=OE&station=CONA&channel=???&level=response>`_.
+
+	.. code-block:: python
+
+	   https://www.orfeus-eu.org/fdsnws/station/1/query?net=OE&station=CONA&channel=???&level=response
+
+	- Example with embargoed station
+	Obtain the metadata for `the station Z6-A090A for all 3 components <https://erde.geophysik.uni-muenchen.de/fdsnws/station/1/query?net=Z6&station=A090A&channel=???&level=response>`_.
+
+	.. code-block:: python
+
+	   https://erde.geophysik.uni-muenchen.de/fdsnws/station/1/query?net=Z6&station=A090A&channel=???&level=response
+
+
+Retrieving waveforms using webbrowser
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	- Example with open station
+	Obtain 2 hrs of the record of the big Turkey earthquake from February 6, 2023 `the station OE-CONA <https://www.orfeus-eu.org/fdsnws/dataselect/1/query?net=OE&station=CONA&start=2023-02-06T01:00:00&end=2023-02-06T03:00:00>`_:
+
+	.. code-block:: python
+
+	   https://www.orfeus-eu.org/fdsnws/dataselect/1/query?net=OE&station=CONA&start=2023-02-06T01:00:00&end=2023-02-06T03:00:00
+
+	- Example with embargoed station
+	**This example will require to have a valid token.**
+	In this example, the token is found at '/home/myusername/.eidatoken'.
+	
+	This is a two step procedure, detailed `there <https://geofon.gfz-potsdam.de/waveform/archive/auth/auth-example.php>`_.
+	
+ 	In a first step, you can request a username and password for /queryauth using wget, curl or similar tools: 
+
+	.. code-block:: python
+
+	   - Using wget:
+	   $ wget --post-file /home/myusername/.eidatoken https://geofon.gfz-potsdam.de/fdsnws/dataselect/1/auth -O cred.txt
+
+	.. code-block:: python
+
+	   - Using curl:
+	   $ curl --data-binary @/home/myusername/.eidatoken https://geofon.gfz-potsdam.de/fdsnws/dataselect/1/auth -o cred.
+
+
+ 	In a second step, you can either use direct download: 
+
+	.. code-block:: python
+
+	   http://`cat cred.txt`@geofon.gfz-potsdam.de/fdsnws/dataselect/1/queryauth?starttime=2015-12-15T16:00:00Z&endtime=2015-12-15T16:10:00Z&network=IA&station=AAI
+
+ 	Otherwise, you can use the FDSNWS tools: 
+
+	.. code-block:: python
+
+	   - Using wget:
+	   $ wget "http://`cat cred.txt`@geofon.gfz-potsdam.de/fdsnws/dataselect/1/queryauth?starttime=2015-12-15T16:00:00Z&endtime=2015-12-15T16:10:00Z&network=IA&station=AAI" -O data.mseed
+
+	.. code-block:: python
+
+	   - Using curl:
+	   $ curl --digest "http://`cat cred.txt`@geofon.gfz-potsdam.de/fdsnws/dataselect/1/queryauth?starttime=2015-12-15T16:00:00Z&endtime=2015-12-15T16:10:00Z&network=IA&station=AAI" -o data.mseed
+
+
+
+   
+Retrieving waveforms using fdsnws_fetch
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The fdsnws_scripts, which includes `fdsnws_fetch <https://geofon.gfz-potsdam.de/software/fdsnws_fetch/>`_, is a collection of next-generation distributed data request tools that are based on FDSN web services and the EIDA routing service. 
+Note that the EIDA token is assumed to be ~/.eidatoken
+
+fdsnws_scripts can be install directly from pip:
+
+.. code-block:: python
+	   
+	   $ pip install fdsnwsscripts
+
+
+You supply the time window and channel information in one command:
+
+.. code-block:: python
+
+   $ fdsnws_fetch -vvv -N Z6 -C "HHZ" -s "2023-02-06T01:00:00" -e "2023-02-06T03:00:00" -o data.mseed
+
+
+More details can be found `there <https://geofon.gfz-potsdam.de/waveform/archive/auth/auth-example.php>`_.
+
+Retrieving data using the Orfeus/EIDA web interface
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	- `EIDA web interface <http://eida.gfz-potsdam.de/webdc3/>`_.
+
+	- `Orfeus web interface <https://orfeus-eu.org/webdc3/>`_.
+
+
+Retrieving metadata using Obspy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Simple python script example to request the stationXML files for the 1Y network.
+
+
+.. code-block:: python
+
+   import obspy
+   from obspy.clients.fdsn import RoutingClient
+   
+   inv = RoutingClient("eida-routing", credentials={'EIDA_TOKEN': './eidatoken.pgp'}).get_stations(starttime=obspy.UTCDateTime(), network="1Y", level="station")
+   print(inv)
+   ### Uncomment the next line to save the stationXML file locally.
+   # inv.write("example.xml",format="STATIONXML")  
+
+
+Retrieving waveforms using Obspy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Simple python script example to request the 3 component waveforms for the 1Y network .
+
+
+.. code-block:: python
+
+   import obspy
+   from obspy.clients.fdsn import RoutingClient
+   from obspy import UTCDateTime
+   
+   t = UTCDateTime("2023-01-10T01:25:00.000")
+   st = RoutingClient("eida-routing", credentials={'EIDA_TOKEN': './eidatoken.pgp'}).get_waveforms(network="1Y", station="*", channel="*", location='*', starttime=t, endtime=t + 1 * 60)
+   print(st.__str__(extended=True))
+   ### Uncomment the next line to save the miniSEED file locally.
+   # st.write("example.mseed",format="MSEED")  
+
+
+
+
+Retrieving the waveforms & Virtual AdriaArray network
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(By `Johannes Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_).
+
+
 `User documentation <https://geofon.gfz-potsdam.de/eas/EIDAAuthenticationService.pdf>`_ is available online.
 Full documentation is provided on the `EIDA users feedback <https://github.com/EIDA/userfeedback/#eida-authentication-system--accessing-restricted-data>`_.
+
+
+The recommended way to download data from the AdriaArray stations is via a download script, 
+using the obspy library in the python programming language. A basic code example will be given at the end of this section. The full API documentation for 
+obspy is available `here <https://docs.obspy.org/tutorial/index.html>`_.
+
+Since some of the AdriaArray data will be embargoed at first, we will need to authenticate our user to download it. 
+This is done by passing a valid `eidatoken <https://geofon.gfz-potsdam.de/eas/EIDAAuthenticationService.pdf>`_ when we initialize the RoutingClient. This RoutingClient will also take care of figuring out which networks are hosted at which data centers for us.
+Additionally, we can use the \_ADARRAY virtual network code to further simplify our request.
+This virtual network includes all station in a `geographic region <https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/01AdriaTotal.png>`_ around the Adria, so it is very easy to request all the data at once, as shown in the example at the end.
+
+
+When we do these kinds of requests, we have to keep in mind how much data we are requesting.
+Once everything is deployed, there will be roughly 1900 permanent stations, as well as almost 500 mobile stations as part of the AdriaArray.
+**An hour of data sampled at 100 Hz is about 1.5 MB**, and all the data we request at once will need to reside in the system memory.
+**Requesting a whole day for all the stations might take more than 64 GB** of RAM, triple that if we request all three components. In those cases, it is prudent to split the request into smaller chunks, for example by looping over the stations individually.
+
+In the example, we request 2 hours of data, so it might take 15 minutes (or more) to download everything.
+
+Note the call to merge at the end. Sometimes, the requested data will be fragmented into shorter segments, and merging it makes it easier to handle the data for subsequent processing or saving.
+
+Lastly, we can save the data to the harddrive for later processing and analysis.
+
+If you run into problems with the download, an `Issue Tracker <https://github.com/EIDA/userfeedback/issues>`_ is enabled at GitHub so that users can report problems when trying to access the data. These issues are checked continuously, in order to provide a solution as soon as possible.
+
+**Before submitting an issue, please check that the problem has not been previously reported.**
+
+At the moment of creating the issue you will see some templates for different types of problems (e.g. no data, wrong metadata, authentication). Make good use of the issue templates, as they have a list of the information we would need to find a suitable solution. 
+
+Example Python code
+~~~~~~~~~~~~~~~~~~~~
+(By `Johannes Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_).
+
+.. code-block:: python
+   :linenos:
+   :emphasize-lines: 3,5-6
+
+   import os
+   from obspy import UTCDateTime
+   from obspy.clients.fdsn import RoutingClient
+   ### This assumes that the eida-token is located in the home folder.
+   token=os.path.expanduser('~/eidatoken.pgp')
+   ### Initialize the Routing Client with eida-token identification.
+   Client = RoutingClient('eida-routing',
+   timeout=30,
+   credentials={'EIDA_TOKEN': token})
+   
+   ### Define start and end times for the data.
+   start = UTCDateTime(2023,4,24,20,0)
+   end = UTCDateTime(2023,4,24,22,0)
+   
+   ### Request the waveforms. This example requests all Z-component seismometer data 
+   ### for all  stations in the virtual _ADARRAY network.
+   waveforms = Client.get_waveforms(network='_ADARRAY',
+   channel='*HZ',
+   starttime=start,
+   endtime=end)
+   
+   ### Attempt to merge the waveforms that arrived fragmented.
+   waveforms.merge()
+   
+   ### Save the data to disk
+   waveforms.write('AA_example_data.mseed',format='MSEED')
+
+
+
 
 
 How to cite the data?
 -----------------------------
 	- For each network code belonging to the AdriaArray initiative, `a DOI <https://www.fdsn.org/networks/?search=adriaarray>`_ will be registered, allowing to cite the data.
+	- As an example, the `1Y network <https://www.fdsn.org/networks/detail/1Y_2022/>`_ can be cited `as follow <https://doi.org/10.7914/y0t2-3b67>`_:
+
+	.. code-block:: python
+	
+	   Wolfgang Friederich, Christos Evangelidis, Costas Papazachos, Efthimios Sokos,
+	   George Kaviris, & Dragana Cernih. (2022).
+	   AdriaArray Temporary Network: Greece, North Macedonia [Data set].
+	   International Federation of Digital Seismograph Networks.
+	   https://doi.org/10.7914/y0t2-3b67
 
 
 

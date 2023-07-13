@@ -14,7 +14,7 @@ AdriaArray - Members
    :widths: 25 25 25
    :header-rows: 1
 
-   * - Member
+   * - Member (participating institution)
      - Country
      - Representative
    * - Department of  Seismology, Institute of Geosciences, Polytechnic University of Tirana

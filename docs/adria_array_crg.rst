@@ -43,9 +43,10 @@ Seismicity
 
 Body wave tomography
 ---------------------
+	- Intitial contact: `C. Piromallo <mailto:claudia.piromallo@ingv.it>`_
 Body wave traveltimes 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-	- Intitial contacts: `P. De Gori <mailto:pasquale.degori@ingv.it>`_, `C. Piromallo <mailto:claudia.piromallo@ingv.it>`_.
+	- Intitial contacts: `P. De Gori <mailto:pasquale.degori@ingv.it>`_.
 	- The large station array and huge high-quality data stream, produced earlier by the AlpArray and now by AdriaArray Seismic Networks, provide a rich and unique dataset for body wave tomography studies. To optimize the exploitation of the size and quality of these dataset we need to employ semi- or fully automated picking procedures able to reproduce in the best way the careful, handy re-picked tasks of the experienced seismologists.
 	- This activity could include:
 		#. surveying and benchmarking of the existing automated picking tools for regional and teleseismic phases;
@@ -57,7 +58,7 @@ Body wave traveltimes
 
 Modeling body wave propagation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	- Intitial contact: `H. Keers <mailto:Henk.Keers@uib.no>`_
+	- Intitial contact: `H. Keers <mailto:Henk.Keers@uib.no>`_.
 	- The main goal of the CRG on Modeling body wave propagation is to systematically compare the various seismic modeling methods that are used, or have the potential to be used, in regional seismology. Related subgoals are to build suitable velocity models for these modeling methods (using existing tomographic models and/or input from the geodynamic CRG), the observations and modeling of various seismic phases (travel times, waveforms, splitting parameters) and the use of these modeling methods in the computation of sensitivity functions and inversions.
 
 Synthetic resolution tests of body wave tomography

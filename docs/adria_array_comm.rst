@@ -54,7 +54,7 @@ History of AdriaArray
 May 2022
 ~~~~~~~~~~~~~~~~~~
 
-The following institutions are initiators of the AdASG:
+The following institutions are initiators of the AdriaArray Seismology Group (AdASG):
 	- ETH, represented by Anne Obermann,
 	- KIT, represented by Andreas Rietbrock,
 	- Poland, represented by Wojciech Czuba,
