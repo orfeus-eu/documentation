@@ -132,7 +132,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * University of Barcelona; Faculty of Geology; Department of Geodynamics and Geophysics
 * Complutense University Madrid
 * Spanish Royal Observatory of the Army
-* University of Leicester; School of Geography
+* University of Leicester; School of Geography - SEIS UK
 * University of Edinburgh; School of GeoSciences
 * AWE Blacknest
 * (Note: French seismological institutions are represented by CNRS in the BoD)
