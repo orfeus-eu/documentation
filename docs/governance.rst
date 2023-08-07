@@ -111,7 +111,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Christian-Albrecht University of Kiel; Institute for Geosciences
 * National Observatory of Athens; Institute of Geodynamics
 * University of Athens; Seismology
-* Research Centre for Astronomy and Earth Sciences; Geodetic and Geophysical Institute; Kovesligethy Rado Seismological Observatory
+* Institute of Earth Physics and Space Science, Kovesligethy Rado Seismological Observatory
 * Dublin Institute of Advanced Studies
 * Geophysical institute of Israel
 * Israeli NDC
