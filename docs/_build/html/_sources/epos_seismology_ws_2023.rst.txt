@@ -6,7 +6,7 @@ EPOS Seismology Workshop 2023
 Call for Registrations
 ----------------------
 
-The registration is **OPEN** for the EPOS Seismology Workshop 2023 on
+The registration is **CLOSED** for the EPOS Seismology Workshop 2023 on
 
 **Next-Generation Open Seismological Data Sharing for Science and Society**.
 
