@@ -80,6 +80,15 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Prof. E. Çaktı / Dr. D. Kalafat (Turkey, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Turkey, AFAD)
 
+
+** Memmers of the MP SMC Management Board **
+* Dr. Christian Haberland (Co-Chair, Germany, GFZ/GIPP)
+* Dr. Wayne Crawford (Co-Chair, France, IPGP/INSU)
+* Dr. Florent Brenguier (Frances, SisMob)
+* Dr. Victoria Lane (UK, SeisUK)
+* Dr. Jordi Diaz (Spain, LabSis)
+* Observer: Prof. G. Hillers (Finland, FLEX-EPOS) 
+ 
 **Members of the User Advisory Group (UAG)**
 
 * Dr. P. Kolínský (Chair, Czech Republic, IG-CAS)
