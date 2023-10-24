@@ -2,7 +2,7 @@ EPOS Seismology Workshop 2023
 =============================
 
 .. figure:: _static/logos_workshop_2023.jpg
-.. figure:: _static/podgorica23.png
+.. figure:: _static/podgorica23.jpg
 
 **Next-Generation Open Seismological Data Sharing for Science and Society**.
 
