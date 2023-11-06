@@ -170,6 +170,33 @@ AdriaArray - Members
    * - University of Twente
      - The Netherlands
      - Mark van der Meijde
+   * - University of Cambridge
+     - England
+     - Sergei Lebedev
+   * - Carpathian Project Group
+     - Various
+     - Stanisław Mazur
+   * - Université Côte d’Azur
+     - France
+     - Karin Sigloch
+   * - Goethe-Universität Frankfurt
+     - Germany
+     - Georg Rümpker
+   * - French consortium (Grenoble, Toulouse, Strasbourg)
+     - France
+     - Anne Paul
+   * - National Academy of Sciences of Ukraine
+     - Ukraine
+     - Liudmyla Farfuliak
+   * - Uni Roma Tre
+     - Italy
+     - Fabio Cammarano
+   * - University of Trieste
+     - Italy
+     - Stefano Parolai
+   * - Seismological survey of Serbia
+     - Serbia
+     - Dejan Valčić
      
 Location of the AdriaArray member institutions:
 
@@ -245,6 +272,9 @@ AdriaArray - Participants
    * -  Laboratory of Seismology, Department of Geology, University of Patras 
      -  Greece
      -  Athanasios Lois
+   * -  Goethe University Frankfurt
+     -  Germany
+     -  Ayoub Kaviani
    * -  Kövesligethy Radó Seismological Observatory, EPSS, Hungary
      -  Hungary
      -  Barbara Czecze
@@ -302,6 +332,9 @@ AdriaArray - Participants
    * -  NIEP
      -  Romania
      -  Constantin Ionescu
+   * -  ISTERRE
+     -  FRANCE
+     -  Coralie Aubert
    * -  Geophysical Lab, Aristotle Univ. Thessaloniki
      -  Greece
      -  Costas Papazachos
@@ -365,6 +398,9 @@ AdriaArray - Participants
    * -  Institute of Earth Physics and Space Science
      -  Hungary
      -  Erzsébet Győri
+   * -  Roma Tre University
+     -  Italy
+     -  Fabio Cammarano
    * -  B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
      -  Turkey
      -  Fatih Turhan
@@ -398,9 +434,15 @@ AdriaArray - Participants
    * -  National and Kapodistrian University of Athens
      -  Greece
      -  Georgios Michas
+   * -  Goethe University Frankfurt
+     -  Germany
+     -  Georg Rümpker
    * -  Sofia University "St. Kliment Ohridski", Faculty of Physics
      -  Bulgaria
      -  Gergana Dimitrova Georgieva
+   * -  Ruhr University Bochum
+     -  Germany
+     -  Gian-Maria Bocchini
    * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      -  Italy
      -  Giuliana Rossi
@@ -431,6 +473,12 @@ AdriaArray - Participants
    * -  Institute of Geophysics, Czech Academy of Sciences
      -  Czech Republic
      -  Helena Zlebcikova
+   * -  Université Grenoble Alps / ISTerre
+     -  France
+     -  Helle Pedersen
+   * -  Università degli Studi Roma Tre
+     -  Italy
+     -  Henrique Berger Roisenberg
    * -  National Observatory of Athens, Institude of Geodynamics
      -  Greece
      -  Ioannis Fountoulakis
@@ -485,6 +533,9 @@ AdriaArray - Participants
    * -  Seismological Observatory, Faculty of Natural Sciences and Mathematics, Ss. Cyril and Methodius University in Skopje
      -  Republic of North Macedonia
      -  Jasmina Najdovska
+   * -  EOST- Strasbourg
+     -  France
+     -  Jérôme VERGNE
    * -  Institute of Geophysics of the Czech Academy of Science
      -  Czech Republic
      -  Jiri Kvapil
@@ -569,6 +620,9 @@ AdriaArray - Participants
    * -  Ruhr-University Bochum
      -  Germany
      -  Marcel Paffrath
+   * -  Ruhr University Bochum
+     -  Germany
+     -  Marco P. Roth
    * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
      -  Italy
      -  Marco Santulin
@@ -674,6 +728,9 @@ AdriaArray - Participants
    * -  Department of Geophysics - Aristotle University of Thessaloniki
      -  Greece
      -  Petros Triantafyllidis
+   * -  Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France
+     -  France
+     -  Pierre Boué
    * -  Institute of Geophysics, Polish Academy of Sciences
      -  Poland
      -  Piotr Środa
@@ -698,6 +755,9 @@ AdriaArray - Participants
    * -  Bogazici University- KOERI-RETMC
      -  Turkiye
      -  Selda Altuncu Poyraz
+   * -  University of Cambridge
+     -  UK
+     -  Sergei Lebedev
    * -  Institute of Geophysics, Polish Academy of Sciences
      -  Poland
      -  Shubhasmita Biswal
@@ -719,7 +779,7 @@ AdriaArray - Participants
    * -  National and Kapodistrian University of Athens
      -  Greece
      -  Spyridon Dilalos
-   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+   * -  University of Trieste (previously at Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS)
      -  Italy
      -  Stefano Parolai
    * -  INGV
@@ -815,7 +875,7 @@ This section will be updated accordingly.
 AdriaArray - application
 -----------------------------
 The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ lists the requirements to become an AdriaArray member.
-If your institution appears to be eligible to apply for membership, please contact `Petr Kolínský <mailto:thomas.meier@ifg.uni-kiel.de>`_ for further information.
+If your institution appears to be eligible to apply for membership, please contact `Petr Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_ or `Thomas Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_ for further information.
 
 AdriaArray - Contact
 -----------------------------

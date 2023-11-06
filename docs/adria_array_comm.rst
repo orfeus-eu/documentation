@@ -3,7 +3,6 @@ AdriaArray Communication & Outreach
 
 News
 -----
-	- `Here is the call for CRL School 2023 <https://nfo.crlab.eu/crl-school-2023>`_
 	- On May 10th, within the frame of the 13th Sofia Science Festival, G. Georgieva gave a nice introduction and promotion of AdriaArray on Bulgarian National Television (BNT). `Link to the interview - in Bulgarian. <https://bnt.bg/news/mashtabna-mezhdunarodna-iniciativa-izuchava-seizmichnata-aktivnost-v-evropa-v344307-317801news.html?fbclid=IwAR2Tm32dpKnhod_jygLrDrrLI6wf4c1JdmmhjaPXvBBxLWC07LcNAyKh7hQ>`_
 
 Relevant earthquakes in the region
@@ -136,6 +135,28 @@ A third international workshop is being organised in Dubrovnik, Croatia, on 3-5 
 AdriaArray Splinter meeting during the EGU 2023 (https://meetingorganizer.copernicus.org/EGU23/session/47742).
 
 Logo was approved and is available at the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray/tree/master/logo/>`_.
+
+September 2023
+~~~~~~~~~~~~~~
+`Here is the call for CRL School 2023 <https://nfo.crlab.eu/crl-school-2023>`_
+
+
+The following applications have been accepted and are now members of the AdriaArray:
+	- University of Cambridge, represented by Sergei Lebedev,
+	- Carpathian Project Group, represented by Stanisław Mazur,
+	- Université Côte d'Azur, represented by Karin Sigloch,
+	- Goethe-Universität Frankfurt, represented by Georg Rümpker,
+	- French consortium (Grenoble, Toulouse, Strasbourg), represented by Anne Paul,
+	- National Academy of Sciences of Ukraine, represented by Liudmyla Farfuliak,
+	- Uni Roma Tre, represented by Fabio Cammarano,
+	- University of Trieste, represented by Stefano Parolai.
+
+
+November 2023
+~~~~~~~~~~~~~~~~~~
+
+The following application has been accepted and is now member of the AdriaArray:
+	- Seismological survey of Serbia, represented by Dejan Valčić.
 
 .. _adria_array_comm: 
 

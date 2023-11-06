@@ -433,5 +433,43 @@ How to cite the data?
 
 
 
+
+AdriaArray - Data retrievability and quality
+-----------------------------------------------
+
+Data retrievability and data quality are regularly checked by members of Working Group 3 'Data QC'.
+
+Some files and results can be downloaded from the `Quality Control checks of Adria Array repository <https://github.com/felix-eckel/AdriaArrayQC/>`_ and the `data monitoring repository <https://github.com/doukutsu/eida-data-monitoring/>`_.
+
+
+Data retrievability
+~~~~~~~~~~~~~~~~~~~~
+	- Tests by `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_:
+	
+Most of the tests were performed by `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `F. Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_, `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `M. Timko <mailto:timko.mate@epss.hu>`_, `J. Quinteros <mailto:javier@gfz-potsdam.de>`_ and `L. Vecsey <mailto:vecsey@ig.cas.cz>`_.
+
+
+
+The retrievability tests were conducted from an end user perspective, using a custom python script including functions from the obspy library. Essentially, for each station, a spot check is performed by choosing random one-hour time windows to download, requesting these time window from the data center, and then performing the response correction on the downloaded data. The ratio of the length of the successfully downloaded and response corrected data and the requested time windows is evaluated as the retrievability percentage for the respective stations. These tests were conducted from multiple locations simultaneously, to reduce the effect of client side connection issues on the result.
+
+
+	.. image:: https://raw.githubusercontent.com/doukutsu/eida-data-monitoring/main/retrievability_europe.png
+	   :width: 600
+	
+
+Noise levels
+~~~~~~~~~~~~~~~~~~~~
+	- Tests by `F. Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_:
+	
+Average ambient noise levels can be used as a quality measurement to identify erroneous metadata or poorly behaving stations. This becomes even more powerful when comparing noise levels with neighboring stations. For the quality tests, 24 hours of data on a day without any major teleseismic earthquake are downloaded for all retreivable stations and filtered around 3.0 Hz and 5 s respectively on the vertical component or around 20 s on the horizontal component. Then the 95th percentile of the absolute amplitudes are defined as the 'noise level' and color coded on a map. Outling stations are now easily identifiable.
+	
+
+	.. image:: https://raw.githubusercontent.com/felix-eckel/AdriaArrayQC/main/noise_maps/noise_map_Z_3Hz.png
+ 	  :width: 600
+	.. image:: https://raw.githubusercontent.com/felix-eckel/AdriaArrayQC/main/noise_maps/noise_map_Z_5s.png
+ 	  :width: 600
+	.. image:: https://raw.githubusercontent.com/felix-eckel/AdriaArrayQC/main/noise_maps/noise_map_H_20s.png
+ 	  :width: 600
+
 .. _adria_array_seismicnetworks: 
 
