@@ -145,6 +145,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * University of Edinburgh; School of GeoSciences
 * AWE Blacknest
 * University College London
+* Institute of Hydrometeorology and Seismology of Montenegro
 * (Note: French seismological institutions are represented by CNRS in the BoD)
 
 **Members of the Infrastructure Development Group (IDG) – EIDA component**
