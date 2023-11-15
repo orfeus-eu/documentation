@@ -15,7 +15,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Dr. P. Voss (Denmark, GEUS)
 * Prof. G. Hillers (Finland, Uni. Helsinki)
 * Dr. C. Satriano (France, CNRS-IPGP)
-* Prof. F. Tilmann (Germany, GFZ)
+* Prof. F. Tilmann (Co-Chair, Germany, GFZ)
 * Dr. A. Michelini (Italy, INGV)
 * Dr. E. Ruigrok (Netherlands, KNMI)
 * Prof. L. Ottemöller (Norway, NNSN)
@@ -38,14 +38,17 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 
 * Prof. S. Custódio (President; Portugal, FCUL/IDL)
 * Dr. P. Kolínský (Czech Republic, UAG, IG-CAS)
-* Prof. K. Sigloch 	(France, CNRS Géoazur)
-* Dr. A. Strollo (Germany, GFZ)
+* Prof. K. Sigloch (France, CNRS Géoazur)
+* Dr. C. Haberland (Co-Chair, Germany, GFZ/GIPP)
+* Dr. W. Crawford (Co-Chair, France, IPGP/INSU)
+* Dr. A. Strollo (Vice-President, Germany, GFZ)
 * Dr. Z. Roumelioti (Greece, University of Patras)
 * Dr. C. Evangelidis (Greece, EIDA, NOA)
-* Dr. G. Lanzano (Italy, SM, INGV)
+* L. Luzi (Italy, SM, INGV)
 * Dr. S. D’Amico (Malta, UM)
+* Dr. J. Clinton (Switzerland, SM, SED-ETHZ)
 * R. Sleeman (Netherlands, ODC-KNMI)
-* J. Bienkowski (Netherlands, EIDA, ODC-KNMI)
+* J. Schaeffer (France, EIDA, ISTerre)
 * Dr. C. Cauzzi (Switzerland, SG, SED-ETHZ)
 
 **Members of the EIDA SMC Management Board**
@@ -70,18 +73,19 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Dr. A. Michelini & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
 * Dr. E Maufroy (France, RESIF-RA)
 * Dr. G. Weatherill (Germany, GFZ-GEOFON)
-* Dr. O-J Ktenidou & Dr. I. Kalogeras (Greece, NOA)
+* Dr. O-J Ktenidou & Dr. N. Melis (Greece, NOA)
 * Dr. E. Riga & Prof. K. Pitilakis (Greece, AUTH)
 * Dr. N. Theodoulidis (Greece, ITSAK)
 * Prof. R. Rupakhety (Iceland. EERC)
 * Dr. M. Shahvar (Iran, BHRC)
 * Dr. A. Marmureanu (Romania, NIEP-RO)
-
+* Dr. Martina Čarman (Slovenia, ARSO-SL)
 * Prof. E. Çaktı / Dr. D. Kalafat (Turkey, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Turkey, AFAD)
 
 
-** Memmers of the MP SMC Management Board **
+**Members of the MP SMC Management Board**
+
 * Dr. Christian Haberland (Co-Chair, Germany, GFZ/GIPP)
 * Dr. Wayne Crawford (Co-Chair, France, IPGP/INSU)
 * Dr. Florent Brenguier (Frances, SisMob)
@@ -177,8 +181,5 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 
 **ORFEUS representatives in the EPOS Seismology Consortium Assembly**
 
-* Prof. L. Ottemöller (Chair of the Consortium)
 * Prof. S. Custódio
 * Dr. C. Cauzzi
-* Dr. J. Michalek, Dr. C. Felicetta, E. Russo, M. Fares (ICS-TCS IT+ interaction group)
-
