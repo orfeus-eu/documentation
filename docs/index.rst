@@ -21,6 +21,7 @@ Our website is: http://www.orfeus-eu.org.
    governance
    observatories
    latest_presentations
+   activity_reports
 
 .. toctree::
    :maxdepth: 2
