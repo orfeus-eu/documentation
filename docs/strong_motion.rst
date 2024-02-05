@@ -1,4 +1,4 @@
-Strong Motion
+Introduction
 =============
 
 .. figure:: _static/strongmotion.png

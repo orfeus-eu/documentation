@@ -40,21 +40,13 @@ Our website is: http://www.orfeus-eu.org.
    eida_routing
    eida_example
    stationbook
+   repository
 
 .. toctree::
    :maxdepth: 2
    :caption: Strong Motion:
 
    strong_motion
-
-.. toctree::
-   :maxdepth: 2
-   :caption: EIDA documentation:
-
-   .. installation
-   .. eida_technical
-   .. eida_management
-   repository
 
 .. toctree::
    :maxdepth: 2
