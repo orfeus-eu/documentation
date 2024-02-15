@@ -22,6 +22,7 @@ Our website is: http://www.orfeus-eu.org.
    observatories
    latest_presentations
    activity_reports
+   uag_reports
 
 .. toctree::
    :maxdepth: 2
