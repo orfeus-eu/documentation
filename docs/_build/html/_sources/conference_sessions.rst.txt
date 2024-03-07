@@ -11,7 +11,7 @@ At ESC 2024
 At EGU 2024
 -----------
 
-* Coming soon
+* https://meetingorganizer.copernicus.org/EGU24/session/50244
 
 At EGU 2023
 -----------
