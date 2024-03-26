@@ -3,7 +3,7 @@ AdriaArray Communication & Outreach
 
 News
 -----
-	- On May 10th, within the frame of the 13th Sofia Science Festival, G. Georgieva gave a nice introduction and promotion of AdriaArray on Bulgarian National Television (BNT). `Link to the interview - in Bulgarian. <https://bnt.bg/news/mashtabna-mezhdunarodna-iniciativa-izuchava-seizmichnata-aktivnost-v-evropa-v344307-317801news.html?fbclid=IwAR2Tm32dpKnhod_jygLrDrrLI6wf4c1JdmmhjaPXvBBxLWC07LcNAyKh7hQ>`_
+	- On 10.05.2023, within the frame of the 13th Sofia Science Festival, G. Georgieva gave a nice introduction and promotion of AdriaArray on Bulgarian National Television (BNT). `Link to the interview - in Bulgarian. <https://bnt.bg/news/mashtabna-mezhdunarodna-iniciativa-izuchava-seizmichnata-aktivnost-v-evropa-v344307-317801news.html?fbclid=IwAR2Tm32dpKnhod_jygLrDrrLI6wf4c1JdmmhjaPXvBBxLWC07LcNAyKh7hQ>`_
 
 Relevant earthquakes in the region
 -------------------------------------
@@ -22,7 +22,9 @@ Publication
 AdriaArray Workshops
 --------------------
 
-ORFEUS and EPOS (via the EPOS SP project, Task 4.3) have supported the organisation of AdriaArray (AdA) workshops since 2020.
+ORFEUS (and EPOS via the EPOS SP project, Task 4.3) has supported the organisation of AdriaArray (AdA) workshops since 2020.
+
+* The fourth international AdriaArray workshop was held in Sofia, Bulgaria, on 12-15March 2023. The event was attended by more that 100 people. The program, along with copies of the oral and poster presentations, is available here: https://polybox.ethz.ch/index.php/s/m4k2wJmzDuYuH7k 
 
 * An AdriaArray Splinter meeting took place during the EGU GA 2023 on April 27th.
   - `Announcement <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_
