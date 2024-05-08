@@ -24,7 +24,10 @@ AdriaArray Workshops
 
 ORFEUS (and EPOS via the EPOS SP project, Task 4.3) has supported the organisation of AdriaArray (AdA) workshops since 2020.
 
-* The fourth international AdriaArray workshop was held in Sofia, Bulgaria, on 12-15March 2023. The event was attended by more that 100 people. The program, along with copies of the oral and poster presentations, is available here: https://polybox.ethz.ch/index.php/s/m4k2wJmzDuYuH7k 
+* An AdriaArray Splinter meeting took place during the EGU GA 2024 on April 17th.
+  - `Announcement <https://meetingorganizer.copernicus.org/EGU24/session/50694>`_
+
+* The fourth international AdriaArray workshop was held in Sofia, Bulgaria, on 12-15 March 2024. The event was attended by more that 100 people. The program, along with copies of the oral and poster presentations, is available here: https://polybox.ethz.ch/index.php/s/m4k2wJmzDuYuH7k 
 
 * An AdriaArray Splinter meeting took place during the EGU GA 2023 on April 27th.
   - `Announcement <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_
