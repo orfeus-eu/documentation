@@ -4,7 +4,7 @@ AdriaArray - Organization
 AdriaArray - MoC
 -----------------------------
 
-AdA officially started on 19 May 2022 with the establishment of the Steering Committee for AdriaArray Seismology Group, coordinated by Prof. Thomas Meier. The Committee approved the `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ to be signed by the AdA members.
+AdriaArray (AdA) officially started on 19 May 2022 with the establishment of the Steering Committee for AdriaArray Seismology Group, coordinated by Prof. Thomas Meier. The Committee approved the `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ to be signed by the AdA members.
 
 
 AdriaArray - Members
