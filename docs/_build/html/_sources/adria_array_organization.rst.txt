@@ -880,7 +880,7 @@ If your institution appears to be eligible to apply for membership, please conta
 AdriaArray - Contact
 -----------------------------
 See :any:`adria_array_wg` for the contact information related to specific questions.
-Otherwise, feel free to contact `us <mailto:legendre@ig.cas.cz>`_ for any question, comment or feedback.
+Otherwise, feel free to contact `us <mailto:gregor.rajh@gov.si>`_ for any question, comment or feedback.
 
 
 

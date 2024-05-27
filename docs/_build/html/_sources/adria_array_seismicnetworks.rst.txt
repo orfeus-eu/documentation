@@ -171,7 +171,7 @@ In order to get a token that would give you access to the embargoed AdriaArray d
 
 
 	#) Granting permission.
-		Then, please let `the representative of Working Group 'Communication and Outreach' <mailto:legendre@ig.cas.cz>`_ know which email was registered, to be added to the AdriaArray group.
+		Then, please let `Gregor Rajh' <mailto:regor.rajh@gov.si>`_ know which email was registered, to be added to the AdriaArray group.
 
 		Some nodes (as NIEP) require a manual update of the email list, and it may take a few more days to access the full database (i.e. Y8 network code).
 
@@ -190,7 +190,7 @@ In order to get a token that would give you access to the embargoed AdriaArray d
 			   :emphasize-lines: 3,5-6
 
 			   "valid-until": "2022-02-20T02:20:02.200220Z" # Validity of the token
-			   "cn": "Cédric Legendre"                      # Your name
+			   "cn": "Gregor Rajh"       	                # Your name
 			   "memberof": "/epos;/epos/Y0HBP;/"            # Your permissions
 
 
