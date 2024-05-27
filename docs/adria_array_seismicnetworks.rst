@@ -171,7 +171,7 @@ In order to get a token that would give you access to the embargoed AdriaArray d
 
 
 	#) Granting permission.
-		Then, please let `Gregor Rajh' <mailto:regor.rajh@gov.si>`_ know which email was registered, to be added to the AdriaArray group.
+		Then, please let `Gregor Rajh <mailto:regor.rajh@gov.si>`_ know which email was registered, to be added to the AdriaArray group.
 
 		Some nodes (as NIEP) require a manual update of the email list, and it may take a few more days to access the full database (i.e. Y8 network code).
 

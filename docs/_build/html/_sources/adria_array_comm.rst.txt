@@ -3,6 +3,8 @@ AdriaArray Communication & Outreach
 
 News
 -----
+	- Special issue in Annals of Geophysics called "Recent large-scale temporary passive seismic experiments in Europe: deployment and data quality" is going to be released. Submission will be opened on June 1, 2024 and closed on November 30, 2024. The accepted papers are expected to be released by spring 2025. Submission guidelines are to be found here: `Annals of Geophysics <https://www.annalsofgeophysics.eu/index.php/annals/Submission-guidelines>`_. Please, declare you interest in publishing a manuscript in this special issue by filling in the `form <https://forms.gle/tEUExvg9kL8cTnj3A>`_ given under the following link.  
+
 	- On 10.05.2023, within the frame of the 13th Sofia Science Festival, G. Georgieva gave a nice introduction and promotion of AdriaArray on Bulgarian National Television (BNT). `Link to the interview - in Bulgarian. <https://bnt.bg/news/mashtabna-mezhdunarodna-iniciativa-izuchava-seizmichnata-aktivnost-v-evropa-v344307-317801news.html?fbclid=IwAR2Tm32dpKnhod_jygLrDrrLI6wf4c1JdmmhjaPXvBBxLWC07LcNAyKh7hQ>`_
 
 Relevant earthquakes in the region

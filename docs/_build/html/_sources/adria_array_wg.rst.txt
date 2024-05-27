@@ -8,16 +8,18 @@ Working Group 1 'Station siting'
 Working Group 2 'Technical advice'
 ------------------------------------
 	- Station installation, data flow & telemetry.
-	- Initial contact: `C. Neagoe <mailto:cristian.neagoe@infp.ro>`_.
+	- Initial contact: `C. Neagoe <mailto:cristian.neagoe@infp.ro>`_ &  `Ch. Evangelidis <mailto:cevan@noa.gr>`_.
 
 Working Group 3 'Data QC'
 -----------------------------
-	- Initial contact: `A. Schlömer <mailto:aschloemer@geophysik.uni-muenchen.de>`_, `L. Vecsey <mailto:vecsey@ig.cas.cz>`_, `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `M. Timko <mailto:timko.mate@epss.hu>`_, `F. Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_.
+	- Initial contact: `P. Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_ & `Th. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.	
 
 Working Group 4 'Communication and Outreach'
 ---------------------------------------------
-	- Initial contact: `C. Cauzzi <mailto:carlo.cauzzi@sed.ethz.ch>`_ & `C. Legendre <mailto:legendre@ig.cas.cz>`_.
-
+	- Webpage: `G. Georgieva <mailto:ggeorgieva@phys.uni-sofia.bg>`_, `M. Mustać <mailto:marija.mustac@gfz.hr>`_, `C. Cauzzi <mailto:carlo.cauzzi@sed.ethz.ch>`_.
+	- Token system: `G. Rajh <mailto:gregor.rajh@gov.si>`_.
+	- List of members and participants: `G. Rajh <mailto:gregor.rajh@gov.si>`_ & `P. Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_.
+	- Webinars: `R Kramer <mailto:richard.kramer@univie.ac.at>`_.
 
 .. _Working Group 5:
 Working Group 5 'Scientific Co-operation'
@@ -26,7 +28,7 @@ Working Group 5 'Scientific Co-operation'
 
 Working Group 6 'Early Career Scientists'
 -----------------------------------------
-	- Initial contact: `C. Estève <mailto:clement.esteve@univie.ac.at>`_.
+	- Initial contact: `R. Kramer <mailto:richard.kramer@univie.ac.at>`_ & `J. Confal <mailto:judithconfal@gmail.com>`_.
 
 Technical documents
 -----------------------------
