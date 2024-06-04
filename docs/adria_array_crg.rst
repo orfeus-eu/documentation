@@ -29,19 +29,24 @@ In the following we summarize the discussion on potential topics of CRGs.
 
 
 
-CRG 'Seismicity'
+CRG 'Seismicity & Seismic Sources'
 -----------------
 
-	- Membership secretary: `F. Tilmann <mailto:tilmann@gfz-potsdam.de>`_.
-	- Chair: `E. Sokos <mailto:esokos@upatras.gr>`_.
-	- Co-chair: `G. Petersen <mailto:gesa.petersen@gfz-potsdam.de>`_.
-	- Main topics are Event detection & location, determination of source mechanisms as well as statistic analysis and seismotectonics.
+	- Chairs: `G. Petersen <mailto:gesa.petersen@gfz-potsdam.de>`_. & `E. Sokos <mailto:esokos@upatras.gr>`_.
+        - Membership secretary: `F. Tilmann`_ maintains a register of participants and a `mailing list <adriaarray_seismicity@gfz-potsdam.de>`_, which will reach all members of the CRG.
+	
+	Description of topic:
+	
+Main topics of the CRG are the detection and location of earthquakes, the determination of source mechanisms, either in real-time or offline during detailed in-depth studies, as well as approaches for statistical analysis and interpretations of seismotectonics.
 
-	The CRG Seismicity is split into four subgroups to coordinate the collaborative work:
-		#. Survey of monitoring practices at national agencies: `G. Rossi <mailto:grossi@ogs.it>`_ & `Z. Roumeloti <mailto:zroumelioti@upatras.gr>`_, `F. Tilmann <mailto:tilmann@gfz-potsdam.de>`_. 
+The CRG Seismicity & Sources includes multiple subgroups that were established to coordinate the collaborative work. These subgroups are temporary and subject to changes based on needs and ideas for collaborations.	
+
+	The CRG Seismicity & Seismic Sources is split into four subgroups to coordinate the collaborative work:
+		#. Survey of monitoring practices at national agencies. 
 		#. Parametric data exchange with EMSC, station naming and reporting:  `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_ & `C. Evangelidis <mailto:cevan@noa.gr>`_. 
 		#. Machine learning for seismicity detection and location & crowd processing:  `D Sindija <mailto:dinko.sindija@gfz.hr>`_ & `F. Tilmann <mailto:tilmann@gfz-potsdam.de>`_.
-		#. Moment tensors: `G. Petersen <mailto:gesap@gfz-potsdam.de>`_ & `E. Sokos <mailto:esokos@upatras.gr>`_. The AdriaArray Seismic Network produced a huge increase in available real time data for source studies. The moment tensor subgroup aims in the use of this data, in real time moment tensor retrieval applications, as well as in detailed source studies of moderate and large events in the area.
+		#. Moment tensors and seismic sources: `G. Petersen <mailto:gesap@gfz-potsdam.de>`_ & `E. Sokos <mailto:esokos@upatras.gr>`_. 
+		The AdriaArray Seismic Network produced a huge increase in available real time data for source studies in local and regional distances. The subgroup deals with the usage of this data in real time moment tensor or focal mechanism retrieval applications, as well as in detailed source studies of earthquakes across different magnitude scales, in the Adria area (e.g. extended source studies, slip inversions etc). Goals are the exchange of knowledge and methods, fostering discussions of best practices, exchanging results and collaborating in research projects.
 
 
 CRG 'Body wave tomography'
