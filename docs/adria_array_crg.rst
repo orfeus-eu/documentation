@@ -33,10 +33,10 @@ CRG 'Seismicity & Seismic Sources'
 -----------------
 
 	- Chairs: `G. Petersen <mailto:gesa.petersen@gfz-potsdam.de>`_. & `E. Sokos <mailto:esokos@upatras.gr>`_.
-        - Membership secretary: `F. Tilmann`_ maintains a register of participants and a `mailing list <adriaarray_seismicity@gfz-potsdam.de>`_, which will reach all members of the CRG.
-	
-	Description of topic:
-	
+        - Membership secretary: F. Tilmann maintains a register of participants and a `mailing list <adriaarray_seismicity@gfz-potsdam.de>`_, which will reach all members of the CRG.
+
+Description of topic
+^^^^^^^^^^^^^^^^^^^^^^^^^	
 Main topics of the CRG are the detection and location of earthquakes, the determination of source mechanisms, either in real-time or offline during detailed in-depth studies, as well as approaches for statistical analysis and interpretations of seismotectonics.
 
 The CRG Seismicity & Sources includes multiple subgroups that were established to coordinate the collaborative work. These subgroups are temporary and subject to changes based on needs and ideas for collaborations.	
@@ -45,64 +45,94 @@ The CRG Seismicity & Sources includes multiple subgroups that were established t
 		#. Survey of monitoring practices at national agencies. 
 		#. Parametric data exchange with EMSC, station naming and reporting:  `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_ & `C. Evangelidis <mailto:cevan@noa.gr>`_. 
 		#. Machine learning for seismicity detection and location & crowd processing:  `D Sindija <mailto:dinko.sindija@gfz.hr>`_ & `F. Tilmann <mailto:tilmann@gfz-potsdam.de>`_.
-		#. Moment tensors and seismic sources: `G. Petersen <mailto:gesap@gfz-potsdam.de>`_ & `E. Sokos <mailto:esokos@upatras.gr>`_. 
-		The AdriaArray Seismic Network produced a huge increase in available real time data for source studies in local and regional distances. The subgroup deals with the usage of this data in real time moment tensor or focal mechanism retrieval applications, as well as in detailed source studies of earthquakes across different magnitude scales, in the Adria area (e.g. extended source studies, slip inversions etc). Goals are the exchange of knowledge and methods, fostering discussions of best practices, exchanging results and collaborating in research projects.
+		#. Moment tensors and seismic sources: `G. Petersen <mailto:gesap@gfz-potsdam.de>`_ & `E. Sokos <mailto:esokos@upatras.gr>`_. The AdriaArray Seismic Network produced a huge increase in available real time data for source studies in local and regional distances. The subgroup deals with the usage of this data in real time moment tensor or focal mechanism retrieval applications, as well as in detailed source studies of earthquakes across different magnitude scales, in the Adria area (e.g. extended source studies, slip inversions etc). Goals are the exchange of knowledge and methods, fostering discussions of best practices, exchanging results and collaborating in research projects.
 
 
 CRG 'Body wave tomography'
 ---------------------------
-	- Intitial contact: `C. Piromallo <mailto:claudia.piromallo@ingv.it>`_
+	- Chair: `C. Piromallo <mailto:claudia.piromallo@ingv.it>`_
+	- Co-chair: `Pasquale De Gori <pasquale.degori@ingv.it>`_ & `Clement Esteve <clement.esteve@univie.ac.at>`_.
 
-Body wave traveltimes 
-~~~~~~~~~~~~~~~~~~~~~~~~~
-	- Intitial contacts: `P. De Gori <mailto:pasquale.degori@ingv.it>`_.
-	- The large station array and huge high-quality data stream, produced earlier by the AlpArray and now by AdriaArray Seismic Networks, provide a rich and unique dataset for body wave tomography studies. To optimize the exploitation of the size and quality of these dataset we need to employ semi- or fully automated picking procedures able to reproduce in the best way the careful, handy re-picked tasks of the experienced seismologists.
-	- This activity could include:
+Description of topic and first tasks to be tackled
+^^^^^^^^^^^^^^^^^^^^^^^^^
+The large station array and huge high-quality data stream, produced earlier by the AlpArray and now by AdriaArray Seismic Networks, provide a rich and unique dataset for body wave tomography studies. 
+
+Body wave arrival times determination
+^^^^^^^^^^^^^^^^^^^^^^^^^
+To optimize the exploitation of the size and quality of these dataset we need to employ semi- or fully automated picking procedures able to reproduce in the best way the careful, handy re-picked tasks of the experienced seismologists.
+
+	This activity could include:
 		#. surveying and benchmarking of the existing automated picking tools for regional and teleseismic phases;
 		#. surveying, checking the consistency and sharing the available carefully picked datasets that can be used for comparison and/or learning phases with automated picking procedures;
-		#. comparing picks for a number (to be decided) of selected earthquakes at all AdriaArray stations;
-		#. optimizing automatic picking algorithms and possibly providing training and application on the use of software tools;
-		#. creating a common dataset for a AdA sub region to compare different picking and different inversion codes (as requested by point 3 below).
+		#. comparing picks for a number of selected earthquakes at all AdriaArray stations;
+		#. creating a common dataset for one or more AdA sub regions to compare different picking and different inversion codes;
+		#. optimizing automatic picking algorithms and possibly providing training and application on the use of software tools.
 
-Synthetic resolution tests of body wave tomography
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	- Intitial contact: `C. Estève <mailto:clement.esteve@univie.ac.at>`_.
-	-  We propose to investigate the crust and upper mantle velocity structure underlying the AdriaArray seismic network. In order to achieve this, we need to test different parametrizations and approaches for a subset of the AdriaArray dataset through the extensive use of synthetic resolution tests (spike test, checkerboard test, structural test,…).
+Traveltime tomography and synthetic tests to assess the model resolution
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Studying the crust and upper mantle velocity structure beneath the AdriaArray target region will involve various inversion approaches to process the extensive arrivals dataset (including both linearized and non-linearized methods). An essential final stage is evaluating the model resolution. We propose relying on our collective expertise to ensure a uniform evaluation of model performance. 
+
+	This involves:
+		#. Creating and testing synthetic models: collaboratively develop simplistic or realistic synthetic models reflecting expected geological structures (i.e. standardised benchmarks for testing and comparison).
+		#. Establishing shared testing guidelines: work together to devise guidelines that standardised testing procedures across the board. 
+		#. Comparing model performance: assess the ability of different models to reproduce observed waveforms accurately. 
+		
+This task could be addressed in cooperation with other CRGs (surface waves, waveform inversion, bodywaves from ambient noise, linking geophysical observables).
 
 
-
-CRG 'Forward modeling and waveform inversion'
+CRG 'Modeling of seismic wave propagation and full waveform inversion'
 -------------------------------------------------
 	- Chair: `H. Keers <mailto:Henk.Keers@uib.no>`_.
 	- Co-chair: `S. Chevrot <mailto:sebastien.chevrot@get.omp.eu>`_.
-	- The main goal of the CRG on Modeling body wave propagation is to systematically compare the various seismic modeling methods that are used, or have the potential to be used, in regional seismology. Related subgoals are to build suitable velocity models for these modeling methods (using existing tomographic models and/or input from the geodynamic CRG), the observations and modeling of various seismic phases (travel times, waveforms, splitting parameters) and the use of these modeling methods in the computation of sensitivity functions and inversions.
-
-	This CRG aims to foster collaborations on methodological developments to improve regional-scale FWI imaging by exploiting both body and surface waves. Another objective of this CRG is to provide tools and methods to compute synthetic seismograms in 3D analogues of continental and oceanic subduction zones. These synthetic seismograms will be useful for testing the different tomographic approaches that will be implemented on the AdriaArray datasets. Finally, this CRG will also work on the application of FWI approaches on several focused targets such as the Vrancea region, the Dinarides and the Hellenic subduction. All AdriaArray participants interested in any aspect of these different initiatives (regarding data, methods, geological and geodynamic interpretation, etc...) are invited to join this CRG.
-
-
+	
+Description of topic and first tasks to be tackled
+^^^^^^^^^^^^^^^^^^^^^^^^^
+AdriaArray offers the unique opportunity to measure wavefields at regional scale in a tectonically highly variable region encompassing multiple subduction zones, various orogenic belts, back-arc basins, and volcanic fields. Accurate forward modelling of wave propagation in strongly heterogenous and anisotropic structures is needed to understand the influence of slabs, Moho and lithosphere-asthenosphere topography and mantle flow on seismic wave propagation. Accurate forward modelling stands at the basis for advanced seismic analysis methods including full waveform inversion. At first, we will review existing forward modelling methods. Moreover, we aim at benchmarking existing codes and at the development of advanced inversion methods to invert for crustal and mantle structure in the AdriaArray region. In addition, we will provide training for the use of existing and new modelling and inversion codes.
 
 CRG 'Receiver functions'
 ---------------------------
 	- Chairs: `G. Georgieva <mailto:ggeorgieva@phys.uni-sofia.bg>`_.
-	- Co-chair: `S. Rondenay <mailto:rondenay@uib.no>`_ & `J. Stipčević <mailto:jstipcevic.geof@pmf.hr>`_
-	- This CRG will provide support to AdriaArray members who work on receiver function studies as well as those who want to use receiver function results in their research. In terms of methodologies, the CRG will provide access to harmonized receiver function analysis tools and training on how to use these. It will also serve as a platform to share software and tips on data analysis, and to carry out community-based benchmarking tests. In terms of imaging targets, the CRG will help coordinate efforts to avoid potential overlaps and foster collaborations. At the end of the project, the CRG will produce a harmonized set of receiver function products for the entire AdriaArray network.
+	- Co-chair: `S. Rondenay <mailto:rondenay@uib.no>`_ & `J. Stipčević <mailto:jstipcevic.geof@pmf.hr>`_.
+
+Description of topic and first tasks to be tackled
+^^^^^^^^^^^^^^^^^^^^^^^^^
+This CRG will provide support to AdriaArray members who work on receiver function studies as well as those who want to use receiver function results in their research. In terms of methodologies, the CRG will provide access to harmonized receiver function analysis tools and training on how to use these. It will also serve as a platform to share software and tips on data analysis, and to carry out community-based benchmarking tests. In terms of imaging targets, the CRG will help coordinate efforts to avoid potential overlaps and foster collaborations. At the end of the project, the CRG will produce a harmonized set of receiver function products for the entire AdriaArray network.
 
 
-CRG 'Ambient noise database'
+CRG 'Ambient noise'
 ---------------------------------------
 	- Chair: `A. Obermann <mailto:anne.obermann@sed.ethz.ch>`_.
-	- Co-chair: `Irene Molinari <mailto:irene.molinari@ingv.it>`_.
-	- In a joined effort, we will deconvolve and downsample the continuous seismic data from the various subnetworks participating in AdriaArray. This data (around 3-4 TB) will be made available to anybody interested in computing cross-correlation functions for various purposes from mapping ambient noise sources to tomography or time lapse monitoring.
+	- Co-chair: `Irene Molinari <mailto:irene.molinari@ingv.it>`_, `Richard Kramer <richard.kramer@univie.ac.at>`_, `Yang Lu <yang.lu@univie.ac.at>`_, `Lars Wiesenberg <lars.wiesenberg@ifg.uni-kiel.de>`_.
+	
+Description of topic and first tasks to be tackled
+^^^^^^^^^^^^^^^^^^^^^^^^^
+In this overarching research group, we deal with various aspects of ambient noise, starting from an analysis of the various sources contributing to the noise field, over the compilation of a cross-correlation database to the application of various imaging methods using these cross-correlations.
+ 
+**Noise sources** - 
+We will work on the characterization and localization of natural noise variation, resulting from e.g., local weather effects like wind or air pressure and anthropogenic noise sources, e.g., power plants, rotating machines. We also study variations of primary, secondary, and local microseism over time.
+ 
+**Database** - 
+We will deconvolve and downsample the continuous seismic data from the various subnetworks participating in AdriaArray. This data (around 4-6 TB) will be made available to anybody interested in computing cross-correlation functions for various purposes from mapping ambient noise sources to tomography or time lapse monitoring. If requestion, we might also offer a cross-correlation database following a standard preprocessing scheme.
+ 
+**Imaging** - 
+Besides the obvious surface wave imaging methods, recent advancements in passive noise interferometry have shown promising results in the retrieval of body waves from noise correlations. This primarily includes various body-wave reflection phases generated by dominant subsurface discontinuities, such as the Basin sediment/bedrock interface, the Moho interface, and the 410-km and 660-km mantle transition zone interfaces. The information that provided is particularly valuable for determining the depth undulations of subsurface discontinuities and can be seamlessly integrated into seismic tomography for a more comprehensive understanding of the deep earth structure. Given its remarkable data quality and data coverage, the AdriaArray seismic network presents an ideal setting for the implementation and development of such cutting-edge seismic techniques.
 
 CRG 'Surface wave phase tomography'
 ---------------------------------------
-	- Chair: `E. Kästle <mailto:emanuel.kaestle@fu-berlin.de>`_.
-	- Co-chair: `A. Sergeant <mailto:amandine.sergeant@get.omp.eu>`_, `L. Petrescu <mailto:laura.petrescu90@gmail.com>`_.
-	- This CRG aims at gathering multiple methodologies that use surface waves (Rayleigh and/or Love) for 2D and 3D imaging of the crustal and upper mantle structure in the region. Following traditional frameworks of surface wave tomography (SWT), the work handled within this CRG targets four main collaborative tasks:
-		#. the construction of reliable surface wave datasets from earthquake data and/or ambient noise,
-		#. the measurement of the surface wave phase/group travel times and amplitudes for constructing 2D maps of isotropic (and anisotropic) Rayleigh/Love velocities, 
-		#. the depth-inversion of phase (and group) velocity dispersion curves, and
-		#. the joint inversion with other observables. This group provides a platform for setting up and sharing databases, method testing and benchmarking, resolution test analysis, and further discussions on methodological developments. It includes linearized inversion method, Bayesian approaches, Eikonal/Helmholtz tomography, 2D phase velocity map inversions or direct 3D approaches, radial and azimuthal anisotropy and many others.
+	- Chair: `L. Petrescu <mailto:laura.petrescu90@gmail.com>`_.
+	- Co-chair: 
+	
+Description of topic and first tasks to be tackled
+^^^^^^^^^^^^^^^^^^^^^^^^^
+This CRG aims at gathering multiple methodologies that use surface waves (Rayleigh and/or Love) for 2D and 3D imaging of the crustal and upper mantle structure in the region. 
+
+	Following traditional frameworks of surface wave tomography (SWT), the work handled within this CRG targets four main collaborative tasks:
+		#. the construction of reliable surface wave datasets from earthquake data and/or ambient noise;
+		#. the measurement of the surface wave phase/group travel times and amplitudes for constructing 2D maps of isotropic (and anisotropic) Rayleigh/Love velocities;
+		#. the depth-inversion of phase (and group) velocity dispersion curves;
+		#. the joint inversion with other observables.
+
+This group provides a platform for setting up and sharing databases, method testing and benchmarking, resolution test analysis, and further discussions on methodological developments. It includes linearized inversion method, Bayesian approaches, Eikonal/Helmholtz tomography, 2D phase velocity map inversions or direct 3D approaches, radial and azimuthal anisotropy and many others.
 
 
 CRG 'Body waves from ambient noise'
@@ -149,11 +179,14 @@ CRG 'Engineering Seismology'
 
 
 
-CRG 'Linking geophysical observables with geodynamics'
+CRG 'Linking geophysical observations and geodynamics'
 -------------------------------------------------------
 	- Chair: `T. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.
-	- Co-chair: `L. Petrescu <mailto:laura.petrescu@infp.ro>`_.
-	- Using AdriaArray data, the interior of the Adriatic plate and its margins, slabs and slab windows as well as upper mantle flow will be imaged to clarify open questions regarding the driving forces of plate deformation and kinematics. To test the resolution capabilities of imaging methods and to design input models for numerical geodynamic experiments, at first existing hypotheses of lithospheric and upper mantle structure are to be described in digital form. Hypotheses of slabs and slab windows along the margins of the Adriatic plate (Alps, Apennines, Calabrian Arc, Carpathians, Dinarides, Hellenides) are to be reviewed and discussed based on available observables like seismicity, Moho maps, tomographic models, and receiver function images. Different hypotheses for the slab interface are to be provided in digital format. For these hypotheses, consistent 3D models of various parameters (seismic velocities, temperatures, densities, composition, viscosity) are to be set up using thermomechanical modelling. They form the basis for numerical geodynamic modelling of quantities like plate kinematics, stress, strain fields or exhumation rates that are to be compared with field observations and the geological record. Experts from various relevant disciplined are invited to join the CRG. 
+	- Co-chair: 
+	
+Description of topic and first tasks to be tackled
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Using AdriaArray data, the interior of the Adriatic plate and its margins, slabs and slab windows as well as upper mantle flow will be imaged to clarify open questions regarding the driving forces of plate deformation and kinematics. To test the resolution capabilities of imaging methods and to design input models for numerical geodynamic experiments, at first existing hypotheses of lithospheric and upper mantle structure are to be described in digital form. Hypotheses of slabs and slab windows along the margins of the Adriatic plate (Alps, Apennines, Calabrian Arc, Carpathians, Dinarides, Hellenides) are to be reviewed and discussed based on available observables like seismicity, Moho maps, tomographic models, and receiver function images. Different hypotheses for the slab interface are to be provided in digital format. For these hypotheses, consistent 3D models of various parameters (seismic velocities, temperatures, densities, composition, viscosity) are to be set up using thermomechanical modelling. They form the basis for numerical geodynamic modelling of quantities like plate kinematics, stress, strain fields or exhumation rates that are to be compared with field observations and the geological record. Experts from various relevant disciplined are invited to join the CRG.  
 
 
 
