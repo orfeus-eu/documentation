@@ -11,7 +11,7 @@ The institutions integrating data sets must provide clear evidence of ownership,
 detailed metadata in the formats handled by the EIDA and ESM archives. The grants are intended to support the finalization of
 data curation including QC to allow integration in ORFEUS-associated archives.
 
-Call 2023: https://polybox.ethz.ch/index.php/s/2gHQ1pzcEvnEw2P.
+Call 2023: https://polybox.ethz.ch/index.php/s/2gHQ1pzcEvnEw2P
 
 No grants awarded.
 

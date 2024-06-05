@@ -7,6 +7,7 @@ The grants are reserved for individuals associated with institutions that are me
 
 Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
 
-* **Institute of Engineering Seismology & Earthquake Engineering (ITSAK-EPPO), Thessaloniki, Greece** - project “*development of software to deliver siteXML site characterization metadata and associated compilation of demonstration datasets in siteXML format*".
+* **Institute of Engineering Seismology & Earthquake Engineering (ITSAK-EPPO), Thessaloniki, Greece** - project “*development of software to deliver siteXML site characterization metadata and associated compilation of demonstration datasets in siteXML format*"
+
 
 

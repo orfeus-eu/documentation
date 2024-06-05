@@ -15,7 +15,7 @@ The recipients of the *2021* ORFEUS Software Development Grants are as follows:
 	* Webinar: https://polybox.ethz.ch/index.php/s/mdsSGRlNBkt7Opc
 	* Repository: https://github.com/PyGLImER/PyGLImER
 	
-* **Mathijs Koymans (KNMI)** - “*Integration of Continuous Terrestrial Gravimetric Data from the NEWTON-g Gravity Imager with ORFEUS/EIDA*".
+* **Mathijs Koymans (KNMI)** - “*Integration of Continuous Terrestrial Gravimetric Data from the NEWTON-g Gravity Imager with ORFEUS/EIDA*"
 	* Poster at ORFEUS annula workshop 2022: https://polybox.ethz.ch/index.php/s/53oBmOiiHyPamD5
 	* Repository: https://github.com/NEWTON-g
 
