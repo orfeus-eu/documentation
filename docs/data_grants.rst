@@ -13,3 +13,8 @@ data curation including QC to allow integration in ORFEUS-associated archives.
 
 Call 2023: https://polybox.ethz.ch/index.php/s/2gHQ1pzcEvnEw2P.
 
+No grants awarded.
+
+Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
+
+* **Subbotin Institute of Geophysics of National Academy of Sciences of Ukraine** - project “*Integration in EIDA of continuous real-time open seismological waveform data and associated station/site metadata for stations of the Ukrainian seismic network*”
