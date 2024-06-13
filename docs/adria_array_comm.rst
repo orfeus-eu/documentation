@@ -3,7 +3,7 @@ AdriaArray Communication & Outreach
 
 News
 -----
-	- Special issue in Annals of Geophysics called "Recent large-scale temporary passive seismic experiments in Europe: deployment and data quality" is going to be released. Submission will be opened on June 1, 2024 and closed on November 30, 2024. The accepted papers are expected to be released by spring 2025. Submission guidelines are to be found here: `Annals of Geophysics <https://www.annalsofgeophysics.eu/index.php/annals/Submission-guidelines>`_. Please, declare you interest in publishing a manuscript in this special issue by filling in the `form <https://forms.gle/tEUExvg9kL8cTnj3A>`_ given under the following link.  
+	- Special issue in Annals of Geophysics called `Recent large-scale temporary passive seismic experiments in Europe: deployment and data quality <https://www.annalsofgeophysics.eu/index.php/annals/announcement/view/34>`_ is released. Submissions opened on June 1, 2024 and close on November 30, 2024. The accepted papers are expected to be released by spring 2025. Submission guidelines can be found here: `Annals of Geophysics <https://www.annalsofgeophysics.eu/index.php/annals/Submission-guidelines>`_. Please, declare you interest in publishing a manuscript in this special issue by filling in the `form <https://forms.gle/tEUExvg9kL8cTnj3A>`_ given under the following link.  
 
 	- On 10.05.2023, within the frame of the 13th Sofia Science Festival, G. Georgieva gave a nice introduction and promotion of AdriaArray on Bulgarian National Television (BNT). `Link to the interview - in Bulgarian. <https://bnt.bg/news/mashtabna-mezhdunarodna-iniciativa-izuchava-seizmichnata-aktivnost-v-evropa-v344307-317801news.html?fbclid=IwAR2Tm32dpKnhod_jygLrDrrLI6wf4c1JdmmhjaPXvBBxLWC07LcNAyKh7hQ>`_
 
@@ -29,7 +29,7 @@ ORFEUS (and EPOS via the EPOS SP project, Task 4.3) has supported the organisati
 * An AdriaArray Splinter meeting took place during the EGU GA 2024 on April 17th.
   - `Announcement <https://meetingorganizer.copernicus.org/EGU24/session/50694>`_
 
-* The fourth international AdriaArray workshop was held in Sofia, Bulgaria, on 12-15 March 2024. The event was attended by more that 100 people. The program, along with copies of the oral and poster presentations, is available here: https://polybox.ethz.ch/index.php/s/m4k2wJmzDuYuH7k 
+* The fourth international AdriaArray workshop was held in Sofia, Bulgaria, on 12-15 March 2024. The event was attended by more that 100 people. The program, along with copies of the oral and poster presentations, is available `here <https://polybox.ethz.ch/index.php/s/m4k2wJmzDuYuH7k>`_.
 
 * An AdriaArray Splinter meeting took place during the EGU GA 2023 on April 27th.
   - `Announcement <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_

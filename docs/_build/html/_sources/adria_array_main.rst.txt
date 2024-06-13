@@ -14,7 +14,7 @@ AdriaArray - Mission
 AdriaArray - Logo
 ---------------------
 
-The logo was discussed at the third AdriaArray international `workshop <https://github.com/cplegendre/AdriaArrayWebsite/raw/main/PDF-meetings/AdriaArray_Dubrovnik_2.pdf>`_ in Dubrovnik, Croatia, on 3-5 April 2023.
+The logo was discussed at the third AdriaArray international `workshop <https://raw.githubusercontent.com/cplegendre/AdAWeb/main/AdriaArray_Dubrovnik_2.pdf>`_ in Dubrovnik, Croatia, on 3-5 April 2023.
 The logo was approved during the `AdriaArray Splinter meeting (EGU General Assembly on April 27th, 2023) <https://meetingorganizer.copernicus.org/EGU23/session/47742>`_.
 Several versions (by Claudia Piromallo and Hana Kampfová Exnerová) are available and can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray/tree/master/logo/>`_.
 
@@ -33,7 +33,7 @@ Filled triangels represent stations already in the field, while empty triangles 
 AdriaArray - Station map
 -----------------------------
 
-Relation of AdA to PACASE and AlpArray. Red triangles: permanent broadband stations in the AdriaArray region. Green triangles are planned stations. Light green triangles indicate AlpArray PACASE and AdriaArray stations. Blue triangles: additional broadband stations. 
+Relation of AdA to PACASE and AlpArray. Red triangles: permanent broadband stations in the AdriaArray region. Dark green triangles are planned stations. Light green triangles indicate AlpArray, PACASE and AdriaArray temporary stations. Blue triangles: additional permanent broadband stations. 
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/14AA%2BAdA%2BPCS.png
    :width: 600
@@ -42,7 +42,7 @@ Relation of AdA to PACASE and AlpArray. Red triangles: permanent broadband stati
 AdriaArray - Station properties
 --------------------------------
 
-AdriaArray seismic network. Repartition of the broadband seismic stations sorted by corner period.
+AdriaArray seismic network. Distribution of broadband seismic stations colored by corner period.
 Yellow - 30s; Orange - 40-60s ; Red - 60-120s; Carmine red - 120-240s; Violet - >240s.
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/17AdAcorners.png

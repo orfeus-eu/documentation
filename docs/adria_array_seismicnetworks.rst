@@ -1,13 +1,13 @@
 AdriaArray - Seismic networks
 ====================
 
-In various stages of planning and for different purposes, we prepared maps showing the distribution of permanent stations and suggested locations of temporary stations. The maps cover a range of complexity from very simple ones using just two colors to more complex figures explaining the station distribution in detail. Below, we show some of maps. All the maps and supporting files can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray>`_.
+In various stages of planning and for different purposes, we prepared maps showing the distribution of permanent stations and suggested locations of temporary stations. The maps cover a range of complexity from very simple ones using just two colors to more complex figures explaining the station distribution in detail. Below, we show some of the maps. All the maps and supporting files can be downloaded from the `AdriaArray GitHub repository <https://github.com/PetrColinSky/AdriaArray>`_.
 
 
 AdriaArray GitHub repository
 -------------------------------
 
-The repository contains the `AdA folder <https://github.com/PetrColinSky/AdriaArray/tree/master/AdA>`_, which includes `permanent <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/InventoryPermanent.xls?raw=true>`_ and `temporary <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/InventoryTemporary.xls?raw=true>`_ station inventories.
+The repository contains the `AdA folder <https://github.com/PetrColinSky/AdriaArray/tree/master/AdA>`_, which includes `permanent <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/InventoryPermanent.ods>`_ and `temporary <https://github.com/PetrColinSky/AdriaArray/blob/master/AdA/InventoryTemporary.ods>`_ station inventories.
 
 The following two texts files describe what else you can find in the AdriaArray GitHub repository.
 
@@ -21,13 +21,13 @@ If you want to display the stations in GoogleEarth, go to `AdA/GOOG/ <https://gi
 
 The folder `presentations <https://github.com/PetrColinSky/AdriaArray/tree/master/presentations>`_ contains some of the slides and poster about the AdriaArray Seismic Network presented in last years.
 
-Stations maps
+Station maps
 -----------------------------
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/06AdriaBBovr.png
    :width: 600
    
-Highly simplified map showing only the permanent and mobile stations regardless of their type. Permanent stations are marked with red triangles while temporary stations are marked with light green triangles.
+Highly simplified map showing only the broadband permanent and mobile stations regardless of their type. Permanent stations are marked with red triangles while temporary stations are marked with light green triangles.
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/01AdriaTotal.png
    :width: 600
@@ -55,7 +55,7 @@ The station colors of this map are reflected in the `.kml files <https://github.
 Map shows both permanent and temporary stations (backbone) split by five corner period ranges. Note, that in the previous maps, the red color denoted all corner periods of 60 s and longer, while here, red is used for 60 s up to 120 s only. Longer corner periods have then additional colors for 120 – 240 s range and for 240 and longer.
    
 
-Stations list
+Station list
 -----------------------------
 The data and metadata of all permanent and temporary stations belonging to the AdriaArray Seismic Network are availalbe via EIDA. The temporary networks are registered and listed by `FDSN <https://www.fdsn.org/networks/?search=adriaarray>`_.
 
@@ -81,8 +81,7 @@ Relation between EIDA nodes and network codes:
 AdriaArray - Local experiments
 --------------------------------
 
-Representatives of each Arria Array members will be contacted shortly to provide us more information regarding the current status of local seismic deployments (see top map of the page).
-This section will be updated accordingly.
+Plate-scale observations taking advantage of the AdriaArray Seismic Network backbone are complemented by local and Large N experiments in key areas. Here we list the local experiments with the contact person who can provide more information.
 
 	- profile from Poland to Slovakia,
 	
@@ -100,7 +99,7 @@ This section will be updated accordingly.
 	
 		Additional 400 sensors (not in the maps).
 		
-		Contact: `Andreas rietbrock <andreas.rietbrock@kit.edu>`_
+		Contact: `Andreas Rietbrock <andreas.rietbrock@kit.edu>`_
 
 	- denser network in Romania,
 	
@@ -114,7 +113,7 @@ AdriaArray - Data availability
 EIDA Nodes
 ~~~~~~~~~~
 
-Data access through EIDA (European Integrated Data Archive) is managed by `EIDA <https://www.orfeus-eu.org/data/eida/>`_. AdriaArray participants get immediate access via `FDSN <https://www.fdsn.org/webservices/>`_ (Federation of Digital Seismograph Networks) web services within `ORFEUS <https://www.orfeus-eu.org/>`_ (Observatories & Research Facilities for European Seismology) to permanent and temporary stations belonging to AdriaArray for research agreed upon by the Steering Committee for AdriaArray Seismology Group (`Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ ). Data of temporary AdriaArray on-shore stations delayed due to lack of telemetry and/or due to quality control procedures become accessible to AdriaArrayparticipants via FDSN web services as soon as possible, but not later than one year after acquisition. 
+Data access through EIDA (European Integrated Data Archive) is managed by `EIDA <https://www.orfeus-eu.org/data/eida/>`_. AdriaArray participants get immediate access via `FDSN <https://www.fdsn.org/webservices/>`_ (Federation of Digital Seismograph Networks) web services within `ORFEUS <https://www.orfeus-eu.org/>`_ (Observatories & Research Facilities for European Seismology) to permanent and temporary stations belonging to AdriaArray for research agreed upon by the Steering Committee for AdriaArray Seismology Group (`Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ ). Data of temporary AdriaArray on-shore stations delayed due to lack of telemetry and/or due to quality control procedures become accessible to AdriaArray participants via FDSN web services as soon as possible, but not later than one year after acquisition. 
 Rotated and timing-corrected OBS data become available via FDSN web services to AdriaArray participants as soon as possible, but not later than one year after recovery.
 
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/15AdAmembers.png
@@ -123,7 +122,7 @@ Rotated and timing-corrected OBS data become available via FDSN web services to 
 Data access options [permanent stations]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ states that for permanent stations within the AdriaArray initiative, the data and metadata are fully open access via EIDA from day 1 (deployment of the station).
+The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ states that for permanent stations within the AdriaArray initiative, the data and metadata have fully open access via EIDA from day 1 (deployment of the station).
 
 
 Data access options [temporary stations]
@@ -137,7 +136,7 @@ The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhx
 
 The AdriaArray Seismology Group members deploying or hosting temporary AdriaArray stations specify whether they opt for 1.) or 2.) for temporary AdriaArray stations upon signature of this `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_.
 
-AdriaArray members have full access to the data from day 1 (deployment of the station).
+AdriaArray members have full access to the data from all temporary stations from day 1 (deployment of the station).
 
 
 
@@ -148,13 +147,13 @@ AdriaArray members have full access to the data from day 1 (deployment of the st
 How to access the data?
 -----------------------
 
-Permanent stations, temporary stations with open access as well as metadata (stationXML) are available to AdriaArray members and non members `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
+Peermanent stations, temporary stations with open access as well as metadata (stationXML) of all stations (including embargoed) are available to AdriaArray members and non members `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
 
 In order to access the embargoed AdriaArray data, `EIDA Token <https://geofon.gfz-potsdam.de/eas/EIDAAuthenticationService.pdf>`_ is needed. The token act as login and passwords while requesting waveforms.
 
 EIDA Token
 ~~~~~~~~~~
-	- The seismic data will be available to the participants `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
+	- The seismic data is available to the participants `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
 	- The metadata are openly available, but accessing the embargoed waveforms requires an authentification.
 
 
@@ -179,7 +178,7 @@ In order to get a token that would give you access to the embargoed AdriaArray d
 
 		With this token, you should have access to all the AdriaArray data that are online.
 		Any token generated before being added to the EPOS group will not give you access to the embargoed data.
-		The representative of Working Group 'Communication and Outreach will contact you to confirm that your account has been added to the AdriaArray group as well ad to the list of users that are allowed to request data from NIEP.
+		The representative of Working Group 'Communication and Outreach will contact you to confirm that your account has been added to the AdriaArray group as well as to the list of users that are allowed to request data from NIEP.
 		
 		**You will then be able to request a token** `there <https://geofon.gfz-potsdam.de/eas/>`_
 
@@ -228,7 +227,7 @@ Retrieving waveforms using webbrowser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	- Example with open station
-	Obtain 2 hrs of the record of the big Turkey earthquake from February 6, 2023 `the station OE-CONA <https://www.orfeus-eu.org/fdsnws/dataselect/1/query?net=OE&station=CONA&start=2023-02-06T01:00:00&end=2023-02-06T03:00:00>`_:
+	Obtain 2 hrs of the record of the big Turkey earthquake from February 6, 2023 from `the station OE-CONA <https://www.orfeus-eu.org/fdsnws/dataselect/1/query?net=OE&station=CONA&start=2023-02-06T01:00:00&end=2023-02-06T03:00:00>`_:
 
 	.. code-block:: python
 
@@ -299,9 +298,9 @@ More details can be found `there <https://geofon.gfz-potsdam.de/waveform/archive
 Retrieving data using the Orfeus/EIDA web interface
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-	- `EIDA web interface <http://eida.gfz-potsdam.de/webdc3/>`_.
+	- `EIDA web interface at GFZ Potsdam <http://eida.gfz-potsdam.de/webdc3/>`_.
 
-	- `Orfeus web interface <https://orfeus-eu.org/webdc3/>`_.
+	- `EIDA web interface at Orfeus Data Center <https://orfeus-eu.org/webdc3/>`_.
 
 
 Retrieving metadata using Obspy
@@ -362,7 +361,7 @@ This virtual network includes all station in a `geographic region <https://raw.g
 
 
 When we do these kinds of requests, we have to keep in mind how much data we are requesting.
-Once everything is deployed, there will be roughly 1900 permanent stations, as well as almost 500 mobile stations as part of the AdriaArray.
+Once everything is deployed, there will be roughly 1050 permanent stations, as well as almost 450 mobile stations as part of the AdriaArray.
 **An hour of data sampled at 100 Hz is about 1.5 MB**, and all the data we request at once will need to reside in the system memory.
 **Requesting a whole day for all the stations might take more than 64 GB** of RAM, triple that if we request all three components. In those cases, it is prudent to split the request into smaller chunks, for example by looping over the stations individually.
 
@@ -439,14 +438,18 @@ AdriaArray - Data retrievability and quality
 
 Data retrievability and data quality are regularly checked by members of Working Group 3 'Data QC'.
 
-Some files and results can be downloaded from the `Quality Control checks of Adria Array repository <https://github.com/felix-eckel/AdriaArrayQC/>`_ and the `data monitoring repository <https://github.com/doukutsu/eida-data-monitoring/>`_.
+There are four tests provided by `J. Stampa <https://github.com/doukutsu/eida-data-monitoring/>`_, `F. Eckel <https://github.com/felix-eckel/AdriaArrayQC/>`_, `L. Vecsey <https://github.com/PetrColinSky/DataQuality/tree/master/ludekvecsey>`_ and `P. Kolínský <https://github.com/PetrColinSky/DataQuality/tree/master/petrkolinsky>`_.
+
+There is a summary of the data and metadata quality tests. It was presented as a poster at the 2024 EGU. The poster and a summary table are available `here  <https://github.com/PetrColinSky/DataQuality/tree/master/summary>`_.
+
+More metadata issues are reported at the EIDA issue tracker as for example `here  <https://github.com/EIDA/userfeedback/issues/166>`_.
 
 
 Data retrievability
 ~~~~~~~~~~~~~~~~~~~~
 	- Tests by `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_:
 	
-Most of the tests were performed by `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `F. Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_, `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `M. Timko <mailto:timko.mate@epss.hu>`_, `J. Quinteros <mailto:javier@gfz-potsdam.de>`_ and `L. Vecsey <mailto:vecsey@ig.cas.cz>`_.
+Most of the retrievability tests were performed by `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `F. Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_, `J. Stampa <mailto:johannes.stampa@ifg.uni-kiel.de>`_, `M. Timko <mailto:timko.mate@epss.hu>`_, `J. Quinteros <mailto:javier@gfz-potsdam.de>`_ and `L. Vecsey <mailto:vecsey@ig.cas.cz>`_.
 
 
 
