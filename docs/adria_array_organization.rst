@@ -9,9 +9,8 @@ AdriaArray (AdA) officially started on 19 May 2022 with the establishment of the
 
 AdriaArray - Members
 -----------------------------
-
 .. list-table:: 
-   :widths: 10 5 15
+   :widths: 10 10 10
    :header-rows: 1
 
    * - Representative
@@ -87,14 +86,10 @@ AdriaArray - Members
      - Polish AdriaArray Seismic Group:
      - Poland     
    * -
-     - -Institute of Geophysics, Polish Academy of Sciences 
+     - - Institute of Geophysics, Polish Academy of Sciences
+       - Institute of Geophysics, University of Warsaw
+       - Institute of Earth Sciences, University of Silesia
      - 
-   * - 
-     - -Institute of Geophysics, University of Warsaw
-     - 
-   * - 
-     - -Institute of Earth Sciences, University of Silesia
-     - 	
    * - Dragana Chernih Anastasovska
      - Seismological Observatory, Faculty of Natural Sciences and Mathematics, University “Ss. Cyril and Methodius”
      - Republic of  North Macedonia     
@@ -141,16 +136,11 @@ AdriaArray - Members
      - Norwegian Broadband Pool:
      - Norway     
    * - 
-     - -University of Bergen
-     - 
-   * - 
-     - -Norwegian Seismic Array
-     - 
-   * - 
-     - -University of Oslo
-     - 
-   * - 
-     - -Geological Survey of Norway
+     - - University of Bergen
+       - Norwegian Seismic Array
+       - University of Oslo
+       - Geological Survey of Norway
+       
      - 
    * - Christian Schiffer
      - Department of Earth Sciences, Uppsala University
@@ -180,17 +170,11 @@ AdriaArray - Members
      - Carpathian Project Group
      - Various
    * - 
-     - -Institute of Geological Sciences, Polish Academy of Sciences
-     - -Poland   
-   * -  
-     - -Department of Earth Sciences, Uppsala University
-     - -Sweden
-   * -  
-     - -Institute for Geosciences, Friedrich-Schiller-University Jena
-     - -Germany
-   * -  
-     - -Department of Geology and Paleontology, Comenius University in Bratislava
-     - -Hungary            
+     - - Institute of Geological Sciences, Polish Academy of Sciences, Poland
+       - Department of Earth Sciences, Uppsala University,Sweden
+       - Institute for Geosciences, Friedrich-Schiller-University Jena, Germany
+       - Department of Geology and Paleontology, Comenius University in Bratislava, Slovakia
+     -     
    * - Karin Sigloch
      - Université Côte d’Azur
      - France     
@@ -201,14 +185,10 @@ AdriaArray - Members
      - French consortium (Grenoble, Toulouse, Strasbourg)
      - France  
    * - 
-     - -Institut des Sciences de la Terre, Université Grenoble Alpes
+     - - Institut des Sciences de la Terre, Université Grenoble Alpes
+       - Observatoire Midi Pyrénées, Université de Toulouse
+       - Ecole et Observatoire de Sciences de la Terre, Université de Strasbourg
      - 
-   * - 
-     - -Observatoire Midi Pyrénées, Université de Toulouse
-     - 
-   * - 
-     - -Ecole et Observatoire de Sciences de la Terre, Université de Strasbourg
-     -              
    * - Liudmyla Farfuliak
      - National Academy of Sciences of Ukraine
      - Ukraine     
