@@ -79,6 +79,9 @@ AdriaArray - Members
    * - Matthew Agius
      - Department of Geosciences, University of Malta	
      - Malta
+   * - Sebastiano D'Amico
+     - Department of Geosciences, University of Malta	
+     - Malta    
    * - Dušica Brnović
      - Sector of Seismology, Institute of Hydrometeorology and Seismology of Montenegro	
      - Montenegro
@@ -501,9 +504,6 @@ AdriaArray - Participants
    * -  Department of Seismology, Institute of Geoscienses (IGEO), University Polytechnic of Tirana (UPT)
      -  Albania
      -  Ismail Hoxha
-   * -  Institute for Geological and Geochemical Research, Research Centre for Astronomy and Earth Sciences, ELKH
-     -  Hungary
-     -  Istvan Bondar
    * -  National Institute for Earth Physics
      -  Romania
      -  Iulia Armeanu
@@ -639,9 +639,6 @@ AdriaArray - Participants
    * -  Department of Geophysics, Faculty of Science, University of Zagreb
      -  Croatia
      -  Marijan Herak
-   * -  Institute of Hydrometeorology and Seismology of Montenegro
-     -  Montenegro
-     -  Marin Cavelis
    * -  Geodynamic Institute - National Observatory of Athens
      -  Greece
      -  Marinos Charalampakis

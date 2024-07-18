@@ -147,7 +147,7 @@ AdriaArray members have full access to the data from all temporary stations from
 How to access the data?
 -----------------------
 
-Peermanent stations, temporary stations with open access as well as metadata (stationXML) of all stations (including embargoed) are available to AdriaArray members and non members `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
+Permanent stations, temporary stations with open access as well as metadata (stationXML) of all stations (including embargoed) are available to AdriaArray members and non members `through EIDA nodes <https://www.orfeus-eu.org/data/eida/webservices/station/>`_.
 
 In order to access the embargoed AdriaArray data, `EIDA Token <https://geofon.gfz-potsdam.de/eas/EIDAAuthenticationService.pdf>`_ is needed. The token act as login and passwords while requesting waveforms.
 

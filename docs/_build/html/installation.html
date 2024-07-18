@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html class="writer-html5" lang="en">
+<html class="writer-html5" lang="en" data-content_root="./">
 <head>
-  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>EIDA System configuration &mdash; ORFEUS documentation  documentation</title>
-      <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-      <link rel="stylesheet" type="text/css" href="_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=80d5e7a1" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=19f00094" />
 
   
   <!--[if lt IE 9]>
     <script src="_static/js/html5shiv.min.js"></script>
   <![endif]-->
   
-        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-        <script src="_static/jquery.js"></script>
-        <script src="_static/underscore.js"></script>
-        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
-        <script src="_static/doctools.js"></script>
+        <script src="_static/jquery.js?v=5d32c60e"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+        <script src="_static/documentation_options.js?v=5929fcd5"></script>
+        <script src="_static/doctools.js?v=9a2dae69"></script>
+        <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" /> 
@@ -114,7 +114,7 @@
            <div itemprop="articleBody">
              
   <section id="eida-system-configuration">
-<h1>EIDA System configuration<a class="headerlink" href="#eida-system-configuration" title="Permalink to this heading"></a></h1>
+<h1>EIDA System configuration<a class="headerlink" href="#eida-system-configuration" title="Link to this heading"></a></h1>
 <p>Written by Jan Michalek</p>
 <div class="line-block">
 <div class="line"><a class="reference internal" href="#seiscomp3-installation">SEISCOMP3 installation</a></div>
@@ -138,7 +138,7 @@
 </div>
 <p>It might be convenient to create a <code class="docutils literal notranslate"><span class="pre">sysop</span></code> user on the server where SC3 will be installed. Most of the manuals are describing installation into <code class="docutils literal notranslate"><span class="pre">/home/sysop/</span></code> folder.</p>
 <section id="seiscomp3-installation">
-<h2>SEISCOMP3 installation<a class="headerlink" href="#seiscomp3-installation" title="Permalink to this heading"></a></h2>
+<h2>SEISCOMP3 installation<a class="headerlink" href="#seiscomp3-installation" title="Link to this heading"></a></h2>
 <p>There are 2 options how to get SC3:</p>
 <ul class="simple">
 <li><p>Make clone from GitHub repository (requires compilation from source code; <a class="reference external" href="https://github.com/SeisComP3/seiscomp3">https://github.com/SeisComP3/seiscomp3</a>;). There are instructions for cloning and compilation in README file.</p></li>
@@ -147,7 +147,7 @@
 <p><strong>License</strong></p>
 <p>Institution needs to have license files to be able to run programs in SC3. To obtain license follow instructions here: <a class="reference external" href="https://www.seiscomp3.org/license.html">https://www.seiscomp3.org/license.html</a></p>
 <section id="example-installation-of-compiled-version">
-<h3>Example installation of compiled version<a class="headerlink" href="#example-installation-of-compiled-version" title="Permalink to this heading"></a></h3>
+<h3>Example installation of compiled version<a class="headerlink" href="#example-installation-of-compiled-version" title="Link to this heading"></a></h3>
 <p>For Ubuntu 14.04 32-bit:</p>
 <div class="line-block">
 <div class="line">Download: seiscomp3-seattle-2014.084.01-ubuntu14.04-i686.tar.gz</div>
@@ -177,7 +177,7 @@ export LC_ALL=C
 <p>Open SEISCOMP3 online documentation, click Installation, and install what is listed under Install dependencies. Names of the packages can be slightly different.</p>
 </section>
 <section id="compiling-seiscomp3-example">
-<h3>Compiling SEISCOMP3 (example)<a class="headerlink" href="#compiling-seiscomp3-example" title="Permalink to this heading"></a></h3>
+<h3>Compiling SEISCOMP3 (example)<a class="headerlink" href="#compiling-seiscomp3-example" title="Link to this heading"></a></h3>
 <p>Follow instructions on GitHub: <a class="reference external" href="https://github.com/SeisComP3/seiscomp3/tree/c3597388ba0af8635a6818783cafcf493d0f0cce">https://github.com/SeisComP3/seiscomp3/tree/c3597388ba0af8635a6818783cafcf493d0f0cce</a></p>
 <p>Be sure to have all dependencies solved beforehand. For Ubuntu 16.04:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ sudo apt-get install libqt4-dev pkg-config python-m2crypto libncurses5-dev libncursesw5-dev libxml2-dev libboost-all-dev mysql-client libmysqlclient-dev
@@ -204,7 +204,7 @@ $ make install
 <p>If you haven’t changed path via <code class="docutils literal notranslate"><span class="pre">-DCMAKE_INSTALL_PREFIX=/path/to/install/dir</span></code> parameter then the compiled version is copied directly to <code class="docutils literal notranslate"><span class="pre">~/seiscomp3/</span></code>.</p>
 </section>
 <section id="seiscomp3-configuration">
-<h3>SEISCOMP3 configuration<a class="headerlink" href="#seiscomp3-configuration" title="Permalink to this heading"></a></h3>
+<h3>SEISCOMP3 configuration<a class="headerlink" href="#seiscomp3-configuration" title="Link to this heading"></a></h3>
 <p>Next step is to configure SC3. Be sure you have your MySQL root password, then run following:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ seiscomp setup
 </pre></div>
@@ -237,7 +237,7 @@ $ make install
 </div>
 </section>
 <section id="finish-setup">
-<h3>Finish setup<a class="headerlink" href="#finish-setup" title="Permalink to this heading"></a></h3>
+<h3>Finish setup<a class="headerlink" href="#finish-setup" title="Link to this heading"></a></h3>
 <p>Finally,</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>P) Proceed to apply configuration
 B) Back to last parameter
@@ -258,7 +258,7 @@ sysop@home:~$
 </div>
 </section>
 <section id="enable-modules">
-<h3>Enable modules<a class="headerlink" href="#enable-modules" title="Permalink to this heading"></a></h3>
+<h3>Enable modules<a class="headerlink" href="#enable-modules" title="Link to this heading"></a></h3>
 <p>From command line enabled seedlink:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ seiscomp enable seedlink [scautopick scautoloc scamp scmag scevent]
 $ seiscomp start
@@ -274,7 +274,7 @@ $ seiscomp start
 </div>
 </section>
 <section id="networks-and-stations-configuration">
-<h3>Networks and Stations configuration<a class="headerlink" href="#networks-and-stations-configuration" title="Permalink to this heading"></a></h3>
+<h3>Networks and Stations configuration<a class="headerlink" href="#networks-and-stations-configuration" title="Link to this heading"></a></h3>
 <ul class="simple">
 <li><p>Start <code class="docutils literal notranslate"><span class="pre">scconfig</span></code></p></li>
 <li><p>Go to “Inventory” and press “Import”</p></li>
@@ -286,14 +286,14 @@ $ seiscomp start
 </ul>
 </section>
 <section id="bindings-configuration">
-<h3>Bindings configuration<a class="headerlink" href="#bindings-configuration" title="Permalink to this heading"></a></h3>
+<h3>Bindings configuration<a class="headerlink" href="#bindings-configuration" title="Link to this heading"></a></h3>
 <div class="line-block">
 <div class="line">enter Bindings</div>
 <div class="line">Your network should be visible under Networks and in the window below</div>
 </div>
 </section>
 <section id="seedlink-profile">
-<h3>SEEDLINK profile<a class="headerlink" href="#seedlink-profile" title="Permalink to this heading"></a></h3>
+<h3>SEEDLINK profile<a class="headerlink" href="#seedlink-profile" title="Link to this heading"></a></h3>
 <ul class="simple">
 <li><p>right click on seedlink (right-upper corner of the window) and type profile name (SLINK). If you are receiving data directly from station then it is wise to use name of the station for the profile. If you are receiving data from another server (multiple stations) then use name of the server. Each seedlink connection needs to have its own binding profile.</p></li>
 <li><p>double-click on the SLINK profile</p></li>
@@ -310,7 +310,7 @@ $ seiscomp start
 </div>
 </section>
 <section id="global-profile">
-<h3>GLOBAL profile<a class="headerlink" href="#global-profile" title="Permalink to this heading"></a></h3>
+<h3>GLOBAL profile<a class="headerlink" href="#global-profile" title="Link to this heading"></a></h3>
 <p>GLOBAL profile is needed for some other modules to be working (scrttv, scmv, …)</p>
 <div class="line-block">
 <div class="line">add global profile: GLOBAL</div>
@@ -320,7 +320,7 @@ $ seiscomp start
 </div>
 </section>
 <section id="scautopick-profile">
-<h3>SCAUTOPICK profile<a class="headerlink" href="#scautopick-profile" title="Permalink to this heading"></a></h3>
+<h3>SCAUTOPICK profile<a class="headerlink" href="#scautopick-profile" title="Link to this heading"></a></h3>
 <div class="line-block">
 <div class="line">add scautopick profile SCAUTOPICK</div>
 <div class="line">double click on SCAUTOPICK</div>
@@ -336,11 +336,11 @@ $ seiscomp start
 </div>
 </section>
 <section id="monitoring-windows">
-<h3>Monitoring windows<a class="headerlink" href="#monitoring-windows" title="Permalink to this heading"></a></h3>
+<h3>Monitoring windows<a class="headerlink" href="#monitoring-windows" title="Link to this heading"></a></h3>
 <p>Now open new terminal and run e.g. scrttv, scmv or scolv</p>
 </section>
 <section id="location-configuration">
-<h3>Location configuration<a class="headerlink" href="#location-configuration" title="Permalink to this heading"></a></h3>
+<h3>Location configuration<a class="headerlink" href="#location-configuration" title="Link to this heading"></a></h3>
 <ul>
 <li><p>check /home/sysop/seiscomp3/etc/defaults/scevent.cfg for parameters to locate an event</p></li>
 <li><p>check doc: <a class="reference external" href="file:///home/sysop/seiscomp3/share/doc/seiscomp3/html/apps/stationconf.html">file:///home/sysop/seiscomp3/share/doc/seiscomp3/html/apps/stationconf.html</a> for adding stations</p></li>
@@ -353,7 +353,7 @@ $ seiscomp update-config
 </ul>
 </section>
 <section id="extracts-from-sc3">
-<h3>Extracts from SC3<a class="headerlink" href="#extracts-from-sc3" title="Permalink to this heading"></a></h3>
+<h3>Extracts from SC3<a class="headerlink" href="#extracts-from-sc3" title="Link to this heading"></a></h3>
 <p>ALL NETWORKS,ALL CHANNELS,ALL COMPONENTS</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ scart -dsvE -t &#39;2015-07-18 00:00~2015-07-18 23:00&#39; ~/seiscomp3/var/lib/archive &gt; sorted.mseed
 </pre></div>
@@ -378,7 +378,7 @@ $ cat list.txt
 </section>
 </section>
 <section id="scrttv">
-<h2>SCRTTV<a class="headerlink" href="#scrttv" title="Permalink to this heading"></a></h2>
+<h2>SCRTTV<a class="headerlink" href="#scrttv" title="Link to this heading"></a></h2>
 <p>To enable streams in scrttv:</p>
 <ul class="simple">
 <li><p>In scconfig GUI go to Modules -&gt; GUI -&gt; scrttv</p></li>
@@ -387,7 +387,7 @@ $ cat list.txt
 </ul>
 </section>
 <section id="scmv">
-<h2>SCMV<a class="headerlink" href="#scmv" title="Permalink to this heading"></a></h2>
+<h2>SCMV<a class="headerlink" href="#scmv" title="Link to this heading"></a></h2>
 <div class="line-block">
 <div class="line">Problem: Stations displayed but as black, i.e. no amplitude values.</div>
 </div>
@@ -405,7 +405,7 @@ $ cat list.txt
 </div>
 </section>
 <section id="scqc">
-<h2>SCQC<a class="headerlink" href="#scqc" title="Permalink to this heading"></a></h2>
+<h2>SCQC<a class="headerlink" href="#scqc" title="Link to this heading"></a></h2>
 <div class="line-block">
 <div class="line">Module scqc must be enabled and global binding profile applied to networks. It uses the same profile configuration as by SCMV.</div>
 </div>
@@ -427,7 +427,7 @@ $ cat list.txt
 </div>
 </section>
 <section id="configure-fdsn-web-services-in-your-sc3">
-<h2>Configure FDSN web services in your SC3<a class="headerlink" href="#configure-fdsn-web-services-in-your-sc3" title="Permalink to this heading"></a></h2>
+<h2>Configure FDSN web services in your SC3<a class="headerlink" href="#configure-fdsn-web-services-in-your-sc3" title="Link to this heading"></a></h2>
 <p>Open <code class="docutils literal notranslate"><span class="pre">scconfig</span></code></p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ scconfig
 </pre></div>
@@ -444,7 +444,7 @@ $ cat list.txt
 </div>
 <p>Press Ctrl+S to save the configuration.Click to the “System” icon, click on “Update configuration” and restart SeisComP3</p>
 <section id="excluding-stations-from-fdsnws">
-<h3>Excluding stations from FDSNWS<a class="headerlink" href="#excluding-stations-from-fdsnws" title="Permalink to this heading"></a></h3>
+<h3>Excluding stations from FDSNWS<a class="headerlink" href="#excluding-stations-from-fdsnws" title="Link to this heading"></a></h3>
 <div class="line-block">
 <div class="line">done via filter file; e.g.: <code class="docutils literal notranslate"><span class="pre">/home/sysop/seiscomp3/etc/fdsnws_filter.ini</span></code></div>
 <div class="line">description: <a class="reference external" href="https://www.seiscomp3.org/doc/jakarta/current/apps/fdsnws.html#filtering-the-inventory">https://www.seiscomp3.org/doc/jakarta/current/apps/fdsnws.html#filtering-the-inventory</a></div>
