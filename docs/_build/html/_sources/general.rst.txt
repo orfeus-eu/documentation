@@ -14,9 +14,10 @@ ORFEUS (Observatories and Research Facilities for European Seismology, http://or
 These goals are achieved through the development and maintenance of data services targeted to a broad community of seismological data users, ranging from earth scientists to earthquake engineering practitioners. Two Service Management Committees (SMCs) are consolidated within ORFEUS, devoted to managing, operating and developing (with the support of one or more Infrastructure Development Groups): 
 
 * the European Integrated waveform Data Archive (EIDA; https://www.orfeus-eu.org/data/eida/); 
-* the European Strong-Motion databases (SM; https://www.orfeus-eu.org/data/strong/). 
+* the European Strong-Motion databases (SM; https://www.orfeus-eu.org/data/strong/); 
+* the European Mobile Instrument Pools (MP, https://www.orfeus-eu.org/data/mobile/). 
 
-A new SMC is being established to represent the community of European mobile pools including amphibian instrumentation (MP, https://www.orfeus-eu.org/data/mobile/). Products and services for computational seismologists are also considered for integration in the ORFEUS domain, possibly leveraging on new EC-funded efforts. ORFEUS services currently provide access to the waveforms acquired by 23,000+ stations in Pan-Europe, including dense temporary experiments, with strong emphasis on open, high-quality data. 
+Products and services for computational seismologists are also considered for integration in the ORFEUS domain, possibly leveraging on new EC-funded efforts. ORFEUS services currently provide access to the waveforms acquired by 23,000+ stations in Pan-Europe, including dense temporary experiments, with strong emphasis on open, high-quality data. 
 
 ORFEUS and its Service Management Committees collectively engage in longterm data access, including data preservation and access continuity. For example, this would include ensuring transparent and continued data access in the unlikely case of permanent failure of a participating infrastructure.
 
