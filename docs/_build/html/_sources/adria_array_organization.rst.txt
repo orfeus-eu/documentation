@@ -79,9 +79,6 @@ AdriaArray - Members
    * - Matthew Agius
      - Department of Geosciences, University of Malta	
      - Malta
-   * - Sebastiano D'Amico
-     - Department of Geosciences, University of Malta	
-     - Malta    
    * - Dušica Brnović
      - Sector of Seismology, Institute of Hydrometeorology and Seismology of Montenegro	
      - Montenegro
@@ -869,7 +866,10 @@ AdriaArray - Participants
      -  Zoltán Wéber
    * -  ISTerre / Université Grenoble Alpes
      -  France
-     -  Piel Pawlowski     
+     -  Piel Pawlowski
+   * -  Department of Geosciences, University of Malta
+     -  Malta	
+     -  Sebastiano D'Amico     
 
 AdriaArray - Field team
 -----------------------------
