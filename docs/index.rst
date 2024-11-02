@@ -62,6 +62,13 @@ Our website is: http://www.orfeus-eu.org.
 
 .. toctree::
    :maxdepth: 2
+   :caption: Geo-INQUIRE Products
+   
+   data_integration
+   guidelines
+
+.. toctree::
+   :maxdepth: 2
    :caption: AdriaArray Initiative:
 
    adria_array_main
