@@ -16,7 +16,7 @@ AdriaArray - Members
    * - Representative
      - Member (participating institution)
      - Country     
-   * - Anila Xhahysa
+   * - Edmond Dushi
      - Department of  Seismology, Institute of Geosciences, Polytechnic University of Tirana
      - Albania
    * - Yan Jia

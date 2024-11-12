@@ -16,8 +16,8 @@ The ORFEUS Annual Observatory Meeting and Workshop was held in Helsinki on 5-7 N
 
 Some overall statistics based on the registration forms:
 
--	36% early career scientists (ECS)
--	41% female (F) attendees
+-	35% early career scientists (ECS)
+-	42% female (F) attendees
 -	35% affiliations in EU Widening (W) countries and Associated (A) countries with equivalent characteristics in terms of R&I performance
 
 About the grantees:
