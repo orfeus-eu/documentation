@@ -59,6 +59,7 @@ Our website is: http://www.orfeus-eu.org.
    SRL_Focus_Section
    conference_sessions
    epos_seismology_ws_2023
+   orfeus_geoi_2024
 
 .. toctree::
    :maxdepth: 2
@@ -66,6 +67,7 @@ Our website is: http://www.orfeus-eu.org.
    
    data_integration
    guidelines
+   orfeus_geoi_2024
 
 .. toctree::
    :maxdepth: 2
