@@ -227,7 +227,7 @@ Retrieving waveforms using webbrowser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	- Example with open station
-	Obtain 2 hrs of the record of the big Turkey earthquake from February 6, 2023 from `the station OE-CONA <https://www.orfeus-eu.org/fdsnws/dataselect/1/query?net=OE&station=CONA&start=2023-02-06T01:00:00&end=2023-02-06T03:00:00>`_:
+	Obtain 2 hrs of the record of the big Türkiye earthquake from February 6, 2023 from `the station OE-CONA <https://www.orfeus-eu.org/fdsnws/dataselect/1/query?net=OE&station=CONA&start=2023-02-06T01:00:00&end=2023-02-06T03:00:00>`_:
 
 	.. code-block:: python
 

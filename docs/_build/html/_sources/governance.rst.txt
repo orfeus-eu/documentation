@@ -24,8 +24,8 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Dr. J. V. Cantavella Nadal (Spain, IGN)
 * Prof. S. Wiemer (Switzerland, ETHZ)
 * Dr. B. Lund (Sweden, SNSN)
-* Prof. N. M. Özel (Turkey, KOERI)
-* Prof. O. Tatar (Turkey, AFAD)
+* Prof. N. M. Özel (Türkiye, KOERI)
+* Prof. O. Tatar (Türkiye, AFAD)
 * Dr. B. Baptie (United Kingdom, BGS/NERC)
 
 * Dr. R. Bossu for the EMSC (by right)
@@ -81,8 +81,8 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Dr. M. Shahvar (Iran, BHRC)
 * Dr. A. Marmureanu (Romania, NIEP-RO)
 * Dr. Martina Čarman (Slovenia, ARSO-SL)
-* Prof. E. Çaktı / Dr. D. Kalafat (Turkey, KOERI-TU)
-* Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Turkey, AFAD)
+* Prof. E. Çaktı / Dr. D. Kalafat (Türkiye, KOERI-TU)
+* Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Türkiye, AFAD)
 
 
 **Members of the MP SMC Management Board**

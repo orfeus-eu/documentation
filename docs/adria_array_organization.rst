@@ -110,7 +110,7 @@ AdriaArray - Members
      - Various         
    * - Musavver Didem Cambaz
      - Kandilli Observatory And Earthquake Research Institute
-     - Turkey     
+     - Türkiye     
    * - Ines Ivančić
      - Croatian Seismological Survey
      - Croatia     
@@ -406,7 +406,7 @@ AdriaArray - Participants
      -  Italy
      -  Fabio Cammarano
    * -  B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
-     -  Turkey
+     -  Türkiye
      -  Fatih Turhan
    * -  Istituto Nazionale di Geofisica e Vulcanologia
      -  Italy
@@ -661,7 +661,7 @@ AdriaArray - Participants
      -  Italy
      -  Matteo Scarponi
    * -  KOERI
-     -  Turkey
+     -  Türkiye
      -  Mehveş Feyza Akkoyunlu
    * -  Institute of Geosciences IGEO
      -  Albania
@@ -814,7 +814,7 @@ AdriaArray - Participants
      -  Türkiye
      -  Tuğçe Ergün
    * -  Bogazici University, Kandilli Observatory
-     -  Turkey
+     -  Türkiye
      -  Ugur Mustafa Teoman
    * -  Friedrich Schiller University Jena
      -  Germany

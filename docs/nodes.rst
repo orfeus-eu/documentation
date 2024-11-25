@@ -46,7 +46,7 @@ EIDA nodes are data centers that archive data from seismic networks deploying br
      - 2014
 
    * - `KOERI`_
-     - Turkey
+     - Türkiye
      - 2014
 
    * - `NOA`_
