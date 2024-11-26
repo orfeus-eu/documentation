@@ -67,6 +67,7 @@ Our website is: http://www.orfeus-eu.org.
    
    data_integration
    guidelines
+   das_guidelines
    orfeus_geoi_2024
 
 .. toctree::
