@@ -75,6 +75,7 @@ Our website is: http://www.orfeus-eu.org.
    :caption: AdriaArray Initiative:
 
    adria_array_main
+   adria_array_news
    adria_array_organization
    adria_array_wg
    adria_array_crg
