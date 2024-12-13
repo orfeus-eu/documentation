@@ -12,7 +12,7 @@ The ORFEUS Annual Observatory Meeting and Workshop was held in Helsinki on 5-7 N
 
 * Workshop program: https://polybox.ethz.ch/index.php/s/MKQtKbcUrZL3pXW 
 * Digital archive of slides and posters: https://polybox.ethz.ch/index.php/s/nLGGa8wBCe93KY7 
-* List of attendees: to be added
+* List of attendees: https://polybox.ethz.ch/index.php/s/MnUGK2IGdTbsRRI
 
 Some overall statistics based on the registration forms:
 
