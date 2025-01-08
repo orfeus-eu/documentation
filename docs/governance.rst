@@ -38,12 +38,14 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 **Members of the ORFEUS Executive Committee (ExeCom):**
 
 BoD-nominated
+
 * Dr. A. Strollo (President, Germany, GFZ)
 * Dr. Z. Roumelioti (Vice-President, Greece, University of Patras)
 * Prof. K. Sigloch (France, CNRS Géoazur)
 * Dr. S. D’Amico (Malta, UM)
 
 Ex Officio
+
 * Dr. W. Crawford (MP, France, IPGP/INSU)
 * J. Schaeffer (IDG-ETC, France, ISTerre)
 * Dr. C. Haberland (MP, Germany, GFZ/GIPP)
@@ -53,7 +55,9 @@ Ex Officio
 * R. Sleeman (Netherlands, ODC-KNMI)
 * Dr. P. Kolínský (Czech Republic, UAG, IG-CAS)
 
-* Dr. C. Cauzzi (Switzerland, SG, SED-ETHZ)
+**ORFEUS Secretary General**
+
+* Dr. C. Cauzzi (Switzerland, SED-ETHZ)
 
 **Members of the EIDA SMC Management Board**
 
@@ -186,5 +190,5 @@ Ex Officio
 
 **ORFEUS representatives in the EPOS Seismology Consortium Assembly**
 
-* Prof. S. Custódio
+* Dr. A. Strollo
 * Dr. C. Cauzzi
