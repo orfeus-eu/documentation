@@ -34,3 +34,6 @@ The recipients of the *2023* ORFEUS Software Development Grants are as follows:
 Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
 
 * **Onil Goubier (IPGP)** - project “*obsinfo v1.0*”
+
+Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
+

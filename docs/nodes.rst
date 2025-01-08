@@ -61,6 +61,10 @@ EIDA nodes are data centers that archive data from seismic networks deploying br
      - Spain
      - 2020
 
+   * - `BGS`_
+     - United Kingdom
+     - 2024 
+
 ODC / KNMI
 **********
 The ORFEUS Data Center, hosted by KNMI, is a centralized data center within EIDA that archives and exposes waveform data from European networks in particular the Netherlands. Historically all data available through ORFEUS EIDA were archived at ORFEUS Data Center, hence its name. Since 2013 the seismic archive has been federated across multiple data centers and ORFEUS Data Center is responsible for a part of the European Integrated Data Archive.
@@ -112,3 +116,8 @@ Point of Contact: Jan Michalek
 ICGC
 ****
 Point of Contact: Jose Antonio Jara
+
+BGS
+***
+Point of Contact: Brian Baptie
+

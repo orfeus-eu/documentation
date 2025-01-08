@@ -18,3 +18,6 @@ No grants awarded.
 Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
 
 * **Subbotin Institute of Geophysics of National Academy of Sciences of Ukraine** - project “*Integration in EIDA of continuous real-time open seismological waveform data and associated station/site metadata for stations of the Ukrainian seismic network*”
+
+Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
+

@@ -6,7 +6,8 @@ Promoted or organised by ORFEUS (last five years).
 At ESC 2024
 -----------
 
-* Coming soon
+* https://www.erasmus.gr/UsersFiles/microsite1277/Documents/Sessions/SESSION11.pdf
+* http://forum.orfeus-eu.org/t/esc2024-session-11-seismological-data-workflows-from-seismic-network-management-to-novel-data-products/928/2?u=ccauzzi
 
 At EGU 2024
 -----------
@@ -56,16 +57,5 @@ At EGU 2020
 
 *  https://meetingorganizer.copernicus.org/EGU2020/session/37046
 *  https://meetingorganizer.copernicus.org/EGU2020/session/38405
-
-At EGU 2019
------------
-
-*  https://meetingorganizer.copernicus.org/EGU2019/session/31880
-
-At SSA 2019
------------
-
-* Current and Future Challenges in Engineering Seismology
-
 
 
