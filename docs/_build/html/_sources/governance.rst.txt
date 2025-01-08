@@ -37,19 +37,22 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 
 **Members of the ORFEUS Executive Committee (ExeCom):**
 
-* Prof. S. Custódio (President; Portugal, FCUL/IDL)
-* Dr. P. Kolínský (Czech Republic, UAG, IG-CAS)
+BoD-nominated
+* Dr. A. Strollo (President, Germany, GFZ)
+* Dr. Z. Roumelioti (Vice-President, Greece, University of Patras)
 * Prof. K. Sigloch (France, CNRS Géoazur)
-* Dr. C. Haberland (Co-Chair, Germany, GFZ/GIPP)
-* Dr. W. Crawford (Co-Chair, France, IPGP/INSU)
-* Dr. A. Strollo (Vice-President, Germany, GFZ)
-* Dr. Z. Roumelioti (Greece, University of Patras)
-* Dr. C. Evangelidis (Greece, EIDA, NOA)
-* L. Luzi (Italy, SM, INGV)
 * Dr. S. D’Amico (Malta, UM)
-* Dr. J. Clinton (Switzerland, SM, SED-ETHZ)
+
+Ex Officio
+* Dr. W. Crawford (MP, France, IPGP/INSU)
+* J. Schaeffer (IDG-ETC, France, ISTerre)
+* Dr. C. Haberland (MP, Germany, GFZ/GIPP)
+* Dr. C. Evangelidis (EMB, Greece, NOA)
+* L. Luzi (Italy, SM, INGV)
+* Dr. J. Clinton (SM, Switzerland, SED-ETHZ)
 * R. Sleeman (Netherlands, ODC-KNMI)
-* J. Schaeffer (France, EIDA, ISTerre)
+* Dr. P. Kolínský (Czech Republic, UAG, IG-CAS)
+
 * Dr. C. Cauzzi (Switzerland, SG, SED-ETHZ)
 
 **Members of the EIDA SMC Management Board**
@@ -64,7 +67,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Prof. L. Ottemöller (Norway, UiB-NORSAR)
 * Dr. A. Marmureanu (Romania, NIEP)
 * Dr. J. Clinton (Switzerland, SED@ETHZ)
-
+* Dr. B. Baptie (United Kingdom, BGS/NERC)
 
 **Members of the SM SMC Management Board**
 
@@ -167,6 +170,7 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 * Dr. J. Michalek - UiB-NORSAR
 * A. Schlömer - LMU
 * Dr. J. A. Jara Salvador - ICGC
+* Dr J. A. Stevenson, Dr. R. Luckett, T. Joseph - BGS
 
 **Members of the Infrastructure Development Group (IDG) – SM Component**
 
