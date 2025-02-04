@@ -79,7 +79,7 @@ Ex Officio
 * L. Luzi (Co-Chair, Italy, INGV-IV & ESM) & Dr. G. Lanzano - ESM
 * R. Sleeman (Netherlands, ODC-KNMI & RRSM)
 * Dr. A. Michelini & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
-* Dr. E Maufroy (France, RESIF-RA)
+* Dr. F. Hollender (France, CEA) & Dr. E Maufroy (France, RESIF-RA)
 * Dr. G. Weatherill (Germany, GFZ-GEOFON)
 * Dr. O-J Ktenidou & Dr. N. Melis (Greece, NOA)
 * Dr. E. Riga & Prof. K. Pitilakis (Greece, AUTH)
@@ -187,6 +187,7 @@ Ex Officio
 * Dr. G. Weatherill - GFZ
 * Dr. N. Melis - NOA
 * K. Konstantinidou – ITSAK
+* Dr. V. Perron (CEA, France)
 
 **ORFEUS representatives in the EPOS Seismology Consortium Assembly**
 
