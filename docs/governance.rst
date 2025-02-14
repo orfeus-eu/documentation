@@ -167,7 +167,7 @@ Ex Officio
 * J. Quinteros, A. Heinloo, Dr. Peter Evans - GFZ
 * M. Hoffmann, E. O. Muhire - BGR
 * S. Heimers, P. Kästli – SED@ETHZ
-* I. Carluccio, M. Fares – INGV
+* Ivano Carluccio, M. Fares – INGV
 * M. Ozer - KOERI
 * Dr. C. Neagoe, L. Palangeanu - NIEP
 * K. Boukouras - NOA
