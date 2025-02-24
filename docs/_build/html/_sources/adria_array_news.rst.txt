@@ -8,8 +8,9 @@ Important
 	 
 Upcoming events
 ---------------
-	- 6th international workshop on AdriaArray will be held in San Servolo (Venice lagoon), Italy, on 11 – 14 March, 2025. Second announcement is `here <https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/AdA_Workshop_2025_2.pdf>`_. 
-
+	- 6th international workshop on AdriaArray will be held in San Servolo (Venice lagoon), Italy, on 11 – 14 March, 2025. Second announcement is `here <https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/AdA_Workshop_2025_2.pdf>`_ and Third announcement is `here <https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/AdA_Workshop_2025_3.pdf>`_. The `program <https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/program.pdf>`_ is regularly updated.
+	
+	- AdriaArray splinter meeting `SPM15 <https://meetingorganizer.copernicus.org/EGU25/session/54505>`_ will be organized during EGU GA25 27 April - 2 May 2025, Vienna, Austria.
 
 Old news
 -----------
