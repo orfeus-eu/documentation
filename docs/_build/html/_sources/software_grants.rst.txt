@@ -30,6 +30,7 @@ Call 2023: https://polybox.ethz.ch/index.php/s/nbBVMrClRE0caN9.
 The recipients of the *2023* ORFEUS Software Development Grants are as follows:
 
 * **Maria Tsekhmistrenko (UCL)** - project “*SubMachine consolidation and transition to ORFEUS*”
+	* Webinar: https://polybox.ethz.ch/index.php/s/6PgbfTHCWFj1pHw
 
 Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
 
