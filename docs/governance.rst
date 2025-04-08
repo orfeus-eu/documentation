@@ -103,14 +103,13 @@ Ex Officio
  
 **Members of the User Advisory Group (UAG)**
 
-* Dr. P. Kolínský (Chair, Czech Republic, IG-CAS)
-* Prof. S. Rondenay (Norway, UiB)
-* Dr. D. Bindi (Germany, GFZ)
-* Dr. L. Vecsey (Czech Republic, IG-CAS)
-* Dr. A. Schlömer (Germany, LMU)
-* Dr. V. Poggi (Italy, OGS)
+* Dr. V. Poggi (Chair, Italy, OGS)
+* Prof. G. Georgieva (Bulgaria, Uni. Sofia)
 * Dr. D. Stanko (Croatia, Uni. Zagreb)
+* Dr. P. Kolínský (Czech Republic, IG-CAS)
 * Mr. F. Eckel (Germany, Uni. Kiel)
+* Dr. I. Molinari (Italy, INGV-BO) 
+* Dr. M. Tsekhmistrenko (UK, UCL/ERP)
 
 **Members of the Board of Participants**
 
