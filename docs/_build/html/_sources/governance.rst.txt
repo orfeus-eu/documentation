@@ -50,10 +50,10 @@ Ex Officio
 * J. Schaeffer (IDG-ETC, France, ISTerre)
 * Dr. C. Haberland (MP, Germany, GFZ/GIPP)
 * Dr. C. Evangelidis (EMB, Greece, NOA)
-* L. Luzi (Italy, SM, INGV)
+* Dr. C. Mascandola (Italy, SM, INGV)
+* Dr. V. Poggi (Italy, SM, OGS)
 * Dr. J. Clinton (SM, Switzerland, SED-ETHZ)
 * R. Sleeman (Netherlands, ODC-KNMI)
-* Dr. P. Kolínský (Czech Republic, UAG, IG-CAS)
 
 **ORFEUS Secretary General**
 
@@ -64,7 +64,7 @@ Ex Officio
 * Dr. C. Evangelidis (Chair; Greece, NOA)
 * Dr. D. Cambaz (Co-Chair, KOERI)
 * Dr. H. Pedersen (France, RESIF)
-* Dr. A. Strollo (Germany, GFZ)
+* Dr. J. Quinteros (Germany, GFZ)
 * Dr. K. Stammler (Germany, BGR)
 * Dr. P. Danecek (Italy, INGV)
 * R. Sleeman (Netherlands, ODC - KNMI)
@@ -76,7 +76,7 @@ Ex Officio
 **Members of the SM SMC Management Board**
 
 * Dr. J. Clinton (Co-Chair, Switzerland, SED@ETHZ-CH)
-* L. Luzi (Co-Chair, Italy, INGV-IV & ESM) & Dr. G. Lanzano - ESM
+* Dr. C. Mascandola (Co-Chair, Italy, INGV-IV & ESM), L. Luzi & Dr. G. Lanzano - ESM
 * R. Sleeman (Netherlands, ODC-KNMI & RRSM)
 * Dr. A. Michelini & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
 * Dr. F. Hollender (France, CEA) & Dr. E Maufroy (France, RESIF-RA)
@@ -94,11 +94,11 @@ Ex Officio
 
 **Members of the MP SMC Management Board**
 
-* Dr. Christian Haberland (Co-Chair, Germany, GFZ/GIPP)
-* Dr. Wayne Crawford (Co-Chair, France, IPGP/INSU)
-* Dr. Florent Brenguier (Frances, SisMob)
-* Dr. Victoria Lane (UK, SeisUK)
-* Dr. Jordi Diaz (Spain, LabSis)
+* Dr. C. Haberland (Co-Chair, Germany, GFZ/GIPP)
+* Dr. W. Crawford (Co-Chair, France, IPGP/INSU)
+* Dr. F. Brenguier (Frances, SisMob)
+* Dr. V. Lane (UK, SeisUK)
+* Dr. J. Diaz (Spain, LabSis)
 * Observer: Prof. G. Hillers (Finland, FLEX-EPOS) 
  
 **Members of the User Advisory Group (UAG)**
