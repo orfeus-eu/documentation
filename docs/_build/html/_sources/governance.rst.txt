@@ -40,19 +40,18 @@ The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.
 BoD-nominated
 
 * Dr. A. Strollo (President, Germany, GFZ)
-* Dr. Z. Roumelioti (Vice-President, Greece, University of Patras)
 * Prof. K. Sigloch (France, CNRS Géoazur)
 * Dr. S. D’Amico (Malta, UM)
 
 Ex Officio
 
+* Dr. Z. Roumelioti (Vice-President, SM, Greece, University of Patras)
 * Dr. W. Crawford (MP, France, IPGP/INSU)
 * J. Schaeffer (IDG-ETC, France, ISTerre)
 * Dr. C. Haberland (MP, Germany, GFZ/GIPP)
 * Dr. C. Evangelidis (EMB, Greece, NOA)
 * Dr. C. Mascandola (Italy, SM, INGV)
 * Dr. V. Poggi (Italy, SM, OGS)
-* Dr. J. Clinton (SM, Switzerland, SED-ETHZ)
 * R. Sleeman (Netherlands, ODC-KNMI)
 
 **ORFEUS Secretary General**
@@ -161,32 +160,33 @@ Ex Officio
 
 **Members of the Infrastructure Development Group (IDG) – EIDA component**
 
-* J. Bienkowski, (Chair), L. Trani - ODC-KNMI
-* J. Schaeffer (Co-Chair), RESIF
-* J. Quinteros, A. Heinloo, Dr. Peter Evans - GFZ
-* M. Hoffmann, E. O. Muhire - BGR
-* S. Heimers, P. Kästli – SED@ETHZ
-* Ivano Carluccio, M. Fares – INGV
-* M. Ozer - KOERI
+* A. Krietemeyer, G.-J. van den Hazel, Dr. M. Koymans, S. Schneider, L. Trani, J.P. Pereira Zanetti - ODC-KNMI
+* J. Schaeffer (Chair), J.-M. Saurel, M. Grunberg - EPOS-France
+* A. Heinloo, Dr. P. Evans, H. Joo, S. Hemmleb - GFZ
+* M. Hoffmann, B. Goebel - BGR
+* S. Heimers, P. Kästli, F. Euchner, R. Racine – SED@ETHZ
+* I. Carluccio, M. Fares – INGV
+* M. Ozer, T. Ergün, F. Turhan - KOERI
 * Dr. C. Neagoe, L. Palangeanu - NIEP
-* K. Boukouras - NOA
-* Dr. J. Michalek - UiB-NORSAR
-* A. Schlömer - LMU
-* Dr. J. A. Jara Salvador - ICGC
+* K. Boukouras, N. Sokos - NOA
+* Dr. J. Michálek, Ø. Natvik - UiB-NORSAR
+* A. Schlömer, T. Megies, J. Wassermann - LMU
+* Dr. J. A. Jara Salvador, J. Barco - ICGC
 * Dr J. A. Stevenson, Dr. R. Luckett, T. Joseph - BGS
 
 **Members of the Infrastructure Development Group (IDG) – SM Component**
 
 * Dr. C. Felicetta, E. Russo – INGV
-* J. Bienkowski - ODC@KNMI
 * P. Kästli - SED-ETHZ
 * D. Senturk and T. Kiliç – AFAD
-* Dr. D. Cambaz - KOERI
-* O. Jianu - NIEP
+* Dr. D. Cambaz, F. Turhan, N. Çağlar, F. Malcioğlu, H. Suleyman - KOERI
+* A. Predoiu - NIEP
 * Dr. G. Weatherill - GFZ
-* Dr. N. Melis - NOA
+* Dr. N. Melis, T. Papageorgiou, K. Frangouli, F. Halaris - NOA
 * K. Konstantinidou – ITSAK
-* Dr. V. Perron (CEA, France)
+* Dr. V. Perron - CEA
+* A. Jerše Sharma / P. Zupancic – ARSO
+* Prof. E. Sokos – UPAT
 
 **ORFEUS representatives in the EPOS Seismology Consortium Assembly**
 
