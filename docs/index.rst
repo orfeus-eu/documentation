@@ -56,6 +56,8 @@ Our website is: http://www.orfeus-eu.org.
    software_grants
    data_grants
    sm_support_grants
+   mp_support_grants
+   community_support_grants
    SRL_Focus_Section
    conference_sessions
    epos_seismology_ws_2023

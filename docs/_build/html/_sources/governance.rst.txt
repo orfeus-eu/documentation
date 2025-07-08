@@ -42,14 +42,14 @@ BoD-nominated
 * Dr. A. Strollo (President, Germany, GFZ)
 * Prof. K. Sigloch (France, CNRS Géoazur)
 * Dr. S. D’Amico (Malta, UM)
+* Dr. C. Evangelidis (Greece, NOA)
 
 Ex Officio
 
-* Dr. Z. Roumelioti (Vice-President, SM, Greece, University of Patras)
+* Dr. Z. Roumelioti (formerly BoD-nominated, Vice-President, SM, Greece, University of Patras)
 * Dr. W. Crawford (MP, France, IPGP/INSU)
 * J. Schaeffer (IDG-ETC, France, ISTerre)
 * Dr. C. Haberland (MP, Germany, GFZ/GIPP)
-* Dr. C. Evangelidis (EMB, Greece, NOA)
 * Dr. C. Mascandola (Italy, SM, INGV)
 * Dr. V. Poggi (Italy, SM, OGS)
 * R. Sleeman (Netherlands, ODC-KNMI)
@@ -86,7 +86,7 @@ Ex Officio
 * Prof. R. Rupakhety (Iceland. EERC)
 * Dr. M. Shahvar (Iran, BHRC)
 * Dr. A. Marmureanu (Romania, NIEP-RO)
-* Dr. Martina Čarman (Slovenia, ARSO-SL)
+* A. Jerše Sharma (Slovenia, ARSO-SL)
 * Prof. E. Çaktı / Dr. D. Kalafat (Türkiye, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Türkiye, AFAD)
 
@@ -96,8 +96,8 @@ Ex Officio
 * Dr. C. Haberland (Co-Chair, Germany, GFZ/GIPP)
 * Dr. W. Crawford (Co-Chair, France, IPGP/INSU)
 * Dr. F. Brenguier (Frances, SisMob)
-* Dr. V. Lane (UK, SeisUK)
-* Dr. J. Diaz (Spain, LabSis)
+* Dr. V. Lane /  Prof. S. Fishwick (UK, SeisUK)
+* Dr. J. Diaz / Dr. David Martí (Spain, LabSis)
 * Observer: Prof. G. Hillers (Finland, FLEX-EPOS) 
  
 **Members of the User Advisory Group (UAG)**
@@ -158,21 +158,21 @@ Ex Officio
 * Institute of Hydrometeorology and Seismology of Montenegro
 * (Note: French seismological institutions are represented by CNRS in the BoD)
 
-**Members of the Infrastructure Development Group (IDG) – EIDA component**
+**Members of the Infrastructure Development Group (IDG) – EIDA component (ETC)**
 
 * A. Krietemeyer, G.-J. van den Hazel, Dr. M. Koymans, S. Schneider, L. Trani, J.P. Pereira Zanetti - ODC-KNMI
-* J. Schaeffer (Chair), J.-M. Saurel, M. Grunberg - EPOS-France
+* J. Schaeffer (Chair)- EPOS-France
 * A. Heinloo, Dr. P. Evans, H. Joo, S. Hemmleb - GFZ
 * M. Hoffmann, B. Goebel - BGR
 * S. Heimers, P. Kästli, F. Euchner, R. Racine – SED@ETHZ
-* I. Carluccio, M. Fares – INGV
+* M. Fares, I. Carluccio – INGV
 * M. Ozer, T. Ergün, F. Turhan - KOERI
 * Dr. C. Neagoe, L. Palangeanu - NIEP
 * K. Boukouras, N. Sokos - NOA
-* Dr. J. Michálek, Ø. Natvik - UiB-NORSAR
+* Ø. Natvik - UiB-NORSAR
 * A. Schlömer, T. Megies, J. Wassermann - LMU
-* Dr. J. A. Jara Salvador, J. Barco - ICGC
-* Dr J. A. Stevenson, Dr. R. Luckett, T. Joseph - BGS
+* Dr. J. A. Jara Salvador - ICGC
+* Dr J. A. Stevenson, Dr. R. Luckett - BGS
 
 **Members of the Infrastructure Development Group (IDG) – SM Component**
 
@@ -185,7 +185,7 @@ Ex Officio
 * Dr. N. Melis, T. Papageorgiou, K. Frangouli, F. Halaris - NOA
 * K. Konstantinidou – ITSAK
 * Dr. V. Perron - CEA
-* A. Jerše Sharma / P. Zupancic – ARSO
+* P. Zupancic – ARSO
 * Prof. E. Sokos – UPAT
 
 **ORFEUS representatives in the EPOS Seismology Consortium Assembly**

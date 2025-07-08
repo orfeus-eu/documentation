@@ -11,3 +11,4 @@ Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
 
 Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
 
+* **INGV (Cianetti et al.)** - project "*ESM25 - Engineering Strong Motion ML dataset*"
