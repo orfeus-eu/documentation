@@ -597,15 +597,24 @@ AdriaArray - Participants
    * -  National Institute for Earth Physics
      -  Romania
      -  Laura Petrescu
-   * -  istituto nazionale di geofisica e vulcanologia
+   * -  INGV
      -  Italy
      -  Laura Scognamiglio
+   * -  INGV
+     -  Italy
+     -  Mandiello Alfonso Giovanni
+   * -  INGV
+     -  Italy
+     -  Massimo Di Bona
+   * -  INGV
+     -  Italy
+     -  Luciana Bonatto     
+   * -  INGV
+     -  Italy
+     -  Lucia Margheriti
    * -  Seismological Observatory at Faculty of Natural Sciences and mathematics
      -  North Macedonia
      -  Ljubcho Jovanov
-   * -  Istituto Nazionale di geofisica e Vulcanologia
-     -  Italy
-     -  Lucia Margheriti
    * -  Institute of Geophysics of the Czech Academy of Siences
      -  Czech Republic
      -  Luděk Vecsey
@@ -615,9 +624,6 @@ AdriaArray - Participants
    * -  University of Silesia in Katowice
      -  Poland
      -  Maciej Mendecki
-   * -  INGV
-     -  Italy
-     -  Mandiello Alfonso Giovanni
    * -  Ruhr-University Bochum
      -  Germany
      -  Marcel Paffrath
@@ -651,9 +657,6 @@ AdriaArray - Participants
    * -  ARSO (Slovenian Environment Agency)
      -  Slovenia
      -  Martina Čarman
-   * -  INGV
-     -  Italy
-     -  Massimo Di Bona
    * -  Institute of Earth Physics and Space Science
      -  Hungary
      -  Mate Timko
