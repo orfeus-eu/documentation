@@ -3,15 +3,16 @@ AdriaArray News
 
 Important
 -----------
-	- **Submission Deadline Extended to March 1, 2025 - Special Issue *Large-Scale Temporary Passive Seismic Experiment* in Annals of Geophysics**
-	 We thank to those who have their manuscripts already submitted. This extension aims to provide authors with additional time to finalize their contributions and ensure the highest quality of submissions. **This is the last extension possible and the date of March 1 is final**. Authors should ensure following of the `submission guidelines <https://www.annalsofgeophysics.eu/index.php/annals/submission-guidelines-2024>`_ and use the provided `manuscript template <https://www.annalsofgeophysics.eu/public/site/Template_AnnalsofGeophysics_20240617_final.docx>`_ . Manuscripts should be submitted via the online portal `here <https://www.annalsofgeophysics.eu/index.php/annals/Submit-the-manuscript>`_.
-	 
+		 
 Upcoming events
 ---------------
-	- 7th AdriaArray workshop, which will be held in Sopron, Hungary, 17 - 20 March 2026. The meeting will take place in the University of Sopron (Ligneum building) and the building of the HUN-REN Institute of Earth Physics and Space Science (HUN-REN EPSS). Please, save the date. All the information is available at a dedicated `webpage <https://adriaarrayws2026.epss.hu/>`_. Save this page to your bookmarks and check it regularly as updates will be provided later. The registration will be open in November 2025. 
+	- 7th AdriaArray workshop will be held in Sopron, Hungary, 17 - 20 March 2026. The meeting will take place in the University of Sopron (Ligneum building) and the building of the HUN-REN Institute of Earth Physics and Space Science (HUN-REN EPSS). All the information is available at a dedicated `webpage <https://adriaarrayws2026.epss.hu/>`_. Save this page to your bookmarks and check it regularly as updates will be provided later. 
+	**Registration for the workshop is now open.** We cordially invite you to participate! Please register via the `following link <https://adriaarrayws2026.epss.hu/registration/>`_ at your earliest convenience, as the maximum number of participants is limited:
+
 	
 Old news
 -----------
+
 
 	- 6th international workshop on AdriaArray was held in San Servolo (Venice lagoon), Italy, on 11 – 14 March, 2025. The `program <https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/program.pdf>`_ of the workshop.
 	
