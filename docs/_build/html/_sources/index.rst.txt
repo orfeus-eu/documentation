@@ -62,6 +62,7 @@ Our website is: http://www.orfeus-eu.org.
    conference_sessions
    epos_seismology_ws_2023
    orfeus_geoi_2024
+   eposs_geoi_2025
 
 .. toctree::
    :maxdepth: 2
@@ -71,6 +72,7 @@ Our website is: http://www.orfeus-eu.org.
    guidelines
    das_guidelines
    orfeus_geoi_2024
+   eposs_geoi_2025
 
 .. toctree::
    :maxdepth: 2

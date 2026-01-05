@@ -3,7 +3,7 @@ Conference Sessions
 
 Promoted or organised by ORFEUS (last five years).
 
-At EGU 2024
+At EGU 2025
 ___________
 
 * https://meetingorganizer.copernicus.org/EGU25/session/53584
