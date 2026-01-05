@@ -20,6 +20,9 @@ AdriaArray Workshops
 
 ORFEUS (and EPOS via the EPOS SP project, Task 4.3) has supported the organisation of AdriaArray (AdA) workshops since 2020.
 
+* An AdriaArray Splinter meeting took place during the EGU GA 2025 on 01 May.
+  - `Announcement <https://meetingorganizer.copernicus.org/EGU25/session/54505>`_
+
 * An AdriaArray Splinter meeting took place during the EGU GA 2024 on April 17th.
   - `Announcement <https://meetingorganizer.copernicus.org/EGU24/session/50694>`_
 
