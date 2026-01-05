@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html class="writer-html5" lang="en" data-content_root="./">
+<html class="writer-html5" lang="en">
 <head>
-  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Usage Examples &mdash; ORFEUS documentation  documentation</title>
-      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=80d5e7a1" />
-      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=19f00094" />
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css" />
 
   
   <!--[if lt IE 9]>
     <script src="_static/js/html5shiv.min.js"></script>
   <![endif]-->
   
-        <script src="_static/jquery.js?v=5d32c60e"></script>
-        <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-        <script src="_static/documentation_options.js?v=5929fcd5"></script>
-        <script src="_static/doctools.js?v=9a2dae69"></script>
-        <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="_static/doctools.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -137,18 +137,18 @@
 <img alt="_images/eidalogo.jpg" src="_images/eidalogo.jpg" />
 </figure>
 <section id="usage-examples">
-<h1>Usage Examples<a class="headerlink" href="#usage-examples" title="Link to this heading"></a></h1>
+<h1>Usage Examples<a class="headerlink" href="#usage-examples" title="Permalink to this heading"></a></h1>
 <p>Webservices are the easiest way to download data from ORFEUS EIDA and requests are resolved from URLs that return data. They can be invoked by your browser, a command line tool, or automatically through software package like <a class="reference external" href="https://docs.obspy.org/packages/obspy.clients.fdsn.html#module-obspy.clients.fdsn">ObsPy</a> and <a class="reference external" href="https://www.seiscomp3.org/wiki/doc/applications/fdsnws_fetch">fdsnws_fetch</a>. Data can be requested by querying the webservice with a standardized syntax. Each call consists of the webservice address followed by a service label and finalized by one or more option-value pairs that represent the request options that are initialized by a question mark.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://webservice-address/label?option=value&amp;option2=value2</span></code></p>
 <section id="i-want-to-download-raw-waveform-data-fdsn-dataselect">
-<h2>I want to download raw waveform data (FDSN Dataselect)<a class="headerlink" href="#i-want-to-download-raw-waveform-data-fdsn-dataselect" title="Link to this heading"></a></h2>
+<h2>I want to download raw waveform data (FDSN Dataselect)<a class="headerlink" href="#i-want-to-download-raw-waveform-data-fdsn-dataselect" title="Permalink to this heading"></a></h2>
 <p>FDSNWS-Dataselect must be used to download waveform data. This example requests raw waveform data between 2014-01-01T00:20:00 and 2014-01-01T00:50:00 for station FR.RENF from EIDA node RESIF. The response will be a single mSEED file that contains all streams that fit this request. The output streams are limited to the contacted nodes’ data holdings.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://ws.resif.fr/fdsnws/dataselect/1/query?starttime=2014-01-01T00:20:00&amp;endtime=2014-01-01T00:50:00&amp;network=FR&amp;station=RENF</span></code></p>
 <p>Stations that belong to other networks may need to be downloaded from another data center. Alternatively, data can be downloaded using the EIDAWS-Federator web service. In this case user does not need to know which data center holds the desired waveforms.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://federator.orfeus-eu.org/fdsnws/dataselect/1/query?starttime=2014-01-01T00:20:00&amp;endtime=2014-01-01T00:50:00&amp;network=FR&amp;station=RENF</span></code></p>
 </section>
 <section id="i-want-station-metadata-instrument-specifics-fdsn-station">
-<h2>I want station metadata &amp; instrument specifics (FDSN Station)<a class="headerlink" href="#i-want-station-metadata-instrument-specifics-fdsn-station" title="Link to this heading"></a></h2>
+<h2>I want station metadata &amp; instrument specifics (FDSN Station)<a class="headerlink" href="#i-want-station-metadata-instrument-specifics-fdsn-station" title="Permalink to this heading"></a></h2>
 <p>Station metadata can be retrieved using FDSNWS-Station. This example requests station metadata from EIDA node NOA for stations within 0.7° arc-distance of 40°N, 23°E. The response will be a stationXML file with stations located in the selected area. Note that this request will only return stations within the data holdings of the respective node.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://eida.gein.noa.gr/fdsnws/station/1/query?latitude=40&amp;longitude=23&amp;maxradius=0.7</span></code></p>
 <p>Alternatively, station metadata and instrument response can be requested for stations or networks.</p>
@@ -157,17 +157,17 @@
 <p><code class="docutils literal notranslate"><span class="pre">https://federator.orfeus-eu.org/fdsnws/station/1/query?latitude=42.645&amp;longitude=18.016&amp;maxradius=5</span></code></p>
 </section>
 <section id="i-want-to-know-what-data-is-available-fdsnws-availability">
-<h2>I want to know what data is available (FDSNWS Availability)<a class="headerlink" href="#i-want-to-know-what-data-is-available-fdsnws-availability" title="Link to this heading"></a></h2>
+<h2>I want to know what data is available (FDSNWS Availability)<a class="headerlink" href="#i-want-to-know-what-data-is-available-fdsnws-availability" title="Permalink to this heading"></a></h2>
 <p>Use FDNSWS-Availability to obtain information on what time segments are available for the archives. The following request will show you the coverage for which data is available for station FR.RENF from RESIF.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://ws.resif.fr/fdsnws/availability/1/query?starttime=2014-01-01T00:20:00&amp;endtime=2014-02-01T00:00:00&amp;network=FR&amp;station=RENF</span></code></p>
 </section>
 <section id="i-want-to-know-what-data-center-to-download-from-eida-routing">
-<h2>I want to know what data center to download from (EIDA Routing)<a class="headerlink" href="#i-want-to-know-what-data-center-to-download-from-eida-routing" title="Link to this heading"></a></h2>
+<h2>I want to know what data center to download from (EIDA Routing)<a class="headerlink" href="#i-want-to-know-what-data-center-to-download-from-eida-routing" title="Permalink to this heading"></a></h2>
 <p>Use EIDAWS-Routing when unsure about what EIDA node holds the networks or stations you are interested in. Requesting dataselect (i.e. raw waveform data) routing information for network GE. The response is a JSON file that tells you this particular network belongs to GFZ and the waveform data can be retrieved from the returned webservice URL.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://orfeus-eu.org/eidaws/routing/1/query?network=GE&amp;service=dataselect</span></code></p>
 </section>
 <section id="i-want-waveform-metadata-quality-metrics-eida-wfcatalog">
-<h2>I want waveform metadata &amp; quality metrics (EIDA WFCatalog)<a class="headerlink" href="#i-want-waveform-metadata-quality-metrics-eida-wfcatalog" title="Link to this heading"></a></h2>
+<h2>I want waveform metadata &amp; quality metrics (EIDA WFCatalog)<a class="headerlink" href="#i-want-waveform-metadata-quality-metrics-eida-wfcatalog" title="Permalink to this heading"></a></h2>
 <p>The EIDAWS-WFCatalog holds information on waveform metadata. This example requests waveform metadata from ODC between 2014-06-01 and 2014-06-03 for station NL.HGN excluding all streams with gaps. The response is a JSON file containing metadata documents for daily streams that pass the gapless criteria.</p>
 <p><code class="docutils literal notranslate"><span class="pre">https://www.orfeus-eu.org/eidaws/wfcatalog/alpha/query?start=2014-06-01&amp;end=2014-06-03&amp;network=NL&amp;sta=HGN&amp;num_gaps=0</span></code></p>
 </section>
