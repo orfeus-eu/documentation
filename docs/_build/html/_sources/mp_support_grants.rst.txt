@@ -9,6 +9,8 @@ Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
 
 * **SEIS-UK** - project "*mseed2EIDA: a tool for transferring seismic data sets to EIDA*"
 
+Call 2026/27: https://polybox.ethz.ch/index.php/s/mSGoMH4DakdHWsi
+
 
 
 

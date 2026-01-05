@@ -10,3 +10,6 @@ Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
 
 * **Uni CAU-Kiel** - "*AdriaArray annual meeting 2025*"
 * **UCL** - "*AtlanticArray vision workshop 2025*" 
+
+Call 2026/27: https://polybox.ethz.ch/index.php/s/mSGoMH4DakdHWsi
+
