@@ -20,6 +20,8 @@ AdriaArray Workshops
 
 ORFEUS (and EPOS via the EPOS SP project, Task 4.3) has supported the organisation of AdriaArray (AdA) workshops since 2020.
 
+* The 6th international workshop on AdriaArray was held in San Servolo (Venice lagoon), Italy, on 11 – 14 March, 2025. The event was attended by more that 100 people. The program of the workshop is here  - https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/program.pdf
+
 * An AdriaArray Splinter meeting took place during the EGU GA 2025 on 01 May.
   - `Announcement <https://meetingorganizer.copernicus.org/EGU25/session/54505>`_
 
