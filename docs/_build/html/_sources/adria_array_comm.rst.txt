@@ -6,14 +6,9 @@ Relevant earthquakes in the region
 	- `EMSC <https://www.emsc-csem.org/#2>`_.
 	- `USGS <https://www.usgs.gov/programs/earthquake-hazards/earthquakes>`_.
 
-Job opportunity
+Publications
 -------------------------------------
-	- No current openings listed here. :-(
-
-
-Publication
--------------------------------------
-	- No current publication listed here. :-(
+	- https://www.annalsofgeophysics.eu/index.php/annals/issue/view/627
 
 AdriaArray Workshops
 --------------------
