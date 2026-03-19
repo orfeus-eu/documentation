@@ -151,7 +151,7 @@ AdriaArray - Members
    * - Hanna Silvennoinen
      - University of Oulu
      - Finland
-   * - Timo Tiira
+   * - Tommi Vuorinen
      - University of Helsinki
      - Finland     
    * - Andrea Tallarico
