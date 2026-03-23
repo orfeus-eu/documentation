@@ -19,7 +19,7 @@ AdriaArray - Members
    * - Edmond Dushi
      - Department of  Seismology, Institute of Geosciences, Polytechnic University of Tirana
      - Albania
-   * - Yan Jia
+   * - Nikolaus Horn
      - GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
      - Austria
    * - Götz Bokelmann
@@ -108,7 +108,7 @@ AdriaArray - Members
    * - Carlo Cauzzi
      - Observatories and Research Facilities for European Seismology	
      - Various         
-   * - Musavver Didem Cambaz
+   * - Tuğçe Ergün
      - Kandilli Observatory And Earthquake Research Institute
      - Türkiye     
    * - Ines Ivančić
@@ -213,667 +213,667 @@ AdriaArray - Participants
    :widths: 25 25 25
    :header-rows: 1
 
-   * - Institute
+   * - Name
      - Country
-     - Name
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Alina Coman
-   * -  Kiel University
-     -  Germany
-     -  Amr El-Sharkawy
-   * -  Aristotle University of Thessaloniki
-     -  GREECE
-     -  Anastasia Kiratzi
-   * -  Istituto Nazionale di Geofisica e Vulcanologia
-     -  Italy
-     -  Andrea Morelli
-   * -  Karlsruhe Institut of Technology (KIT)
-     -  Germany
-     -  Andreas Rietbrock
-   * -  National and Kapodistrian University of Athens
-     -  Greece
-     -  Andreas Tzanis
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Andreea Craiu
-   * -  National Institute for Earth Physics 
-     -  Romania
-     -  Andreea Tolea
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Andrei Bala
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Andrei Mihai
-   * -  Eart Science Institute, Slovak Academy of Sciences
-     -  Slovakia
-     -  Andrej Cipciar
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Anica Otilia Placinta
-   * -  Institute of Geosciences, Seismology Department
-     -  Albania
-     -  Anila Xhahysa
-   * -  Seismological Laboratory,  Department of Geology,  University of Patras
-     -  Greece
-     -  Anna Serpetsidaki
-   * -  Ruhr-Universität Bochum
-     -  Germany
-     -  Anne Mohr
-   * -  SED/ETH
-     -  Schweiz
-     -  Anne Obermann 
-   * -  Ludwig-Maximilians-University Munich (LMU)
-     -  Germany
-     -  Antje Schlömer
-   * -  Institute of Geosciences
-     -  Albania
-     -  Ardian Minarolli
-   * -  Polytechnic University of Tirana, Institute of Geosciences 
-     -  Albania
-     -  Ardit Dervishi
-   * -  Laboratory of Seismology, Department of Geology, University of Patras 
-     -  Greece
-     -  Athanasios Lois
-   * -  Goethe University Frankfurt
-     -  Germany
-     -  Ayoub Kaviani
-   * -  Kövesligethy Radó Seismological Observatory, EPSS, Hungary
-     -  Hungary
-     -  Barbara Czecze
-   * -  GFZ
-     -  Germany
-     -  Bernd Schurr
-   * -  Polytechnic University of Tirana, Institute of Geosciences, Department of Seismology
-     -  Albania
-     -  Besian Rama
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Bogdan Enescu
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Bogdan Grecu
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Bogdan Zaharia
-   * -  Institute of Earth Physics and Space Science
-     -  Hungary
-     -  Bálint Süle
-   * -  Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Pisa
-     -  Italy
-     -  Carlo Giunchi
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Catalin Gheablau
-   * -  Istituto Nazionale di Geofisica e Vulcanologia (INGV)
-     -  Italy
-     -  Caterina Montuori
-   * -  Institute of Hydrometeorology and Seismology
-     -  Montenegro
-     -  Čaveliš Marin
-   * -  Arisotle University of Thessaloniki
-     -  Greece
-     -  Chrisanthi Ventouzi
-   * -  GFZ Potsdam
-     -  Germany
-     -  Christian Haberland
-   * -  Uppsala University
-     -  Sweden
-     -  Christian Schiffer
-   * -  CAU Kiel
-     -  Germany
-     -  Christian Weidle
-   * -  National Observatory of Athens 
-     -  Greece
-     -  Christos Evangelidis 
-   * -  INGV - Istituto Nazionale di Geofisica e Vulcanologia 
-     -  Italy
-     -  Claudia Piromallo
-   * -  University of Vienna
-     -  Austria
-     -  Clément Estève
-   * -  NIEP
-     -  Romania
-     -  Constantin Ionescu
-   * -  ISTERRE
-     -  FRANCE
-     -  Coralie Aubert
-   * -  Geophysical Lab, Aristotle Univ. Thessaloniki
-     -  Greece
-     -  Costas Papazachos
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Craiu George Marius
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Cristian  Ghita
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Cristian Neagoe
-   * -  Institute of Geophysics of the Czech Academy of Science
-     -  Czech Republic
-     -  Cédric P. Legendre
-   * -  Institute of Geosciences of Albania
-     -  Albania
-     -  Damiano Koxhaj
-   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
-     -  Italy 
-     -  Damiano Pesaresi 
-   * -  Kövesligethy Radó Seismological Observatory, Institute of Earth Physics and Space Science, Budapest, Hungary
-     -  Hungary
-     -  Daniel Kalmar
-   * -  Christian-Albrechts-University Kiel
-     -  Germany
-     -  Daniel Köhn
-   * -  National Institute for Research and Development for Earth Physics
-     -  Romanian
-     -  Daniel Nistor Paulescu
-   * -  Slovenian Environment Agency - ARSO
-     -  Slovenia
-     -  Danijela Birko
-   * -  SED/ETHZ
-     -  Switzerland
-     -  Dario Jozinović
-   * -  Laboratory of Seismology, Department of Geology, University of Patras
-     -  Greece
-     -  Dimitrios Giannopoulos
-   * -  Department of Geophysics, University of Zagreb
-     -  Croatia
-     -  Dinko Sindija
-   * -  Institute of Geosciences, Seismology Departament
-     -  Albania
-     -  Dionald Mucaj
-   * -  B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
-     -  Türkiye
-     -  Doğan Kalafat
-   * -  Seismological Observatory, Faculty of Natural Sciences and Mathematics, St. Cyril and Methodius University in Skopje
-     -  Republic of North Macedonia
-     -  Dragana Chernih Anastasovska
-   * -  Department of Seismology, Institute of GeoSciences, Polytechnic University of Tirana
-     -  Albania
-     -  Edmond Dushi
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Elena Florinela Manea
-   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
-     -  Italy
-     -  Elisa Zuccolo
-   * -  Institute of Earth Physics and Space Science
-     -  Hungary
-     -  Erzsébet Győri
-   * -  Roma Tre University
-     -  Italy
-     -  Fabio Cammarano
-   * -  B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
-     -  Türkiye
-     -  Fatih Turhan
-   * -  Istituto Nazionale di Geofisica e Vulcanologia
-     -  Italy
-     -  Federica Magnoni
-   * -  National Institute for Earth Physics 
-     -  Romania
-     -  Felix Borleanu
-   * -  Christian Albrechts Universität Kiel
-     -  Germany
-     -  Felix Eckel
-   * -  University of Athens
-     -  Greece
-     -  Filippos Vallianatos
-   * -  INGV Rome
-     -  Italy
-     -  Francesca Di Luccio
-   * -  INGV
-     -  Italy
-     -  Francesco Pio Lucente
-   * -  Charles University, Faculty of Mathematics and Physics, Department of Geophysics
-     -  Czech Republic
-     -  František Gallovič
-   * -  Deutsches GeoForschungsZentrum
-     -  Germany
-     -  Frederik Tilmann
-   * -  Seismological Laboratory, National and Kapodistrian University of Athens
-     -  Ελλάδα
-     -  George Kaviris
-   * -  National and Kapodistrian University of Athens
-     -  Greece
-     -  Georgios Michas
-   * -  Goethe University Frankfurt
-     -  Germany
-     -  Georg Rümpker
-   * -  Sofia University "St. Kliment Ohridski", Faculty of Physics
-     -  Bulgaria
-     -  Gergana Dimitrova Georgieva
-   * -  Ruhr University Bochum
-     -  Germany
-     -  Gian-Maria Bocchini
-   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
-     -  Italy
-     -  Giuliana Rossi
-   * -  Slovenian Environment Agency (ARSO)
-     -  Slovenia
-     -  Gregor Rajh
-   * -  Institute of Earth Physics and Space Science
-     -  Hungary
-     -  Gyarmati Anett
-   * -  University of Lausanne
-     -  Switzerland
-     -  György Hetényi
-   * -  University of Vienna
-     -  Austria
-     -  Götz Bokelmann
-   * -  Institute of Geophysics of the Czech Academy of Sciences
-     -  Czech Republic
-     -  Hana Kampfová Exnerová
-   * -  Sodankylä geophysical observatory, University of Oulu
-     -  Finland
-     -  Hanna Silvennoinen
-   * -  LMU Munich
-     -  Germany
-     -  Heiner Igel
-   * -  Department of Geophysics, Faculty of Science, University of Zagreb
-     -  Croatia
-     -  Helena Latečki
-   * -  Institute of Geophysics, Czech Academy of Sciences
-     -  Czech Republic
-     -  Helena Zlebcikova
-   * -  Université Grenoble Alps / ISTerre
-     -  France
-     -  Helle Pedersen
-   * -  Università degli Studi Roma Tre
-     -  Italy
-     -  Henrique Berger Roisenberg
-   * -  National Observatory of Athens, Institude of Geodynamics
-     -  Greece
-     -  Ioannis Fountoulakis
-   * -  National and Kapodistrian University of Athens
-     -  Greece
-     -  Ioannis Spingos
-   * -  Department of Seismology, Institute of Geosciences, Polytechnic University of Tirana
-     -  Albania
-     -  Irena Dushi
-   * -  INGV - Rome
-     -  Italy
-     -  Irene Bianchi
-   * -  INGV
-     -  Italy
-     -  Irene Molinari
-   * -  Department of Seismology, Institute of Geoscienses (IGEO), University Polytechnic of Tirana (UPT)
-     -  Albania
-     -  Ismail Hoxha
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Iulia Armeanu
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Iulia Ciobanu
-   * -  Department of Geophysics, Faculty of Science, University of Zagreb
-     -  Croatia
-     -  Iva Dasović
-   * -  Seismological Observatory at Faculty of Natural Sciences and Mathematics - Skopje
-     -  North Macedonia
-     -  Ivana Molerovikj
-   * -  Slovenian Environment Agency
-     -  Slovenija
-     -  Izidor Tasič
-   * -  Institute of Hydrometeorology and Seismology
-     -  Montenegro
-     -  Jadranka Mihaljevic
-   * -  Institute of Geophysics CAS, Prague
-     -  Česko
-     -  Jan Zedník
-   * -  Ruhr-Universität Bochum
-     -  Germany
-     -  Janis Heuel
-   * -  Institute of Geophysics, Czech Academy of Sciences
-     -  Czech Republic
-     -  Jaroslava Plomerova
-   * -  AGH University in Krakow, and Uppsala University
-     -  Poland and Sweden
-     -  Jaroslaw Majka
-   * -  Seismological Observatory, Faculty of Natural Sciences and Mathematics, Ss. Cyril and Methodius University in Skopje
-     -  Republic of North Macedonia
-     -  Jasmina Najdovska
-   * -  EOST- Strasbourg
-     -  France
-     -  Jérôme VERGNE
-   * -  Institute of Geophysics of the Czech Academy of Science
-     -  Czech Republic
-     -  Jiri Kvapil
-   * -  IRSM Czech Academy of Sciences
-     -  Czechia
-     -  Jiří Vackář
-   * -  National and Kapodistrian University of Athens
-     -  Greece
-     -  John D. Alexopoulos
-   * -  Geo3Bcn-CSIC
-     -  Spain
-     -  Jordi Diaz
-   * -  Institute of Physics of the Earth, Masaryk University, Brno
-     -  Czech Republic
-     -  Josef Havíř
-   * -  Institute of Geophysics, Czech Academy of Sciences
-     -  Czech Republic
-     -  Josef Kotek
-   * -  Institute of Hydrometeorology and Seismology of Montenegro
-     -  Montenegro
-     -  Jovan Dedic
-   * -  University of Twente
-     -  Netherlands
-     -  Juan Carlos Afonso
-   * -  Institute of Geophysics, Polish Academy of Sciences
-     -  Poland
-     -  Julia Rewers
-   * -  University of Twente (ITC)
-     -  Netherlands 
-     -  Junior Kimata
-   * -  Slovenian Environment Agency
-     -  Slovenia
-     -  Jurij Pahor
-   * -  Universität Jena
-     -  Germany
-     -  Kamil Ustaszewski
-   * -  Ruhr University Bochum
-     -  Germany
-     -  Kasper David Fischer
-   * -  Seismological observatory, Skopje
-     -  North Macedonia
-     -  Katerina Drogreshka
-   * -  Polytechnic University of Tirana (UPT)
-     -  Albania
-     -  Klajdi Qoshi
-   * -  Institute of Geodynamics, National Observatory of Athens
-     -  Greece
-     -  Kostas Boukouras
-   * -  Earth Science Institute of the SAS
-     -  Slovakia
-     -  Kristian Csicsay
-   * -  Boğaziçi University Kandilli Observatory and Earthquake Research Institute
-     -  Türkiye
-     -  Kıvanç Kekovalı
-   * -  CAU Kiel
-     -  Germany
-     -  Lars Wiesenberg
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Laura Petrescu
-   * -  INGV
-     -  Italy
-     -  Laura Scognamiglio
-   * -  INGV
-     -  Italy
-     -  Mandiello Alfonso Giovanni
-   * -  INGV
-     -  Italy
-     -  Massimo Di Bona
-   * -  INGV
-     -  Italy
-     -  Luciana Bonatto     
-   * -  INGV
-     -  Italy
-     -  Lucia Margheriti
-   * -  Seismological Observatory at Faculty of Natural Sciences and mathematics
-     -  North Macedonia
-     -  Ljubcho Jovanov
-   * -  Institute of Geophysics of the Czech Academy of Siences
-     -  Czech Republic
-     -  Luděk Vecsey
-   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
-     -  Italy
-     -  Luigi Sante Zampa
-   * -  University of Silesia in Katowice
-     -  Poland
-     -  Maciej Mendecki
-   * -  Ruhr-University Bochum
-     -  Germany
-     -  Marcel Paffrath
-   * -  Ruhr University Bochum
-     -  Germany
-     -  Marco P. Roth
-   * -  Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
-     -  Italy
-     -  Marco Santulin
-   * -  GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
-     -  Austria
-     -  Maria-Theresia Apoloner
-   * -  Croatian Seismological Survey, Department of Geophysics, Faculty of Science, University of Zagreb
-     -  Croatia
-     -  Marija Mustać Brčić
-   * -  Department of Geophysics, Faculty of Science, University of Zagreb
-     -  Croatia
-     -  Marijan Herak
-   * -  Geodynamic Institute - National Observatory of Athens
-     -  Greece
-     -  Marinos Charalampakis
-   * -  GEO3BCN CSIC
-     -  Spain
-     -  Mario Ruiz Fernandez
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Marius Mihai
-   * -  University of Twente - ITC - Dept of Applied Earth Sciences
-     -  The Netherlands
-     -  Mark van der Meijde
-   * -  ARSO (Slovenian Environment Agency)
-     -  Slovenia
-     -  Martina Čarman
-   * -  Institute of Earth Physics and Space Science
-     -  Hungary
-     -  Mate Timko
-   * -  Istituto Nazionale di Geofisica e Vulcanologia (INGV, Rome, Italy))
-     -  Italy
-     -  Matteo Scarponi
-   * -  KOERI
-     -  Türkiye
-     -  Mehveş Feyza Akkoyunlu
-   * -  Institute of Geosciences IGEO
-     -  Albania
-     -  Migena Ceyhan
-   * -  Republic Hydrometeorological Service, Republika Srpska, Bosnia and Herzegovina
-     -  Republic of Srpska
-     -  Milan Janjic
-   * -  Department of Meteorology and Geophysics, Faculty of Physics, University of Sofia
-     -  Bulgaria
-     -  Milen Tsekov
-   * -  Montenegro seismological observatory, University of Belgrade
-     -  Montenegro
-     -  Milena Tomanovic
-   * -  National Institute for Earth Physics, Magurele
-     -  Romania
-     -  Mircea Radulian
-   * -  Seismological Observatory at Faculty of Natural sciences and mathematics - Skopje
-     -  North Macedonia
-     -  Monika Andreeska
-   * -  KOERI
-     -  Türkiye
-     -  Musavver Didem Cambaz
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Natalia Poiata
-   * -  Institute of Hidrometeorology and Seismology of Montenegro
-     -  Montenegro
-     -  Natasa Kaludjerovic
-   * -  Deparment of Geophysics of Aristotle University of Thessaloniki
-     -  GREECE
-     -  Nikolaos Chatzis
-   * -  Seismological Laboratory, National & Kapodistrian University of Athens
-     -  Greece
-     -  Nikolaos Sakellariou
-   * -  Laboratory of Seismology - National and Kapodistrian University of Athens
-     -  Greece
-     -  Nikolaos Voulgaris
-   * -  Croatian seismological survey, Department of Geophysics, Faculty of Science, University of Zagreb
-     -  Croatia
-     -  Nina Matsuno
-   * -  Department of Geophysics - Aristotle University of Thessaloniki
-     -  Greece
-     -  Odysseus Galanis
-   * -  Institute of Geosciences, Seismology Department 
-     -   Albania 
-     -  Olgert Gjuzi
-   * -  Patras Seismological lab, University of Patras
-     -  Greece
-     -  Paraskevopoulos Paris
-   * -  IPE MU Brno
-     -  Czech Republic
-     -  Pavel Zacherle
-   * -  Institute of Geophysics, Czech Academy of Sciences
-     -  Czech Republic
-     -  Petr Jedlicka
-   * -  Institute of Geophysics, Czech Academy of Sciences
-     -  Czech Republic
-     -  Petr Kolínský
-   * -  IPE Masaryk University
-     -  Czech Republic
-     -  Petr Spacek
-   * -  Department of Geophysics - Aristotle University of Thessaloniki
-     -  Greece
-     -  Petros Triantafyllidis
-   * -  Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France
-     -  France
-     -  Pierre Boué
-   * -  Institute of Geophysics, Polish Academy of Sciences
-     -  Poland
-     -  Piotr Środa
-   * -  National Institute for Earth Physics
-     -  Romania
-     -  Raluca Dinescu
-   * -  The Institute of Rock Structure and Mechanics of the Czech Academy of Sciences
-     -  Czech Republic
-     -  Renata Lukešová
-   * -  Sofia university "St. Kliment Ohridski", Faculty of physics
-     -  Bulgaria
-     -  Reneta Raykova
-   * -  University of Vienna 
-     -  Austria
-     -  Richard Kramer
-   * -  Institute of Geosciences, Polytechnic University of Tirana
-     -  Albania
-     -  Rrapo Ormeni
-   * -  università di Bari "Aldo Moro"
-     -  Ialy
-     -  Salvatore de Lorenzo
-   * -  Bogazici University- KOERI-RETMC
-     -  Turkiye
-     -  Selda Altuncu Poyraz
-   * -  University of Cambridge
-     -  UK
-     -  Sergei Lebedev
-   * -  Institute of Geophysics, Polish Academy of Sciences
-     -  Poland
-     -  Shubhasmita Biswal
-   * -  INGV Bologna
-     -  Italy
-     -  Silvia Pondrelli
-   * -  Istituto Nazionale di Geofisica e Vulcanologia, sezione Bologna
-     -  Italy
-     -  Simone Salimbeni
-   * -  Karlsruhe Institute of Technology
-     -  Germany
-     -  Sofia-Katerina Kufner
-   * -  Institute of Geophysics Polish Academy of Sciences
-     -  Poland
-     -  Somayeh Abdollahi
-   * -  National Observatory of Athens
-     -  Hellas
-     -  Spyridon Christos Liakopoulos
-   * -  National and Kapodistrian University of Athens
-     -  Greece
-     -  Spyridon Dilalos
-   * -  University of Trieste (previously at Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS)
-     -  Italy
-     -  Stefano Parolai
-   * -  INGV
-     -  Italy
-     -  Stephen Monna
-   * -  Republic Hydrometeorological Service, Republika Srpska, Bosnia and Herzegovina
-     -  republic of Srpska, Bosnia and Hercegovina
-     -  Stojan Babic
-   * -  Ludwig-Maximilians-Universität München
-     -  Germany
-     -  Sven Egdorf
-   * -  University of Warsaw
-     -  Poland
-     -  Szymon Malinowski
-   * -  University of Zagreb, Faculty of Science
-     -  Croatia
-     -  Tena Belinić Topić
-   * -  University Kiel
-     -  Germany
-     -  Thomas Meier
-   * -  Institute of Seismology, University of Helsinki
-     -  Finland
-     -  Timo Tiira
-   * -  Institute of Geophysics Polish Academy of Sciences
-     -  Poland
-     -  Tomasz Janik
-   * -  Croatian Seismological Survey
-     -  Croatia
-     -  Tomislav FIket
-   * -  NORSAR
-     -  Norway
-     -  Tormod Kvaerna
-   * -  Boğaziçii University KOERI
-     -  Türkiye
-     -  Tuğçe Ergün
-   * -  Bogazici University, Kandilli Observatory
-     -  Türkiye
-     -  Ugur Mustafa Teoman
-   * -  Friedrich Schiller University Jena
-     -  Germany
-     -  Ulrich Wegler
-   * -  National institute of Geophysics, Geodesy and Geography, Bulgarian Academy of Sciences
-     -  Bulgaria
-     -  Valentin Dimitrov Buchakchiev
-   * -  Department of Geosciences, University of Oslo
-     -  Norge
-     -  Valerie Maupin
-   * -  Seismological Laboratory, Department of Geology and Geoenvironment, National and Kapodistrian University of Athens
-     -  Greece
-     -  Vasiliki Kouskouna
-   * -  National and Kapodistrian University of Athens
-     -  Greece
-     -  Vasilis Kapetanidis
-   * -  National and Kapodistrian University of Athens. Geophysics Department
-     -  Greece
-     -  Vassilis Sakkas
-   * -  Charles University
-     -  Czechia
-     -  Vladimir Plicka
-   * -  NORSAR
-     -  Norway
-     -  Volker Oye
-   * -  Institute of Geophysics, PAS
-     -  Poland
-     -  Wojciech Czuba
-   * -  Ruhr University Bochum
-     -  Deutschland
-     -  Wolfgang Friederich
-   * -  GFZ Potsdam
-     -  Germany
-     -  Xiaohui Yuan
-   * -  GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
-     -  Austria
-     -  Nikolaus Horn
-   * -  University of Vienna
-     -  Austria
-     -  Yang Lu
-   * -  University of Vienna
-     -  Austria
-     -  Yongki Andita Aiman
-   * -  Department of Geology, University of Patras
-     -  Greece
-     -  Zafeiria Roumelioti
-   * -  Institute of Earth Physics and Space Science (EPSS)
-     -  Hungary
-     -  Zoltán Wéber
-   * -  ISTerre / Université Grenoble Alpes
-     -  France
-     -  Piel Pawlowski
-   * -  Department of Geosciences, University of Malta
-     -  Malta	
-     -  Sebastiano D'Amico     
-
+     - Institute
+   * - Alina Coman
+     - Romania
+     - National Institute for Earth Physics
+   * - Amr El-Sharkawy
+     - Germany
+     - Kiel University
+   * - Anastasia Kiratzi
+     - GREECE
+     - Aristotle University of Thessaloniki
+   * - Andrea Morelli
+     - Italy
+     - Istituto Nazionale di Geofisica e Vulcanologia
+   * - Andreas Rietbrock
+     - Germany
+     - Karlsruhe Institut of Technology (KIT)
+   * - Andreas Tzanis
+     - Greece
+     - National and Kapodistrian University of Athens
+   * - Andreea Craiu
+     - Romania
+     - National Institute for Earth Physics
+   * - Andreea Tolea
+     - Romania
+     - National Institute for Earth Physics
+   * - Andrei Bala
+     - Romania
+     - National Institute for Earth Physics
+   * - Andrei Mihai
+     - Romania
+     - National Institute for Earth Physics
+   * - Andrej Cipciar
+     - Slovakia
+     - Eart Science Institute, Slovak Academy of Sciences
+   * - Anica Otilia Placinta
+     - Romania
+     - National Institute for Earth Physics
+   * - Anila Xhahysa
+     - Albania
+     - Institute of Geosciences, Seismology Department
+   * - Anna Serpetsidaki
+     - Greece
+     - Seismological Laboratory, Department of Geology, University of Patras
+   * - Anne Mohr
+     - Germany
+     - Ruhr-Universität Bochum
+   * - Anne Obermann
+     - Schweiz
+     - SED/ETH
+   * - Antje Schlömer
+     - Germany
+     - Ludwig-Maximilians-University Munich (LMU)
+   * - Ardian Minarolli
+     - Albania
+     - Institute of Geosciences
+   * - Ardit Dervishi
+     - Albania
+     - Polytechnic University of Tirana, Institute of Geosciences
+   * - Athanasios Lois
+     - Greece
+     - Laboratory of Seismology, Department of Geology, University of Patras
+   * - Ayoub Kaviani
+     - Germany
+     - Goethe University Frankfurt
+   * - Barbara Czecze
+     - Hungary
+     - Kövesligethy Radó Seismological Observatory, EPSS, Hungary
+   * - Bernd Schurr
+     - Germany
+     - GFZ
+   * - Besian Rama
+     - Albania
+     - Polytechnic University of Tirana, Institute of Geosciences, Department of Seismology
+   * - Bogdan Enescu
+     - Romania
+     - National Institute for Earth Physics
+   * - Bogdan Grecu
+     - Romania
+     - National Institute for Earth Physics
+   * - Bogdan Zaharia
+     - Romania
+     - National Institute for Earth Physics
+   * - Bálint Süle
+     - Hungary
+     - Institute of Earth Physics and Space Science
+   * - Carlo Giunchi
+     - Italy
+     - Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Pisa
+   * - Catalin Gheablau
+     - Romania
+     - National Institute for Earth Physics
+   * - Caterina Montuori
+     - Italy
+     - Istituto Nazionale di Geofisica e Vulcanologia (INGV)
+   * - Chrisanthi Ventouzi
+     - Greece
+     - Arisotle University of Thessaloniki
+   * - Christian Haberland
+     - Germany
+     - GFZ Potsdam
+   * - Christian Schiffer
+     - Sweden
+     - Uppsala University
+   * - Christian Weidle
+     - Germany
+     - CAU Kiel
+   * - Čaveliš Marin
+     - Montenegro
+     - Institute of Hydrometeorology and Seismology
+   * - Christos Evangelidis 
+     - Greece
+     - National Observatory of Athens 
+   * - Claudia Piromallo
+     - Italy
+     - INGV - Istituto Nazionale di Geofisica e Vulcanologia 
+   * - Clément Estève
+     - Austria
+     - University of Vienna
+   * - Constantin Ionescu
+     - Romania
+     - NIEP
+   * - Coralie Aubert
+     - FRANCE
+     - ISTERRE
+   * - Costas Papazachos
+     - Greece
+     - Geophysical Lab, Aristotle Univ. Thessaloniki
+   * - Craiu George Marius
+     - Romania
+     - National Institute for Earth Physics
+   * - Cristian  Ghita
+     - Romania
+     - National Institute for Earth Physics
+   * - Cristian Neagoe
+     - Romania
+     - National Institute for Earth Physics
+   * - Cédric P. Legendre
+     - Czech Republic
+     - Institute of Geophysics of the Czech Academy of Science
+   * - Damiano Koxhaj
+     - Albania
+     - Institute of Geosciences of Albania
+   * - Damiano Pesaresi 
+     - Italy 
+     - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+   * - Daniel Kalmar
+     - Hungary
+     - Kövesligethy Radó Seismological Observatory, Institute of Earth Physics and Space Science, Budapest, Hungary
+   * - Daniel Köhn
+     - Germany
+     - Christian-Albrechts-University Kiel
+   * - Daniel Nistor Paulescu
+     - Romanian
+     - National Institute for Research and Development for Earth Physics
+   * - Danijela Birko
+     - Slovenia
+     - Slovenian Environment Agency - ARSO
+   * - Dario Jozinović
+     - Switzerland
+     - SED/ETHZ
+   * - Dimitrios Giannopoulos
+     - Greece
+     - Laboratory of Seismology, Department of Geology, University of Patras
+   * - Dinko Sindija
+     - Croatia
+     - Department of Geophysics, University of Zagreb
+   * - Dionald Mucaj
+     - Albania
+     - Institute of Geosciences, Seismology Departament
+   * - Doğan Kalafat
+     - Türkiye
+     - B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
+   * - Dragana Chernih Anastasovska
+     - Republic of North Macedonia
+     - Seismological Observatory, Faculty of Natural Sciences and Mathematics, St. Cyril and Methodius University in Skopje
+   * - Edmond Dushi
+     - Albania
+     - Department of Seismology, Institute of GeoSciences, Polytechnic University of Tirana
+   * - Elena Florinela Manea
+     - Romania
+     - National Institute for Earth Physics
+   * - Elisa Zuccolo
+     - Italy
+     - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+   * - Erzsébet Győri
+     - Hungary
+     - Institute of Earth Physics and Space Science
+   * - Fabio Cammarano
+     - Italy
+     - Roma Tre University
+   * - Fatih Turhan
+     - Türkiye
+     - B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
+   * - Federica Magnoni
+     - Italy
+     - Istituto Nazionale di Geofisica e Vulcanologia
+   * - Felix Borleanu
+     - Romania
+     - National Institute for Earth Physics 
+   * - Felix Eckel
+     - Germany
+     - Christian Albrechts Universität Kiel
+   * - Filippos Vallianatos
+     - Greece
+     - University of Athens
+   * - Francesca Di Luccio
+     - Italy
+     - INGV Rome     
+   * - Francesco Pio Lucente
+     - Italy
+     - INGV
+   * - František Gallovič
+     - Czech Republic
+     - Charles University, Faculty of Mathematics and Physics, Department of Geophysics
+   * - Frederik Tilmann
+     - Germany
+     - Deutsches GeoForschungsZentrum
+   * - George Kaviris
+     - Ελλάδα
+     - Seismological Laboratory, National and Kapodistrian University of Athens
+   * - Georgios Michas
+     - Greece
+     - National and Kapodistrian University of Athens
+   * - Georg Rümpker
+     - Germany
+     - Goethe University Frankfurt
+   * - Gergana Dimitrova Georgieva
+     - Bulgaria
+     - Sofia University "St. Kliment Ohridski", Faculty of Physics
+   * - Gian-Maria Bocchini
+     - Germany
+     - Ruhr University Bochum
+   * - Giuliana Rossi
+     - Italy
+     - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+   * - Gregor Rajh
+     - Slovenia
+     - Slovenian Environment Agency (ARSO)
+   * - Gyarmati Anett
+     - Hungary
+     - Institute of Earth Physics and Space Science
+   * - György Hetényi
+     - Switzerland
+     - University of Lausanne
+   * - Götz Bokelmann
+     - Austria
+     - University of Vienna
+   * - Hana Kampfová Exnerová
+     - Czech Republic
+     - Institute of Geophysics of the Czech Academy of Sciences
+   * - Hanna Silvennoinen
+     - Finland
+     - Sodankylä geophysical observatory, University of Oulu
+   * - Heiner Igel
+     - Germany
+     - LMU Munich
+   * - Helena Latečki
+     - Croatia
+     - Department of Geophysics, Faculty of Science, University of Zagreb
+   * - Helena Zlebcikova
+     - Czech Republic
+     - Institute of Geophysics, Czech Academy of Sciences
+   * - Helle Pedersen
+     - France
+     - Université Grenoble Alps / ISTerre
+   * - Henrique Berger Roisenberg
+     - Italy
+     - Università degli Studi Roma Tre
+   * - Ioannis Fountoulakis
+     - Greece
+     - National Observatory of Athens, Institude of Geodynamics
+   * - Ioannis Spingos
+     - Greece
+     - National and Kapodistrian University of Athens
+   * - Irena Dushi
+     - Albania
+     - Department of Seismology, Institute of Geosciences, Polytechnic University of Tirana
+   * - Irene Bianchi
+     - Italy
+     - INGV - Rome
+   * - Irene Molinari
+     - Italy
+     - INGV
+   * - Ismail Hoxha
+     - Albania
+     - Department of Seismology, Institute of Geoscienses (IGEO), University Polytechnic of Tirana (UPT)
+   * - Iulia Armeanu
+     - Romania
+     - National Institute for Earth Physics
+   * - Iulia Ciobanu
+     - Romania
+     - National Institute for Earth Physics
+   * - Iva Dasović
+     - Croatia
+     - Department of Geophysics, Faculty of Science, University of Zagreb
+   * - Ivana Molerovikj
+     - North Macedonia
+     - Seismological Observatory at Faculty of Natural Sciences and Mathematics - Skopje
+   * - Izidor Tasič
+     - Slovenija
+     - Slovenian Environment Agency
+   * - Jadranka Mihaljevic
+     - Montenegro
+     - Institute of Hydrometeorology and Seismology
+   * - Jan Zedník
+     - Česko
+     - Institute of Geophysics CAS, Prague
+   * - Janis Heuel
+     - Germany
+     - Ruhr-Universität Bochum
+   * - Jaroslava Plomerova
+     - Czech Republic
+     - Institute of Geophysics, Czech Academy of Sciences
+   * - Jaroslaw Majka
+     - Poland and Sweden
+     - AGH University in Krakow, and Uppsala University
+   * - Jasmina Najdovska
+     - Republic of North Macedonia
+     - Seismological Observatory, Faculty of Natural Sciences and Mathematics, Ss. Cyril and Methodius University in Skopje
+   * - Jérôme VERGNE
+     - France
+     - EOST- Strasbourg
+   * - Jiri Kvapil
+     - Czech Republic
+     - Institute of Geophysics of the Czech Academy of Science
+   * - Jiří Vackář
+     - Czechia
+     - IRSM Czech Academy of Sciences
+   * - John D. Alexopoulos
+     - Greece
+     - National and Kapodistrian University of Athens
+   * - Jordi Diaz
+     - Spain
+     - Geo3Bcn-CSIC    
+   * - Josef Havíř
+     - Czech Republic
+     - Institute of Physics of the Earth, Masaryk University, Brno
+   * - Josef Kotek
+     - Czech Republic
+     - Institute of Geophysics, Czech Academy of Sciences
+   * - Jovan Dedic
+     - Montenegro
+     - Institute of Hydrometeorology and Seismology of Montenegro
+   * - Juan Carlos Afonso
+     - Netherlands
+     - University of Twente
+   * - Julia Rewers
+     - Poland
+     - Institute of Geophysics, Polish Academy of Sciences
+   * - Junior Kimata
+     - Netherlands 
+     - University of Twente (ITC)
+   * - Jurij Pahor
+     - Slovenia
+     - Slovenian Environment Agency
+   * - Kamil Ustaszewski
+     - Germany
+     - Universität Jena
+   * - Kasper David Fischer
+     - Germany
+     - Ruhr University Bochum
+   * - Katerina Drogreshka
+     - North Macedonia
+     - Seismological observatory, Skopje
+   * - Klajdi Qoshi
+     - Albania
+     - Polytechnic University of Tirana (UPT)
+   * - Kostas Boukouras
+     - Greece
+     - Institute of Geodynamics, National Observatory of Athens
+   * - Kristian Csicsay
+     - Slovakia
+     - Earth Science Institute of the SAS
+   * - Kıvanç Kekovalı
+     - Türkiye
+     - Boğaziçi University Kandilli Observatory and Earthquake Research Institute
+   * - Lars Wiesenberg
+     - Germany
+     - CAU Kiel
+   * - Laura Petrescu
+     - Romania
+     - National Institute for Earth Physics
+   * - Laura Scognamiglio
+     - Italy
+     - INGV
+   * - Lucia Margheriti
+     - Italy
+     - INGV
+   * - Luciana Bonatto     
+     - Italy
+     - INGV
+   * - Luigi Sante Zampa
+     - Italy
+     - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+   * - Ljubcho Jovanov
+     - North Macedonia
+     - Seismological Observatory at Faculty of Natural Sciences and mathematics
+   * - Luděk Vecsey
+     - Czech Republic
+     - Institute of Geophysics of the Czech Academy of Siences
+   * - Maciej Mendecki
+     - Poland
+     - University of Silesia in Katowice
+   * - Mandiello Alfonso Giovanni
+     - Italy
+     - INGV
+   * - Marcel Paffrath
+     - Germany
+     - Ruhr-University Bochum
+   * - Marco P. Roth
+     - Germany
+     - Ruhr University Bochum
+   * - Marco Santulin
+     - Italy
+     - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
+   * - Maria-Theresia Apoloner
+     - Austria
+     - GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
+   * - Marija Mustać Brčić
+     - Croatia
+     - Croatian Seismological Survey, Department of Geophysics, Faculty of Science, University of Zagreb
+   * - Marijan Herak
+     - Croatia
+     - Department of Geophysics, Faculty of Science, University of Zagreb
+   * - Marinos Charalampakis
+     - Greece
+     - Geodynamic Institute - National Observatory of Athens
+   * - Mario Ruiz Fernandez
+     - Spain
+     - GEO3BCN CSIC
+   * - Marius Mihai
+     - Romania
+     - National Institute for Earth Physics
+   * - Mark van der Meijde
+     - The Netherlands
+     - University of Twente - ITC - Dept of Applied Earth Sciences
+   * - Martina Čarman
+     - Slovenia
+     - ARSO (Slovenian Environment Agency)
+   * - Massimo Di Bona
+     - Italy
+     - INGV
+   * - Mate Timko
+     - Hungary
+     - Institute of Earth Physics and Space Science
+   * - Matteo Scarponi
+     - Italy
+     - Istituto Nazionale di Geofisica e Vulcanologia (INGV, Rome, Italy))
+   * - Mehveş Feyza Akkoyunlu
+     - Türkiye
+     - KOERI
+   * - Migena Ceyhan
+     - Albania
+     - Institute of Geosciences IGEO
+   * - Milan Janjic
+     - Republic of Srpska
+     - Republic Hydrometeorological Service, Republika Srpska, Bosnia and Herzegovina
+   * - Milen Tsekov
+     - Bulgaria
+     - Department of Meteorology and Geophysics, Faculty of Physics, University of Sofia
+   * - Milena Tomanovic
+     - Montenegro
+     - Montenegro seismological observatory, University of Belgrade
+   * - Mircea Radulian
+     - Romania
+     - National Institute for Earth Physics, Magurele
+   * - Monika Andreeska
+     - North Macedonia
+     - Seismological Observatory at Faculty of Natural sciences and mathematics - Skopje
+   * - Musavver Didem Cambaz
+     - Türkiye
+     - KOERI
+   * - Natalia Poiata
+     - Romania
+     - National Institute for Earth Physics
+   * - Natasa Kaludjerovic
+     - Montenegro
+     - Institute of Hidrometeorology and Seismology of Montenegro
+   * - Nikolaos Chatzis
+     - GREECE
+     - Deparment of Geophysics of Aristotle University of Thessaloniki
+   * - Nikolaos Sakellariou
+     - Greece
+     - Seismological Laboratory, National & Kapodistrian University of Athens
+   * - Nikolaos Voulgaris
+     - Greece
+     - Laboratory of Seismology - National and Kapodistrian University of Athens
+   * - Nina Matsuno
+     - Croatia
+     - Croatian seismological survey, Department of Geophysics, Faculty of Science, University of Zagreb
+   * - Odysseus Galanis
+     - Greece
+     - Department of Geophysics - Aristotle University of Thessaloniki
+   * - Olgert Gjuzi
+     - Albania
+     - Institute of Geosciences, Seismology Department 
+   * - Paraskevopoulos Paris
+     - Greece
+     - Patras Seismological lab, University of Patras
+   * - Pavel Zacherle
+     - Czech Republic
+     - IPE MU Brno
+   * - Petr Jedlicka
+     - Czech Republic
+     - Institute of Geophysics, Czech Academy of Sciences
+   * - Petr Kolínský
+     - Czech Republic
+     - Institute of Geophysics, Czech Academy of Sciences
+   * - Petr Spacek
+     - Czech Republic
+     - IPE Masaryk University
+   * - Petros Triantafyllidis
+     - Greece
+     - Department of Geophysics - Aristotle University of Thessaloniki
+   * - Pierre Boué
+     - France
+     - Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, IFSTTAR, ISTerre, Grenoble, France
+   * - Piotr Środa
+     - Poland
+     - Institute of Geophysics, Polish Academy of Sciences
+   * - Raluca Dinescu
+     - Romania
+     - National Institute for Earth Physics
+   * - Renata Lukešová
+     - Czech Republic
+     - The Institute of Rock Structure and Mechanics of the Czech Academy of Sciences
+   * - Reneta Raykova
+     - Bulgaria
+     - Sofia university "St. Kliment Ohridski", Faculty of physics
+   * - Richard Kramer
+     - Austria
+     - University of Vienna 
+   * - Rrapo Ormeni
+     - Albania
+     - Institute of Geosciences, Polytechnic University of Tirana
+   * - Salvatore de Lorenzo
+     - Ialy
+     - università di Bari "Aldo Moro"
+   * - Selda Altuncu Poyraz
+     - Turkiye
+     - Bogazici University- KOERI-RETMC
+   * - Sergei Lebedev
+     - UK
+     - University of Cambridge
+   * - Shubhasmita Biswal
+     - Poland
+     - Institute of Geophysics, Polish Academy of Sciences
+   * - Silvia Pondrelli
+     - Italy
+     - INGV Bologna
+   * - Simone Salimbeni
+     - Italy
+     - Istituto Nazionale di Geofisica e Vulcanologia, sezione Bologna
+   * - Sofia-Katerina Kufner
+     - Germany
+     - Karlsruhe Institute of Technology
+   * - Somayeh Abdollahi
+     - Poland
+     - Institute of Geophysics Polish Academy of Sciences
+   * - Spyridon Christos Liakopoulos
+     - Hellas
+     - National Observatory of Athens
+   * - Spyridon Dilalos
+     - Greece
+     - National and Kapodistrian University of Athens
+   * - Stefano Parolai
+     - Italy
+     - University of Trieste (previously at Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS)
+   * - Stephen Monna
+     - Italy
+     - INGV
+   * - Stojan Babic
+     - republic of Srpska, Bosnia and Hercegovina
+     - Republic Hydrometeorological Service, Republika Srpska, Bosnia and Herzegovina
+   * - Sven Egdorf
+     - Germany
+     - Ludwig-Maximilians-Universität München
+   * - Szymon Malinowski
+     - Poland
+     - University of Warsaw
+   * - Tena Belinić Topić
+     - Croatia
+     - University of Zagreb, Faculty of Science
+   * - Thomas Meier
+     - Germany
+     - University Kiel
+   * - Timo Tiira
+     - Finland
+     - Institute of Seismology, University of Helsinki
+   * - Tomasz Janik
+     - Poland
+     - Institute of Geophysics Polish Academy of Sciences
+   * - Tomislav FIket
+     - Croatia
+     - Croatian Seismological Survey
+   * - Tormod Kvaerna
+     - Norway
+     - NORSAR
+   * - Tuğçe Ergün
+     - Türkiye
+     - Boğaziçii University KOERI
+   * - Ugur Mustafa Teoman
+     - Türkiye
+     - Bogazici University, Kandilli Observatory
+   * - Ulrich Wegler
+     - Germany
+     - Friedrich Schiller University Jena
+   * - Valentin Dimitrov Buchakchiev
+     - Bulgaria
+     - National institute of Geophysics, Geodesy and Geography, Bulgarian Academy of Sciences
+   * - Valerie Maupin
+     - Norge
+     - Department of Geosciences, University of Oslo
+   * - Vasiliki Kouskouna
+     - Greece
+     - Seismological Laboratory, Department of Geology and Geoenvironment, National and Kapodistrian University of Athens
+   * - Vasilis Kapetanidis
+     - Greece
+     - National and Kapodistrian University of Athens
+   * - Vassilis Sakkas
+     - Greece
+     - National and Kapodistrian University of Athens. Geophysics Department
+   * - Vladimir Plicka
+     - Czechia
+     - Charles University
+   * - Volker Oye
+     - Norway
+     - NORSAR
+   * - Wojciech Czuba
+     - Poland
+     - Institute of Geophysics, PAS
+   * - Wolfgang Friederich
+     - Deutschland
+     - Ruhr University Bochum
+   * - Xiaohui Yuan
+     - Germany
+     - GFZ Potsdam
+   * - Nikolaus Horn
+     - Austria
+     - GeoSphere Austria (formerly Zentralanstalt für Meteorologie und Geodynamik)
+   * - Yang Lu
+     - Austria
+     - University of Vienna
+   * - Yongki Andita Aiman
+     - Austria
+     - University of Vienna
+   * - Zafeiria Roumelioti
+     - Greece
+     - Department of Geology, University of Patras
+   * - Zoltán Wéber
+     - Hungary
+     - Institute of Earth Physics and Space Science (EPSS)
+   * - Piel Pawlowski
+     - France
+     - ISTerre / Université Grenoble Alpes
+   * - Sebastiano D'Amico
+     - Malta	
+     - Department of Geosciences, University of Malta    
+     
 AdriaArray - Field team
 -----------------------------
 The institute representative will be contacted shortly to provide a list of people who were involved in the field deployments and the installation of the seismic network.

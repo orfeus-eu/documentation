@@ -6,13 +6,15 @@ Important
 		 
 Upcoming events
 ---------------
-	- 7th AdriaArray workshop will be held in Sopron, Hungary, 17 - 20 March 2026. The meeting will take place in the University of Sopron (Ligneum building) and the building of the HUN-REN Institute of Earth Physics and Space Science (HUN-REN EPSS). All the information is available at a dedicated `webpage <https://adriaarrayws2026.epss.hu/>`_. Save this page to your bookmarks and check it regularly as updates will be provided later. 
-	**Registration for the workshop is now open.** We cordially invite you to participate! Please register via the `following link <https://adriaarrayws2026.epss.hu/registration/>`_ at your earliest convenience, as the maximum number of participants is limited:
+ 
+- AdriaArray splinter meeting `SPM59 <https://meetingorganizer.copernicus.org/EGU25/session/54505>`_ will be organized during EGU GA26, Vienna, Austria. Thu, 07 May, 19:00–20:00 CEST, Room 2.83,
 
 	
 Old news
 -----------
 
+
+	- 7th AdriaArray workshop was held in Sopron, Hungary, 17 - 20 March 2026, in the University of Sopron (Ligneum building) and the building of the HUN-REN Institute of Earth Physics and Space Science (HUN-REN EPSS). All the information is available at a dedicated `webpage <https://adriaarrayws2026.epss.hu/>`_. 
 
 	- 6th international workshop on AdriaArray was held in San Servolo (Venice lagoon), Italy, on 11 – 14 March, 2025. The `program <https://github.com/PetrColinSky/AdriaArray/blob/master/SanServolo2025/program.pdf>`_ of the workshop.
 	
