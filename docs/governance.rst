@@ -7,6 +7,8 @@ Governance
 
 The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.ch/index.php/s/ffYeMaqAaiEW6sa 
 
+The ORFEUS GEP is availabel here: https://polybox.ethz.ch/index.php/s/7nEtHoLiz7H4CeZ
+
 **Members of the ORFEUS Board of Directors (BoD):**
 
 * Prof. A. Kiratzi (Chair; Greece, EPPO)
