@@ -7,7 +7,7 @@ Governance
 
 The latest version of the ORFEUS Bylaws is available here: https://polybox.ethz.ch/index.php/s/ffYeMaqAaiEW6sa 
 
-The ORFEUS GEP is availabel here: https://polybox.ethz.ch/index.php/s/7nEtHoLiz7H4CeZ
+The ORFEUS GEP is available here: https://polybox.ethz.ch/index.php/s/7nEtHoLiz7H4CeZ
 
 **Members of the ORFEUS Board of Directors (BoD):**
 
@@ -51,6 +51,7 @@ Ex Officio
 * Dr. Z. Roumelioti (formerly BoD-nominated, Vice-President, SM, Greece, University of Patras)
 * Dr. W. Crawford (MP, France, IPGP/INSU)
 * J. Schaeffer (IDG-ETC, France, ISTerre)
+* Dr. P. Danecek (EIDA, Italy, INGV)
 * Dr. C. Haberland (MP, Germany, GFZ/GIPP)
 * Dr. C. Mascandola (Italy, SM, INGV)
 * Dr. V. Poggi (Italy, SM, OGS)
@@ -62,12 +63,12 @@ Ex Officio
 
 **Members of the EIDA SMC Management Board**
 
-* Dr. C. Evangelidis (Chair; Greece, NOA)
+* Dr. P. Danecek (Chair, Italy, INGV)
+* Dr. J. Quinteros (Co-Chair, Germany, GFZ)
+* Dr. C. Evangelidis (Greece, NOA)
 * Dr. D. Cambaz (Co-Chair, KOERI)
 * Dr. H. Pedersen (France, RESIF)
-* Dr. J. Quinteros (Germany, GFZ)
 * Dr. K. Stammler (Germany, BGR)
-* Dr. P. Danecek (Italy, INGV)
 * R. Sleeman (Netherlands, ODC - KNMI)
 * Prof. L. Ottemöller (Norway, UiB-NORSAR)
 * Dr. A. Marmureanu (Romania, NIEP)
@@ -76,10 +77,10 @@ Ex Officio
 
 **Members of the SM SMC Management Board**
 
-* Dr. J. Clinton (Co-Chair, Switzerland, SED@ETHZ-CH)
+* Prof. Z. Roumelioti (Co-Chair, Greece, UPAT)
 * Dr. C. Mascandola (Co-Chair, Italy, INGV-IV & ESM), L. Luzi & Dr. G. Lanzano - ESM
 * R. Sleeman (Netherlands, ODC-KNMI & RRSM)
-* Dr. A. Michelini & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
+* Dr. L. Faenza & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
 * Dr. F. Hollender (France, CEA) & Dr. E Maufroy (France, RESIF-RA)
 * Dr. G. Weatherill (Germany, GFZ-GEOFON)
 * Dr. O-J Ktenidou & Dr. N. Melis (Greece, NOA)
@@ -89,6 +90,7 @@ Ex Officio
 * Dr. M. Shahvar (Iran, BHRC)
 * Dr. A. Marmureanu (Romania, NIEP-RO)
 * A. Jerše Sharma (Slovenia, ARSO-SL)
+* Dr. J. Clinton (Switzerland, SED@ETHZ-CH)
 * Prof. E. Çaktı / Dr. D. Kalafat (Türkiye, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Türkiye, AFAD)
 
@@ -107,7 +109,6 @@ Ex Officio
 * Dr. V. Poggi (Chair, Italy, OGS)
 * Prof. G. Georgieva (Bulgaria, Uni. Sofia)
 * Dr. D. Stanko (Croatia, Uni. Zagreb)
-* Dr. P. Kolínský (Czech Republic, IG-CAS)
 * Mr. F. Eckel (Germany, Uni. Kiel)
 * Dr. I. Molinari (Italy, INGV-BO) 
 * Dr. M. Tsekhmistrenko (UK, UCL/ERP)
@@ -164,7 +165,7 @@ Ex Officio
 
 * A. Krietemeyer, G.-J. van den Hazel, Dr. M. Koymans, S. Schneider, L. Trani, J.P. Pereira Zanetti - ODC-KNMI
 * J. Schaeffer (Chair)- EPOS-France
-* A. Heinloo, Dr. P. Evans, H. Joo, S. Hemmleb - GFZ
+* A. Heinloo, Dr. P. Evans (Co-Chair), H. Joo, S. Hemmleb - GFZ
 * M. Hoffmann, B. Goebel - BGR
 * S. Heimers, P. Kästli, F. Euchner, R. Racine – SED@ETHZ
 * M. Fares, I. Carluccio – INGV
