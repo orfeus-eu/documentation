@@ -32,7 +32,7 @@ In the following we summarize the discussion on potential topics of CRGs.
 CRG 'Seismicity & Seismic Sources'
 -----------------
 
-	- Chairs: `G. Petersen <mailto:gesa.petersen@gfz-potsdam.de>`_. & `E. Sokos <mailto:esokos@upatras.gr>`_.
+	- Chairs: `Gesa Petersen <mailto:gesa.petersen@gfz-potsdam.de>`_. & `Efthimios Sokos <mailto:esokos@upatras.gr>`_.
         - Membership secretary: F. Tilmann maintains a register of participants and a `mailing list <adriaarray_seismicity@gfz-potsdam.de>`_, which will reach all members of the CRG.
 
 Description of topic
@@ -43,14 +43,14 @@ The CRG Seismicity & Sources includes multiple subgroups that were established t
 
 	The CRG Seismicity & Seismic Sources is split into four subgroups to coordinate the collaborative work:
 		#. Survey of monitoring practices at national agencies. 
-		#. Parametric data exchange with EMSC, station naming and reporting:  `C. Papazachos <mailto:kpapaza@geo.auth.gr>`_ & `C. Evangelidis <mailto:cevan@noa.gr>`_. 
-		#. Machine learning for seismicity detection and location & crowd processing:  `D. Sindija <mailto:dinko.sindija@gfz.hr>`_ & `F. Tilmann <mailto:tilmann@gfz-potsdam.de>`_.
-		#. Moment tensors and seismic sources: `G. Petersen <mailto:gesap@gfz-potsdam.de>`_ & `E. Sokos <mailto:esokos@upatras.gr>`_. The AdriaArray Seismic Network produced a huge increase in available real time data for source studies in local and regional distances. The subgroup deals with the usage of this data in real time moment tensor or focal mechanism retrieval applications, as well as in detailed source studies of earthquakes across different magnitude scales, in the Adria area (e.g. extended source studies, slip inversions etc). Goals are the exchange of knowledge and methods, fostering discussions of best practices, exchanging results and collaborating in research projects.
+		#. Parametric data exchange with EMSC, station naming and reporting:  `Costas Papazachos <mailto:kpapaza@geo.auth.gr>`_ & `Christos Evangelidis <mailto:cevan@noa.gr>`_. 
+		#. Machine learning for seismicity detection and location & crowd processing:  `Dinko Sindija <mailto:dinko.sindija@gfz.hr>`_ & `Frederik Tilmann <mailto:tilmann@gfz-potsdam.de>`_.
+		#. Moment tensors and seismic sources: `Gesa Petersen <mailto:gesap@gfz-potsdam.de>`_ & `Efthimios Sokos <mailto:esokos@upatras.gr>`_. The AdriaArray Seismic Network produced a huge increase in available real time data for source studies in local and regional distances. The subgroup deals with the usage of this data in real time moment tensor or focal mechanism retrieval applications, as well as in detailed source studies of earthquakes across different magnitude scales, in the Adria area (e.g. extended source studies, slip inversions etc). Goals are the exchange of knowledge and methods, fostering discussions of best practices, exchanging results and collaborating in research projects.
 
 
 CRG 'Body wave tomography'
 ---------------------------
-	- Chair: `C. Piromallo <mailto:claudia.piromallo@ingv.it>`_
+	- Chair: `Claudia Piromallo <mailto:claudia.piromallo@ingv.it>`_
 	- Co-chair: `Pasquale De Gori <pasquale.degori@ingv.it>`_ & `Clement Esteve <clement.esteve@univie.ac.at>`_.
 
 Description of topic and first tasks to be tackled
@@ -82,8 +82,8 @@ This task could be addressed in cooperation with other CRGs (surface waves, wave
 
 CRG 'Modeling of seismic wave propagation and full waveform inversion'
 -------------------------------------------------
-	- Chair: `H. Keers <mailto:Henk.Keers@uib.no>`_.
-	- Co-chair: `S. Chevrot <mailto:sebastien.chevrot@get.omp.eu>`_.
+	- Chair: `Henk Keers <mailto:Henk.Keers@uib.no>`_.
+	- Co-chair: `Sebastien Chevrot <mailto:sebastien.chevrot@get.omp.eu>`_.
 	
 Description of topic and first tasks to be tackled
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -92,7 +92,7 @@ AdriaArray offers the unique opportunity to measure wavefields at regional scale
 CRG 'Receiver functions'
 ---------------------------
 	- Chairs: `Daniel Kalmar <mailto:kalmar.daniel@epss.hun-ren.hu>`_.
-	- Co-chair: `S. Rondenay <mailto:rondenay@uib.no>`_ & `J. Stipčević <mailto:jstipcevic.geof@pmf.hr>`_.
+	- Co-chair: `Stéphane Rondenay <mailto:rondenay@uib.no>`_ & `Josip Stipčević <mailto:jstipcevic.geof@pmf.hr>`_.
 
 Description of topic and first tasks to be tackled
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -102,7 +102,7 @@ This CRG will provide support to AdriaArray members who work on receiver functio
 CRG 'Surface wave and ambient noise tomography'
 ---------------------------------------
 	- Chair: `Irene Molinari <mailto:irene.molinari@ingv.it>`_.
-	- Co-chair: `A. Obermann <mailto:anne.obermann@sed.ethz.ch>`_,`L. Petrescu <mailto:laura.petrescu90@gmail.com>`_.
+	- Co-chair: `Anne Obermann <mailto:anne.obermann@sed.ethz.ch>`_, `Laura Petrescu <mailto:laura.petrescu90@gmail.com>`_.
 	
 Description of topic and first tasks to be tackled
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -145,7 +145,7 @@ In addition, characteristics of the near-surface structure beneath the stations 
 
 CRG 'Shear-wave splitting and anisotropy'
 ---------------------------------------
-	- Chair: `S. Pondrelli <mailto:silvia.pondrelli@ingv.it>`_.
+	- Chair: `Silvia Pondrelli <mailto:silvia.pondrelli@ingv.it>`_.
 	- Co-chair: `Ayoub Kaviani <Kaviani@geophysik.uni-frankfurt.de>`_.
 	
 Description of topic and first tasks to be tackled
@@ -156,7 +156,7 @@ After we collected all available seismic anisotropy measurements for the study r
 
 CRG 'Linking geophysical observations and geodynamics'
 -------------------------------------------------------
-	- Chair: `T. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.
+	- Chair: `Thomas Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.
 	
 Description of topic
 ^^^^^^^^^^^^^^^^^^^^^^^^^

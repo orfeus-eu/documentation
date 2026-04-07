@@ -7,7 +7,7 @@ AdriaArray - MoC
 AdriaArray (AdA) officially started on 19 May 2022 with the establishment of the Steering Committee for AdriaArray Seismology Group, coordinated by Prof. Thomas Meier. The Committee approved the `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ to be signed by the AdA members.
 
 
-AdriaArray - Members
+AdriaArray - Member Institutions
 -----------------------------
 .. list-table:: 
    :widths: 10 10 10
@@ -874,11 +874,6 @@ AdriaArray - Participants
      - Malta	
      - Department of Geosciences, University of Malta    
      
-AdriaArray - Field team
------------------------------
-The institute representative will be contacted shortly to provide a list of people who were involved in the field deployments and the installation of the seismic network.
-This section will be updated accordingly.
-
 AdriaArray - application
 -----------------------------
 The `Memorandum of Collaboration (MoC) <https://polybox.ethz.ch/index.php/s/zOhxUOEPwnyA2mp>`_ lists the requirements to become an AdriaArray member.

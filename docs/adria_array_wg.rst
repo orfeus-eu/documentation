@@ -3,32 +3,32 @@ AdriaArray - Working Groups
 
 Working Group 1 'Station siting'
 ---------------------------------
-	- Initial contact: `P. Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_.
+	- Initial contact: `Petr Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_.
 
 Working Group 2 'Technical advice'
 ------------------------------------
 	- Station installation, data flow & telemetry.
-	- Initial contact: `C. Neagoe <mailto:cristian.neagoe@infp.ro>`_ &  `Ch. Evangelidis <mailto:cevan@noa.gr>`_.
+	- Initial contact: `Christian Neagoe <mailto:cristian.neagoe@infp.ro>`_ &  `Ch. Evangelidis <mailto:cevan@noa.gr>`_.
 
 Working Group 3 'Data QC'
 -----------------------------
-	- Initial contact: `P. Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_ & `Th. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.	
+	- Initial contact: `Petr Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_ & `Th. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.	
 
 Working Group 4 'Communication and Outreach'
 ---------------------------------------------
-	- Webpage: `G. Georgieva <mailto:ggeorgieva@phys.uni-sofia.bg>`_, `M. Mustać <mailto:marija.mustac@gfz.hr>`_, `C. Cauzzi <mailto:carlo.cauzzi@sed.ethz.ch>`_.
-	- Token system: `G. Rajh <mailto:gregor.rajh@gov.si>`_.
-	- List of members and participants: `G. Rajh <mailto:gregor.rajh@gov.si>`_ & `P. Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_.
-	- Webinars: `R Kramer <mailto:richard.kramer@univie.ac.at>`_.
+	- Webpage: `Gergana Georgieva <mailto:ggeorgieva@phys.uni-sofia.bg>`_, `Carlo Cauzzi <mailto:carlo.cauzzi@sed.ethz.ch>`_.
+	- Token system: `Gregor Rajh <mailto:gregor.rajh@gov.si>`_.
+	- List of members and participants: `Gregor Rajh <mailto:gregor.rajh@gov.si>`_ & `Petr Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_.
+	- Webinars: `Richard Kramer <mailto:richard.kramer@univie.ac.at>`_.
 
 .. _Working Group 5:
 Working Group 5 'Scientific Co-operation'
 ------------------------------------------
-	- Initial contact: `T. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.
+	- Initial contact: `Thomas Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.
 
 Working Group 6 'Early Career Scientists'
 -----------------------------------------
-	- Initial contact: `R. Kramer <mailto:richard.kramer@univie.ac.at>`_ & `J. Confal <mailto:judithconfal@gmail.com>`_.
+	- Initial contact: `Richard Kramer <mailto:richard.kramer@univie.ac.at>`_ & `Judith Confal <mailto:judithconfal@gmail.com>`_.
 
 Technical documents
 -----------------------------
