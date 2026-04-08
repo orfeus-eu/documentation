@@ -28,11 +28,8 @@ Working Group 5 'Scientific Co-operation'
 
 Working Group 6 'Early Career Scientists'
 -----------------------------------------
-<<<<<<< HEAD
-	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and Tanishka Soni.
-=======
 	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and `Tanishka Soni <mailto:ndsoni@cyf-kr.edu.pl>`_.
->>>>>>> 42ce4a3 (AdA ECS contacts update)
+
 
 Technical documents
 -----------------------------
