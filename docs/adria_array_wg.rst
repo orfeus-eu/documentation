@@ -28,7 +28,7 @@ Working Group 5 'Scientific Co-operation'
 
 Working Group 6 'Early Career Scientists'
 -----------------------------------------
-	- Initial contact: `Richard Kramer <mailto:richard.kramer@univie.ac.at>`_ & `Judith Confal <mailto:judithconfal@gmail.com>`_.
+	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and Tanishka Soni.
 
 Technical documents
 -----------------------------
