@@ -30,6 +30,7 @@ Working Group 6 'Early Career Scientists'
 -----------------------------------------
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and Tanishka Soni.
 =======
 	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and `Tanishka Soni <mailto:ndsoni@cyf-kr.edu.pl>`_.
@@ -37,6 +38,10 @@ Working Group 6 'Early Career Scientists'
 =======
 	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and `Tanishka Soni <mailto:ndsoni@cyf-kr.edu.pl>`_.
 >>>>>>> 6a5eb7e (AdA ECS contacts update)
+=======
+	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and `Tanishka Soni <mailto:ndsoni@cyf-kr.edu.pl>`_.
+
+>>>>>>> f58ac10 (AdA ECS contacts update)
 
 Technical documents
 -----------------------------
