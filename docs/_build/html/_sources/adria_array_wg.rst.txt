@@ -8,11 +8,11 @@ Working Group 1 'Station siting'
 Working Group 2 'Technical advice'
 ------------------------------------
 	- Station installation, data flow & telemetry.
-	- Initial contact: `Christian Neagoe <mailto:cristian.neagoe@infp.ro>`_ &  `Ch. Evangelidis <mailto:cevan@noa.gr>`_.
+	- Initial contact: `Christian Neagoe <mailto:cristian.neagoe@infp.ro>`_ &  `Christos Evangelidis <mailto:cevan@noa.gr>`_.
 
 Working Group 3 'Data QC'
 -----------------------------
-	- Initial contact: `Petr Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_ & `Th. Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.	
+	- Initial contact: `Petr Kolínský <mailto:petr.kolinsky@ig.cas.cz>`_ & `Thomas Meier <mailto:thomas.meier@ifg.uni-kiel.de>`_.	
 
 Working Group 4 'Communication and Outreach'
 ---------------------------------------------
@@ -28,7 +28,11 @@ Working Group 5 'Scientific Co-operation'
 
 Working Group 6 'Early Career Scientists'
 -----------------------------------------
+<<<<<<< HEAD
 	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and Tanishka Soni.
+=======
+	- Initial contact: `Felix Eckel <mailto:felix.eckel@ifg.uni-kiel.de>`_ , `Henrique Roisenberg <mailto:henrique.bergerroisenberg@uniroma3.it>`_ and `Tanishka Soni <mailto:ndsoni@cyf-kr.edu.pl>`_.
+>>>>>>> 42ce4a3 (AdA ECS contacts update)
 
 Technical documents
 -----------------------------
