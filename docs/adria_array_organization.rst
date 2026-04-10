@@ -111,7 +111,7 @@ AdriaArray - Member Institutions
    * - Tuğçe Ergün
      - Kandilli Observatory And Earthquake Research Institute
      - Türkiye     
-   * - Ines Ivančić
+   * - Krešimir Kuk
      - Croatian Seismological Survey
      - Croatia     
    * - Renata Lukešová
