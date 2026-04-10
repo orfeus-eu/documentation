@@ -207,7 +207,7 @@ Location of the AdriaArray member institutions:
 .. image:: https://raw.githubusercontent.com/PetrColinSky/AdriaArray/master/AdA/MAPS/15AdAmembers.png
    :width: 600   
      
-AdriaArray - Participants
+Current participants of the AdriaArray Seismology Group
 -----------------------------
 .. list-table:: 
    :widths: 25 25 25
@@ -252,9 +252,6 @@ AdriaArray - Participants
    * - Anica Otilia Placinta
      - Romania
      - National Institute for Earth Physics
-   * - Anila Xhahysa
-     - Albania
-     - Institute of Geosciences, Seismology Department
    * - Anna Serpetsidaki
      - Greece
      - Seismological Laboratory, Department of Geology, University of Patras
@@ -267,12 +264,6 @@ AdriaArray - Participants
    * - Antje Schlömer
      - Germany
      - Ludwig-Maximilians-University Munich (LMU)
-   * - Ardian Minarolli
-     - Albania
-     - Institute of Geosciences
-   * - Ardit Dervishi
-     - Albania
-     - Polytechnic University of Tirana, Institute of Geosciences
    * - Athanasios Lois
      - Greece
      - Laboratory of Seismology, Department of Geology, University of Patras
@@ -351,9 +342,6 @@ AdriaArray - Participants
    * - Cristian Neagoe
      - Romania
      - National Institute for Earth Physics
-   * - Cédric P. Legendre
-     - Czech Republic
-     - Institute of Geophysics of the Czech Academy of Science
    * - Damiano Koxhaj
      - Albania
      - Institute of Geosciences of Albania
@@ -381,9 +369,6 @@ AdriaArray - Participants
    * - Dinko Sindija
      - Croatia
      - Department of Geophysics, University of Zagreb
-   * - Dionald Mucaj
-     - Albania
-     - Institute of Geosciences, Seismology Departament
    * - Doğan Kalafat
      - Türkiye
      - B. U. Kandilli Observatory and Earthquake Research Institute (KOERI)
@@ -441,9 +426,6 @@ AdriaArray - Participants
    * - Georg Rümpker
      - Germany
      - Goethe University Frankfurt
-   * - Gergana Dimitrova Georgieva
-     - Bulgaria
-     - Sofia University "St. Kliment Ohridski", Faculty of Physics
    * - Gian-Maria Bocchini
      - Germany
      - Ruhr University Bochum
@@ -498,9 +480,6 @@ AdriaArray - Participants
    * - Irene Molinari
      - Italy
      - INGV
-   * - Ismail Hoxha
-     - Albania
-     - Department of Seismology, Institute of Geoscienses (IGEO), University Polytechnic of Tirana (UPT)
    * - Iulia Armeanu
      - Romania
      - National Institute for Earth Physics
@@ -654,9 +633,6 @@ AdriaArray - Participants
    * - Martina Čarman
      - Slovenia
      - ARSO (Slovenian Environment Agency)
-   * - Massimo Di Bona
-     - Italy
-     - INGV
    * - Mate Timko
      - Hungary
      - Institute of Earth Physics and Space Science
@@ -666,9 +642,6 @@ AdriaArray - Participants
    * - Mehveş Feyza Akkoyunlu
      - Türkiye
      - KOERI
-   * - Migena Ceyhan
-     - Albania
-     - Institute of Geosciences IGEO
    * - Milan Janjic
      - Republic of Srpska
      - Republic Hydrometeorological Service, Republika Srpska, Bosnia and Herzegovina
@@ -747,9 +720,6 @@ AdriaArray - Participants
    * - Richard Kramer
      - Austria
      - University of Vienna 
-   * - Rrapo Ormeni
-     - Albania
-     - Institute of Geosciences, Polytechnic University of Tirana
    * - Salvatore de Lorenzo
      - Ialy
      - università di Bari "Aldo Moro"
@@ -759,18 +729,12 @@ AdriaArray - Participants
    * - Sergei Lebedev
      - UK
      - University of Cambridge
-   * - Shubhasmita Biswal
-     - Poland
-     - Institute of Geophysics, Polish Academy of Sciences
    * - Silvia Pondrelli
      - Italy
      - INGV Bologna
    * - Simone Salimbeni
      - Italy
      - Istituto Nazionale di Geofisica e Vulcanologia, sezione Bologna
-   * - Sofia-Katerina Kufner
-     - Germany
-     - Karlsruhe Institute of Technology
    * - Somayeh Abdollahi
      - Poland
      - Institute of Geophysics Polish Academy of Sciences
@@ -872,7 +836,52 @@ AdriaArray - Participants
      - ISTerre / Université Grenoble Alpes
    * - Sebastiano D'Amico
      - Malta	
-     - Department of Geosciences, University of Malta    
+     - Department of Geosciences, University of Malta  
+     
+     
+Former participants of the AdriaArray Seismology Group
+-----------------------------
+.. list-table:: 
+   :widths: 25 25 25
+   :header-rows: 1
+
+   * - Shubhasmita Biswal
+     - Poland
+     - Institute of Geophysics, Polish Academy of Sciences
+   * - Cédric P. Legendre
+     - Czech Republic
+     - Institute of Geophysics of the Czech Academy of Science
+   * - Massimo Di Bona
+     - Italy
+     - INGV
+   * - Sofia-Katerina Kufner
+     - Germany
+     - Karlsruhe Institute of Technology
+   * - Ardian Minarolli
+     - Albania
+     - Institute of Geosciences
+   * - Migena Ceyhan
+     - Albania
+     - Institute of Geosciences IGEO
+   * - Anila Xhahysa
+     - Albania
+     - Institute of Geosciences, Seismology Department
+   * - Dionald Mucaj
+     - Albania
+     - Institute of Geosciences, Seismology Departament
+   * - Ardit Dervishi
+     - Albania
+     - Polytechnic University of Tirana, Institute of Geosciences
+   * - Ismail Hoxha
+     - Albania
+     - Department of Seismology, Institute of Geoscienses (IGEO), University Polytechnic of Tirana (UPT)
+   * - Rrapo Ormeni
+     - Albania
+     - Institute of Geosciences, Polytechnic University of Tirana
+
+
+
+  
      
 AdriaArray - application
 -----------------------------
