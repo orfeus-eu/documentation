@@ -429,6 +429,9 @@ Current participants of the AdriaArray Seismology Group
    * - Gian-Maria Bocchini
      - Germany
      - Ruhr University Bochum
+   * - Giovanni Diaferia
+     - Italy
+     - INGV - Bologna   
    * - Giuliana Rossi
      - Italy
      - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS
