@@ -13,7 +13,7 @@ The ORFEUS GEP is available here: https://polybox.ethz.ch/index.php/s/7nEtHoLiz7
 
 * Prof. A. Kiratzi (Chair; Greece, EPPO)
 * Dr. N. Horn (Austria, ZAMG / GeoSphere)
-* Dr. T. Lecocq (Belgium, ORB)
+* Dr. T. Lecocq (Belgium, ROB/BELSPO)
 * Prof. A. Mordret (Denmark, GEUS)
 * Prof. G. Hillers (Finland, Uni. Helsinki)
 * Dr. C. Satriano (France, CNRS-IPGP)
