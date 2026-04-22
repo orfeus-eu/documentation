@@ -561,6 +561,9 @@ Current participants of the AdriaArray Seismology Group
    * - Katerina Drogreshka
      - North Macedonia
      - Seismological observatory, Skopje
+   * - Konstantinos Gkogkas
+     - Poland
+     - Institute of Geophysics, Polish Academy of Sciences
    * - Klajdi Qoshi
      - Albania
      - Polytechnic University of Tirana (UPT)
@@ -660,6 +663,9 @@ Current participants of the AdriaArray Seismology Group
    * - Monika Andreeska
      - North Macedonia
      - Seismological Observatory at Faculty of Natural sciences and mathematics - Skopje
+   * - Monika Bociarska
+     - Poland
+     - Institute of Geophysics, Polish Academy of Sciences
    * - Musavver Didem Cambaz
      - Türkiye
      - KOERI
@@ -738,9 +744,6 @@ Current participants of the AdriaArray Seismology Group
    * - Simone Salimbeni
      - Italy
      - Istituto Nazionale di Geofisica e Vulcanologia, sezione Bologna
-   * - Somayeh Abdollahi
-     - Poland
-     - Institute of Geophysics Polish Academy of Sciences
    * - Spyridon Christos Liakopoulos
      - Hellas
      - National Observatory of Athens
@@ -754,7 +757,7 @@ Current participants of the AdriaArray Seismology Group
      - Italy
      - INGV
    * - Stojan Babic
-     - republic of Srpska, Bosnia and Hercegovina
+     - Republic of Srpska, Bosnia and Hercegovina
      - Republic Hydrometeorological Service, Republika Srpska, Bosnia and Herzegovina
    * - Sven Egdorf
      - Germany
@@ -848,6 +851,9 @@ Former participants of the AdriaArray Seismology Group
    :widths: 25 25 25
    :header-rows: 1
 
+   * - Name
+     - Country
+     - Institute
    * - Shubhasmita Biswal
      - Poland
      - Institute of Geophysics, Polish Academy of Sciences
@@ -881,6 +887,9 @@ Former participants of the AdriaArray Seismology Group
    * - Rrapo Ormeni
      - Albania
      - Institute of Geosciences, Polytechnic University of Tirana
+   * - Somayeh Abdollahi
+     - Poland
+     - Institute of Geophysics Polish Academy of Sciences
 
 
 
