@@ -88,7 +88,7 @@ AdriaArray - Member Institutions
    * -
      - - Institute of Geophysics, Polish Academy of Sciences
        - Institute of Geophysics, University of Warsaw
-       - Institute of Earth Sciences, University of Silesia
+       - Institute of Earth Sciences, University of Silesia in Katowice
      - 
    * - Dragana Chernih Anastasovska
      - Seismological Observatory, Faculty of Natural Sciences and Mathematics, University “Ss. Cyril and Methodius”
