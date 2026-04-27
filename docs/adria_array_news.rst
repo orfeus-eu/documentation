@@ -7,7 +7,7 @@ Important
 Upcoming events
 ---------------
  
-- AdriaArray splinter meeting `SPM59 <https://meetingorganizer.copernicus.org/EGU25/session/54505>`_ will be organized during EGU GA26, Vienna, Austria. Thu, 07 May, 19:00–20:00 CEST, Room 2.83,
+- AdriaArray splinter meeting `SPM59 <https://webforms.copernicus.org/EGU26/splinter-meetings>`_ will be organized during EGU GA26, Vienna, Austria. Thu, 07 May, 19:00–20:00 CEST, Room 2.83.
 
 	
 Old news
