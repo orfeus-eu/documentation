@@ -117,7 +117,7 @@ AdriaArray - Member Institutions
    * - Renata Lukešová
      - Institute of Rock Structure and Mechanics of the Czech Academy of Sciences
      - Czech Republic     
-   * - Wolfgang Friederich
+   * - Rebecca Harrington
      - Institut für Geologie, Mineralogie und Geophysik, Ruhr University Bochum
      - Germany     
    * - Snježana Cvijić Amulić
@@ -216,6 +216,9 @@ Current participants of the AdriaArray Seismology Group
    * - Name
      - Country
      - Institute
+   * - Angela Saraò
+     - Italy
+     - Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS     
    * - Alina Coman
      - Romania
      - National Institute for Earth Physics
@@ -417,6 +420,9 @@ Current participants of the AdriaArray Seismology Group
    * - Frederik Tilmann
      - Germany
      - Deutsches GeoForschungsZentrum
+   * - Gergana Georgieva
+     - Department of Meteorology and Geophysics, Faculty of Physics, Sofia University  
+     - Bulgaria
    * - George Kaviris
      - Ελλάδα
      - Seismological Laboratory, National and Kapodistrian University of Athens
@@ -696,6 +702,12 @@ Current participants of the AdriaArray Seismology Group
    * - Paraskevopoulos Paris
      - Greece
      - Patras Seismological lab, University of Patras
+   * - Paola Baccheschi
+     - Italy
+     - INGV 
+   * - Pasquale De Gori
+     - Italy
+     - INGV 
    * - Pavel Zacherle
      - Czech Republic
      - IPE MU Brno
@@ -720,6 +732,9 @@ Current participants of the AdriaArray Seismology Group
    * - Raluca Dinescu
      - Romania
      - National Institute for Earth Physics
+   * - Rebecca Harrington
+     - Deutschland
+     - Ruhr University Bochum
    * - Renata Lukešová
      - Czech Republic
      - The Institute of Rock Structure and Mechanics of the Czech Academy of Sciences
@@ -816,9 +831,6 @@ Current participants of the AdriaArray Seismology Group
    * - Wojciech Czuba
      - Poland
      - Institute of Geophysics, PAS
-   * - Wolfgang Friederich
-     - Deutschland
-     - Ruhr University Bochum
    * - Xiaohui Yuan
      - Germany
      - GFZ Potsdam
@@ -854,6 +866,9 @@ Former participants of the AdriaArray Seismology Group
    * - Name
      - Country
      - Institute
+   * - Wolfgang Friederich
+     - Institut für Geologie, Mineralogie und Geophysik, Ruhr University Bochum
+     - Germany 
    * - Shubhasmita Biswal
      - Poland
      - Institute of Geophysics, Polish Academy of Sciences
