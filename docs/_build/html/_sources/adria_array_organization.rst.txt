@@ -642,6 +642,9 @@ Current participants of the AdriaArray Seismology Group
    * - Mark van der Meijde
      - The Netherlands
      - University of Twente - ITC - Dept of Applied Earth Sciences
+   * - Marco Romanelli
+     - Italy
+     - INGV - Istituto Nazionale di Geofisica e Vulcanologia 
    * - Martina Čarman
      - Slovenia
      - ARSO (Slovenian Environment Agency)
