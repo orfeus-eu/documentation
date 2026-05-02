@@ -483,6 +483,9 @@ Current participants of the AdriaArray Seismology Group
    * - Irena Dushi
      - Albania
      - Department of Seismology, Institute of Geosciences, Polytechnic University of Tirana
+   * - Irena Ymeti
+     - Albania
+     - Polytechnic University of Tirana, Institute of Geosciences, Department of Seismology
    * - Irene Bianchi
      - Italy
      - INGV - Rome
