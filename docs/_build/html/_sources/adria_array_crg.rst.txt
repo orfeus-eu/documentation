@@ -146,7 +146,6 @@ In addition, characteristics of the near-surface structure beneath the stations 
 CRG 'Shear-wave splitting and anisotropy'
 ---------------------------------------
 	- Chair: `Silvia Pondrelli <mailto:silvia.pondrelli@ingv.it>`_.
-	- Co-chair: `Ayoub Kaviani <Kaviani@geophysik.uni-frankfurt.de>`_.
 	
 Description of topic and first tasks to be tackled
 ^^^^^^^^^^^^^^^^^^^^^^^^^

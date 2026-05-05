@@ -9,6 +9,9 @@ Relevant earthquakes in the region
 Publications
 -------------------------------------
 	- https://www.annalsofgeophysics.eu/index.php/annals/issue/view/627
+Moratto L., Abdi F., Saraò A. (2026). Seismic source parameters analysis in Southeastern Alps and associated tectonic implications. Tectonophysics, 923, 231069. https://doi.org/10.1016/j.tecto.2026.231069
+
+Papageorgiou, A.; Ktenidou, O.-J.; Fragouli, K.-E.; Pikoulis, V.-E.; Liakopoulos, S.; Halaris, F. A Proposed Workflow to Characterise Site Conditions and Reference Potential for Greek AdriaArray Stations. Ann. Geophys. 2025, 68 (5), DM576. https://doi.org/10.4401/ag-9350.  
 
 AdriaArray Workshops
 --------------------
