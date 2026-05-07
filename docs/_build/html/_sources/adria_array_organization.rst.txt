@@ -267,6 +267,9 @@ Current participants of the AdriaArray Seismology Group
    * - Antje Schlömer
      - Germany
      - Ludwig-Maximilians-University Munich (LMU)
+   * - Antonia Papageorgiou
+     - Greece
+     - National Observatory of Athens 
    * - Athanasios Lois
      - Greece
      - Laboratory of Seismology, Department of Geology, University of Patras
@@ -837,6 +840,9 @@ Current participants of the AdriaArray Seismology Group
    * - Wojciech Czuba
      - Poland
      - Institute of Geophysics, PAS
+   * - Wolfgang Friederich
+     - Germany 
+     - Institut für Geologie, Mineralogie und Geophysik, Ruhr University Bochum
    * - Xiaohui Yuan
      - Germany
      - GFZ Potsdam
@@ -872,9 +878,6 @@ Former participants of the AdriaArray Seismology Group
    * - Name
      - Country
      - Institute
-   * - Wolfgang Friederich
-     - Institut für Geologie, Mineralogie und Geophysik, Ruhr University Bochum
-     - Germany 
    * - Shubhasmita Biswal
      - Poland
      - Institute of Geophysics, Polish Academy of Sciences
