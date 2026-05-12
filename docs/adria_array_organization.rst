@@ -570,6 +570,9 @@ Current participants of the AdriaArray Seismology Group
    * - Kasper David Fischer
      - Germany
      - Ruhr University Bochum
+   * - Katarina Zailac
+     - Croatia
+     - Department of Geophysics, University of Zagreb
    * - Katerina Drogreshka
      - North Macedonia
      - Seismological observatory, Skopje
