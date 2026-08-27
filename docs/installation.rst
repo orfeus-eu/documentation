@@ -1,7 +1,7 @@
-EIDA System configuration
-=============================
+EIDA System configuration (using SeisComP3 - partially outdated) 
+===============================================================
 
-Written by Jan Michalek
+Written by Jan Michalek (2019) 
 
 .. General procedure
 
