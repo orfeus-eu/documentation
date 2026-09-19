@@ -44,7 +44,6 @@ BoD-nominated
 * Dr. A. Strollo (President, Germany, GFZ)
 * Prof. K. Sigloch (France, CNRS Géoazur)
 * Dr. S. D’Amico (Malta, UM)
-* Dr. C. Evangelidis (Greece, NOA)
 
 Ex Officio
 
@@ -66,7 +65,7 @@ Ex Officio
 * Dr. P. Danecek (Chair, Italy, INGV)
 * Dr. J. Quinteros (Co-Chair, Germany, GFZ)
 * Dr. C. Evangelidis (Greece, NOA)
-* Dr. D. Cambaz (Co-Chair, KOERI)
+* T. Ergün (Türkiye, KOERI)
 * Dr. H. Pedersen (France, RESIF)
 * Dr. K. Stammler (Germany, BGR)
 * R. Sleeman (Netherlands, ODC - KNMI)
