@@ -92,7 +92,7 @@ Ex Officio
 * Dr. A. Marmureanu, A. Predoiu (Romania, NIEP-RO)
 * A. Jerše Sharma (Slovenia, ARSO-SL)
 * Dr. J. Clinton (Switzerland, SED@ETHZ-CH)
-* Prof. E. Çaktı / Pronf. N. Ozel (Türkiye, KOERI-TU)
+* Prof. E. Çaktı / Prof. N. Ozel (Türkiye, KOERI-TU)
 * Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer / M. Kaplan  (Türkiye, AFAD)
 
 
