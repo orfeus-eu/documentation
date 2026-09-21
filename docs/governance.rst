@@ -17,7 +17,7 @@ The ORFEUS GEP is available here: https://polybox.ethz.ch/index.php/s/7nEtHoLiz7
 * Prof. A. Mordret (Denmark, GEUS)
 * Prof. G. Hillers (Finland, Uni. Helsinki)
 * Dr. C. Satriano (France, CNRS-IPGP)
-* Prof. F. Tilmann (Co-Chair, Germany, GFZ)
+* Prof. F. Tilmann (Vice-Chair, Germany, GFZ)
 * Dr. A. Michelini (Italy, INGV)
 * Dr. E. Ruigrok (Netherlands, KNMI)
 * Prof. L. Ottemöller (Norway, NNSN)
@@ -79,19 +79,21 @@ Ex Officio
 * Prof. Z. Roumelioti (Co-Chair, Greece, UPAT)
 * Dr. C. Mascandola (Co-Chair, Italy, INGV-IV & ESM), L. Luzi & Dr. G. Lanzano - ESM
 * R. Sleeman (Netherlands, ODC-KNMI & RRSM)
-* Dr. L. Faenza & Dr. C. Cauzzi - Dr. J. Clinton  (Peak-Motions and ShakeMaps)
+* Dr. L. Faenza & Dr. C. Cauzzi (ShakeMap-EU)
+* Dr. K. Vanneste (Belgium, ROB-BL)
 * Dr. F. Hollender (France, CEA) & Dr. E Maufroy (France, RESIF-RA)
-* Dr. G. Weatherill (Germany, GFZ-GEOFON)
+* Dr. D. Bindi (Germany, GFZ-GEOFON)
 * Dr. O-J Ktenidou & Dr. N. Melis (Greece, NOA)
 * Dr. E. Riga & Prof. K. Pitilakis (Greece, AUTH)
-* Dr. N. Theodoulidis (Greece, ITSAK)
+* Dr. N. Theodoulidis, Dr. K. Makra (Greece, ITSAK)
 * Prof. R. Rupakhety (Iceland. EERC)
 * Dr. M. Shahvar (Iran, BHRC)
-* Dr. A. Marmureanu (Romania, NIEP-RO)
+* J. Mihaljevic (Montenegro, IHMS-ME)
+* Dr. A. Marmureanu, A. Predoiu (Romania, NIEP-RO)
 * A. Jerše Sharma (Slovenia, ARSO-SL)
 * Dr. J. Clinton (Switzerland, SED@ETHZ-CH)
-* Prof. E. Çaktı / Dr. D. Kalafat (Türkiye, KOERI-TU)
-* Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer (Türkiye, AFAD)
+* Prof. E. Çaktı / Pronf. N. Ozel (Türkiye, KOERI-TU)
+* Dr. E. Tepeuğur / Dr. D. Senturk / Dr. T.  Kilic / Dr. S. Sezer / M. Kaplan  (Türkiye, AFAD)
 
 
 **Members of the MP SMC Management Board**
@@ -178,17 +180,18 @@ Ex Officio
 
 **Members of the Infrastructure Development Group (IDG) – SM Component**
 
-* Dr. C. Felicetta, E. Russo – INGV
-* P. Kästli - SED-ETHZ
+* Dr. C. Felicetta, E. Russo, Dr. F. Di Michele – INGV
+* P. Kästli, Dr. D. Jozinovic - SED-ETHZ
 * D. Senturk and T. Kiliç – AFAD
 * Dr. D. Cambaz, F. Turhan, N. Çağlar, F. Malcioğlu, H. Suleyman - KOERI
 * A. Predoiu - NIEP
-* Dr. G. Weatherill - GFZ
-* Dr. N. Melis, T. Papageorgiou, K. Frangouli, F. Halaris - NOA
-* K. Konstantinidou – ITSAK
+* Dr. D. Bindi - GFZ
+* Dr. N. Melis, T. Papageorgiou, P. Lantzourakis, K. Frangouli, F. Halaris - NOA
+* K. Konstantinidou, I. Grendas, G. Papadopoulos – ITSAK
 * Dr. V. Perron - CEA
 * P. Zupancic – ARSO
 * Prof. E. Sokos – UPAT
+* E. Kalac - IHMS
 
 **ORFEUS representatives in the EPOS Seismology Consortium Assembly**
 
