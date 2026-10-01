@@ -72,6 +72,7 @@ Our website is: http://www.orfeus-eu.org.
    data_integration
    guidelines
    das_guidelines
+   mpools
    orfeus_geoi_2024
    eposs_geoi_2025
    orfeus_geoi_ystc_2026
