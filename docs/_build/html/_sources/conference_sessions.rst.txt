@@ -3,6 +3,16 @@ Conference Sessions
 
 Promoted or organised by ORFEUS (last five years).
 
+At ESC 2026
+___________
+
+* Sessions 09 and 11: https://www.esc2026.org/sessions
+
+At EGU 2026
+___________
+
+* https://meetingorganizer.copernicus.org/EGU26/session/55675
+
 At EGU 2025
 ___________
 
