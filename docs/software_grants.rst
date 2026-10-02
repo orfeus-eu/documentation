@@ -33,13 +33,18 @@ The recipients of the *2023* ORFEUS Software Development Grants are as follows:
 	* Webinar: https://polybox.ethz.ch/index.php/s/6PgbfTHCWFj1pHw
 
 
-Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
+Call 2024/25: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
+The recipients of the *2024/25* ORFEUS Software Development Grants are as follows:
 
 * **Onil Goubier (IPGP)** - project “*obsinfo v1.0*”
+	* Webinar: https://polybox.ethz.ch/index.php/s/iEoTPDca6TpX9jM
 
 Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
+The recipients of the *2025/26* ORFEUS Software Development Grants are as follows:
 
 * **INGV (di Michele)** - project "*AI-based tool for detecting and restoring clipped waveforms*" 
+	* Talk at annual workshop 2026: https://polybox.ethz.ch/index.php/s/Raosx7DYp4qBH2P
 
 Call 2026/27: https://polybox.ethz.ch/index.php/s/mSGoMH4DakdHWsi
+No grants awarded.
 

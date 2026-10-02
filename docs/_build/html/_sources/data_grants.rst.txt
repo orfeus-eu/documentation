@@ -21,3 +21,5 @@ Call 2023/24: https://polybox.ethz.ch/index.php/s/tvMWvPDUOguMrRA
 
 Call 2025/26: https://polybox.ethz.ch/index.php/s/XJdJvLC0ycM5YEj
 
+* **SEIS-UK** - project "*msp2central: a tool for transforming equipment schedules from the format used by individual Mobile Seismic Pools (MSPs) into a JSON format, for integration into a central database.*"
+
