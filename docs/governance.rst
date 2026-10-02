@@ -149,7 +149,6 @@ Ex Officio
 * Serbian Seismological Survey
 * Earth Science Institute; Slovak Academy of Sciences
 * Slovenian Environmental Agency ARSO
-* Spanish National Geographical Institute
 * Cartographic and Geological Institute of Catalunya
 * Geo3Bcn-CSIC
 * University of Barcelona; Faculty of Geology; Department of Geodynamics and Geophysics
