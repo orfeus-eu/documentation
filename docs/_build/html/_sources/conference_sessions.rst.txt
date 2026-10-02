@@ -1,7 +1,7 @@
 Conference Sessions
 ===================
 
-Promoted or organised by ORFEUS (last five years).
+Promoted or organised by ORFEUS (since 2020).
 
 At ESC 2026
 ___________
